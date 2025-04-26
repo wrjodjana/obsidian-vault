@@ -301,5 +301,12 @@ class EvenNumbers:
 		return self
 
 	def __next__(self):
-		
+		x = self.n
+		self.n += 2
+		return x
 ```
+
+**Notes:**
+- `__iter__()`: starts from the first even number, 2
+- `__next__()`: increments by 2 to get the next even number
+
