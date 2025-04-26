@@ -288,4 +288,5 @@ print(next(it)) # L
 
 **Definition:**
 1. Define the class: start by defining the class that will act as the iterator
-2. 
+2. Initialize attributes: initialize any attributes used in the iteration process in `__init__()`
+3. Implement `__ite
