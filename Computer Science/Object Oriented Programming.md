@@ -55,7 +55,7 @@ print(dog1.species) # prints "Canine"
 
 #### Single Inheritance
 
-**Definition:** A child class inherits from a single parent class. Labrador inherits Dog's attributes and methods.
+**Definition:** A child class inherits from a single parent class. `Labrador` inherits `Dog`'s attributes and methods.
 
 **Example:**
 ```Python
@@ -76,7 +76,7 @@ lab.sound() # prints Labrador woofs
 
 #### Multilevel Inheritance
 
-**Definition:** A child class inherits from a parent class, which inherits from another class. GuideDog extends Labrador, inheriting both Dog and Labrador functionalities
+**Definition:** A child class inherits from a parent class, which inherits from another class. `GuideDog` extends `Labrador`, inheriting both `Dog` and `Labrador` functionalities
 
 **Example:**
 ```Python
@@ -92,7 +92,7 @@ guide_dog.guide() # prints Max guides the way!
 
 #### Multiple Inheritance
 
-**Definition:** A child class inherits from more than one parent class. GoldenRetriever inherits from both Dog and Friendly.
+**Definition:** A child class inherits from more than one parent class. `GoldenRetriever` inherits from both `Dog` and `Friendly`.
 
 **Example:**
 ```Python
@@ -190,4 +190,9 @@ print(dog.name) # prints "Buddy"
 #### Protected Members
 
 **Definition:** Used with a single `_`, such as `_breed`. Access is discouraged by allowed in subclasses
+
+**Example:**
+```Python
+print(dog._breed) # prints "Labrador"
+```
 
