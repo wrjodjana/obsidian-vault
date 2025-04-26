@@ -51,6 +51,8 @@ print(dog1.species) # prints "Canine"
 
 ### Inheritance
 
-**Definition:** allows a child class to acquire the properties and methods of a parent class 
+**Definition:** allows a child class to acquire the properties and methods of a parent class, supporting hierarchical classification and promotes code reusing
+
+
 
 
