@@ -102,5 +102,10 @@ class Friendly:
 
 class GoldenRetriever(Dog, Friendly):
 	def sound(self):
-		
+		print("Golden Retriever Barks!")
+
+retriever = GoldenRetriever("Charlie")
+retriever.display_name() # prints Dog's name: Charlie
+retriever.greet() # prints Friendly
+retriever.sound() # prints Golden Retriever Barks!
 ```
