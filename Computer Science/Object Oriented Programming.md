@@ -247,12 +247,19 @@ class Dog(ABC):
 **Definition:** abstract class contains both abstract and concrete methods
 
 **Example:**
-```Python
-class Labrador(Dog):
-	def sound(self):
-		print("Labrador woof!")
 
-class Beagle(Dog):
+```Python
+from abc import ABC, abstractmethod
+
+class Dog(ABC):
+	def __init__(self, name):
+		self.name = name
+
+	@abstractmethod
 	def sound(self):
-		print("Beagle bark!")
+		pass
+
+	def display_name(self):
+		print(f"Dog's name: {self.name}")
 ```
+
