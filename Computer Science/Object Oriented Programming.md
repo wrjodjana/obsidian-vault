@@ -17,4 +17,6 @@ class Dog:
 
 **Explanation:**
 - `class Dog`: defines a class named dog
-- 
+- `species:` class attribute
+- `__init__ method`: initializes the name and age attributes when a new object is created
+
