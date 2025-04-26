@@ -289,4 +289,5 @@ print(next(it)) # L
 **Definition:**
 1. Define the class: start by defining the class that will act as the iterator
 2. Initialize attributes: initialize any attributes used in the iteration process in `__init__()`
-3. Implement `__iter__()`: 
+3. Implement `__iter__()`: returns the iterator object itself, usually returning self
+4. Implement `__next_-()`: provides the next item in the sequence
