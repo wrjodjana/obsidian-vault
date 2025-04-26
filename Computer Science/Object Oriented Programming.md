@@ -92,4 +92,15 @@ guide_dog.guide() # prints Max guides the way!
 
 #### Multiple Inheritance
 
-**Definition:** 
+**Definition:** A child class inherits from more than one parent class. GoldenRetriever inherits from both Dog and Friendly.
+
+**Example:**
+```Python
+class Friendly:
+	def greet(self):
+		print("Friendly")
+
+class GoldenRetriever(Dog, Friendly):
+	def sound(self):
+		
+```
