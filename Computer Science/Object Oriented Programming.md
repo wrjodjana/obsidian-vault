@@ -76,6 +76,13 @@ lab.sound() # prints Labrador woofs
 
 #### Multilevel Inheritance
 
-**Definition:** 
+**Definition:** A child class inherits from a parent class, which inherits from another class. GuideDog extends Labrador, inheriting both Dog and Labrador functionalities
+
+**Example:**
+```Python
+class GuideDog(Labrador):
+	def guide(self):
+		print(f"{self.})
+```
 
 
