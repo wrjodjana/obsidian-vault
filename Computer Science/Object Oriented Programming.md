@@ -212,9 +212,15 @@ class Dog:
 		else:
 			print("Invalid age!")
 
-print(dog.)
+print(dog.get_age()) # prints 3
+dog.set_age(5) # age = 5
 ```
 
 ### Abstraction
 
-**Definition:** 
+**Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it"
+
+**Example:**
+```Python
+
+```
