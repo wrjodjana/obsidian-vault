@@ -141,4 +141,14 @@ for dog in dogs:
 
 #### Compile-time Polymorphism (Method overloading)
 
-**Definition:** determined during the compilation of the program. Allows methods or operators with the same name to behave differently based on their input parameters
+**Definition:** determined during the compilation of the program. Allows methods or operators with the same name to behave differently based on their input parameters.
+
+**Example:**
+```Python
+class Calculator:
+	def add(self, a, b=0, c=0):
+		return a + b + c
+
+calc = Calculator()
+print(calc.add(5, 10)) # prints 
+```
