@@ -63,17 +63,19 @@ class Dog:
 	def __init__(self, name):
 		self.name = name
 	def display_name(self):
-		print(f"Dog's name = {self.name}")
+		print(f"Dog's name: {self.name}")
 
 class Labrador(Dog):
 	def sound(self):
 		print("Labrador woofs")
 
 lab = Labrador("Buddy")
-lab.display_name() # prints Dog's name 
+lab.display_name() # prints Dog's name: Buddy
+lab.sound() # prints Labrador woofs
 ```
 
+#### Multilevel Inheritance
 
-
+**Definition:** 
 
 
