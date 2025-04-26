@@ -140,7 +140,7 @@ for dog in dogs:
 ```
 
 **Notes:**
-- Using method overriding in the Dog class and its subclasses (Labrador and Beagle)
+- Using method overriding in the `Dog` class and its subclasses (`Labrador` and `Beagle`)
 - Correct sound method is invoked at runtime based on the actual type of the object in the list
 #### Compile-time Polymorphism (Method overloading)
 
