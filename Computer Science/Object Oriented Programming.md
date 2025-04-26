@@ -220,7 +220,9 @@ dog.set_age(5) # age = 5
 
 **Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it"
 
-**Example:**
+
+#### Full Abstraction
+
 ```Python
 from abc import ABC, abstractmethod
 
@@ -233,5 +235,6 @@ class Dog(ABC):
 		pass
 
 	def display_name(self):
-		print(f"Dog's name: )
+		print(f"Dog's name: {self.name}")
 ```
+
