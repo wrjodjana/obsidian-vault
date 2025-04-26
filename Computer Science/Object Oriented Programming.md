@@ -276,7 +276,11 @@ class Dog(ABC):
 
 **Example:**
 ```Python
-word = 'HELLO'
+word = 'HEL'
 it = iter(word)
 
+print(next(it)) # H
+print(next(it)) # E
+print(next(it)) # L
 ```
+
