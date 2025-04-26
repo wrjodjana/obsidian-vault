@@ -225,6 +225,7 @@ dog.set_age(5) # age = 5
 
 **Definition:** abstract class contains only abstract methods (like interfaces)
 
+**Example:**
 ```Python
 from abc import ABC, abstractmethod
 
@@ -244,10 +245,13 @@ class Dog(ABC):
 
 **Definition:** abstract class contains both abstract and concrete methods
 
+**Example:**
 ```Python
 class Labrador(Dog):
 	def sound(self):
 		print("Labrador woof!")
 
-class B
+class Beagle(Dog):
+	def sound(self):
+		print("Beagle bark!")
 ```
