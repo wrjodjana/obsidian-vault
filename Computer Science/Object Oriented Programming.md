@@ -35,3 +35,5 @@ print(dog1.species) # prints "Canine"
 - `dog1 = Dog("Buddy", 3)`: creates an object of the Dog class with name as "Buddy" and age 3
 - `dog1.name`: accesses the instance attribute name of the `dog1` object
 - `dog1.species`: accesses the class attribute species of the `dog1` object
+
+**Self Parameter**: reference to the current instance of the class, allowing us to access the attributes and methods of the object
