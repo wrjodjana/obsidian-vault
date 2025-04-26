@@ -68,7 +68,11 @@ class Dog:
 class Labrador(Dog):
 	def sound(self):
 		print("Labrador woofs")
+
+lab = Labrador("Buddy")
+lab.display_name() # prints Dog's name 
 ```
+
 
 
 
