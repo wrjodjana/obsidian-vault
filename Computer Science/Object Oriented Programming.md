@@ -112,4 +112,5 @@ retriever.sound() # prints Golden Retriever Barks!
 
 ### Polymorphism
 
-**Definition:** allows methods to have the 
+**Definition:** allows methods to have the same name but behave differently based on the object's context. Achieved through method overriding or overloading.
+
