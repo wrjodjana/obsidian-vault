@@ -324,3 +324,6 @@ print(next(it)) # 10
 
 #### `StopIteration` Exception
 
+**Definition:** signals the iterator has no more items to return. Once exception is raised, further calls to `next()` on the same iterator will continue raising `StopIteration`.
+
+**Example:**
