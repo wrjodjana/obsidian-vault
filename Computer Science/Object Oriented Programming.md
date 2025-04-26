@@ -20,3 +20,8 @@ class Dog:
 - `species:` class attribute
 - `__init__ method`: initializes the name and age attributes when a new object is created
 
+### Objects
+
+**Definition:** an object is an instance of a class and represents an implementation of that class and hold its own data
+
+**Example:**
