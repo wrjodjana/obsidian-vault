@@ -141,4 +141,4 @@ for dog in dogs:
 
 #### Compile-time Polymorphism (Method overloading)
 
-**Definition:** determined during the compilation of the program. Allows methods or operators 
+**Definition:** determined during the compilation of the program. Allows methods or operators with the same name to behave differently based on their input parameters
