@@ -85,7 +85,8 @@ class GuideDog(Labrador):
 		print(f"{self.name} guides the way!")
 
 guide_dog = GuideDog("Max")
-guide_dog.display_name # prints Dog's name: Max
+guide_dog.display_name() # prints Dog's name: Max
+guide_dog.guide() # prints Max guides the way!
 ```
 
 
