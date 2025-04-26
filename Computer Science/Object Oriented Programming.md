@@ -223,6 +223,8 @@ dog.set_age(5) # age = 5
 
 #### Full Abstraction
 
+**Definition:** abstract class
+
 ```Python
 from abc import ABC, abstractmethod
 
