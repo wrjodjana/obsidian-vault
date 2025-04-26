@@ -153,3 +153,6 @@ calc = Calculator()
 print(calc.add(5, 10)) # prints 15
 print(calc.add(5, 10, 15)) # prints 30
 ```
+
+**Notes:**
+- Python doesn't support method overloading. Instead use single method with default arguments to 
