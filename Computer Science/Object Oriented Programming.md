@@ -284,3 +284,4 @@ print(next(it)) # E
 print(next(it)) # L
 ```
 
+#### Creating the iterator class
