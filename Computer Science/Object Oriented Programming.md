@@ -223,7 +223,7 @@ dog.set_age(5) # age = 5
 
 #### Full Abstraction
 
-**Definition:** abstract class
+**Definition:** abstract class contains only abstract methods (like interfaces)
 
 ```Python
 from abc import ABC, abstractmethod
