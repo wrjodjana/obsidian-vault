@@ -172,9 +172,15 @@ class Dog:
 		self.name = name
 		self._breed = breed
 		self.__age = age
+	
+	def get_info(self):
+		return f"Name: {self.name}, Breed: {self._breed}, Age: {self.__age}"
 ```
 
 #### Public Members
 
 **Definition:** easily accessible by name
 
+**Example:**
+```
+```
