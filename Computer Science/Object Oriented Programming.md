@@ -90,3 +90,6 @@ guide_dog.guide() # prints Max guides the way!
 ```
 
 
+#### Multiple Inheritance
+
+**Definition:** 
