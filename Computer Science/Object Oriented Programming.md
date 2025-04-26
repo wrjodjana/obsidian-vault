@@ -242,4 +242,4 @@ class Dog(ABC):
 
 #### Partial Abstraction
 
-**Definition:** 
+**Definition:** abstract class contains both abstract and concret
