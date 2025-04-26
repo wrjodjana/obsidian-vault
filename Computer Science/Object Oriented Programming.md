@@ -290,4 +290,16 @@ print(next(it)) # L
 1. Define the class: start by defining the class that will act as the iterator
 2. Initialize attributes: initialize any attributes used in the iteration process in `__init__()`
 3. Implement `__iter__()`: returns the iterator object itself, usually returning self
-4. Implement `__next_-()`: provides the next item in the sequence
+4. Implement `__next__()`: provides the next item in the sequence
+
+**Example:** custom class `EvenNumbers`, iterates even numbers starting from 2
+
+```Python
+class EvenNumbers:
+	def __iter__(self):
+		self.n = 2
+		return self
+
+	def __next__(self):
+		
+```
