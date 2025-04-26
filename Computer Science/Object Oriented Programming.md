@@ -6,3 +6,11 @@
 **Definition**: a collection of objects, sometimes known as blueprints of objects. It defines a set of attributes and methods that created objects (instances) have.
 
 **Example:**
+```Python
+class Dog:
+	species = "Canine"
+	
+	def __init__(self, name, age):
+		self.name = name
+		self.age
+```
