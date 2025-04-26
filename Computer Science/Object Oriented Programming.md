@@ -218,7 +218,7 @@ dog.set_age(5) # age = 5
 
 ### Abstraction
 
-**Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it". Ensures consistency in derived classes by enforcing 
+**Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it". Ensures consistency in derived classes by enforcing the implementation of abstract methods.
 
 
 #### Full Abstraction
