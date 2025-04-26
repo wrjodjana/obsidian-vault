@@ -242,4 +242,12 @@ class Dog(ABC):
 
 #### Partial Abstraction
 
-**Definition:** abstract class contains both abstract and concret
+**Definition:** abstract class contains both abstract and concrete methods
+
+```Python
+class Labrador(Dog):
+	def sound(self):
+		print("Labrador woof!")
+
+class B
+```
