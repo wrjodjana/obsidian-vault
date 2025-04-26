@@ -59,6 +59,9 @@ print(dog1.species) # prints "Canine"
 
 **Example:**
 ```Python
+class Dog:
+	def __init__(self, name):
+		self.name = name
 
 ```
 
