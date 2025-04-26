@@ -1,9 +1,9 @@
 
-**Definition**: a way of organizing code that uses objects and classes to represent real-world entities and their behavior.
+**Definition**: a way of organizing code that uses objects and classes to represent real-world entities and their behavior
 
 ### Classes
 
-**Definition**: a collection of objects, sometimes known as blueprints of objects. It defines a set of attributes and methods that created objects (instances) have.
+**Definition**: a collection of objects, sometimes known as blueprints of objects. It defines a set of attributes and methods that created objects (instances) have
 
 **Example:**
 ```Python
@@ -42,5 +42,6 @@ print(dog1.species) # prints "Canine"
 - `self.name`: refers to the name attribute of the object (dog1) calling the method
 
 **Constructor**
-- `__init__` method is also the constructor, where a new object is created, initializing attributes of that class
-- 
+- `__init__` method is also the constructor, where a new object is created
+- `self.name` and `self.age` are instance attributes initialized in the constructor
+
