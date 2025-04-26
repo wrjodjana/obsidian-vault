@@ -169,7 +169,9 @@ print(calc.add(5, 10, 15)) # prints 30
 ```Python
 class Dog:
 	def __init__(self, name):
-		
+		self.name = name
+		self._breed = breed
+		self.__age = age
 ```
 
 #### Public Members
