@@ -179,8 +179,10 @@ class Dog:
 
 #### Public Members
 
-**Definition:** easily accessible by name
+**Definition:** easily accessible, such as name.
 
 **Example:**
-```
+```Python
+dog = Dog("Buddy", "Labrador", 3)
+print(dog.name) # prints 
 ```
