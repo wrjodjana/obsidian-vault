@@ -206,5 +206,15 @@ class Dog:
 	def get_age(self):
 		return self.__age
 
-	def set_age(self)
+	def set_age(self, age):
+		if age > 0:
+			self.__age = age
+		else:
+			print("Invalid age!")
+
+print(dog.)
 ```
+
+### Abstraction
+
+**Definition:** 
