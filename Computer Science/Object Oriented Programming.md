@@ -109,3 +109,7 @@ retriever.display_name() # prints Dog's name: Charlie
 retriever.greet() # prints Friendly
 retriever.sound() # prints Golden Retriever Barks!
 ```
+
+### Polymorphism
+
+**Definition:** allows methods to have the 
