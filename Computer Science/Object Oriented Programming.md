@@ -222,5 +222,8 @@ dog.set_age(5) # age = 5
 
 **Example:**
 ```Python
+from abc import ABC, abstractmethod
 
+class Dog(ABC):
+	
 ```
