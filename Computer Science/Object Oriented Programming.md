@@ -38,11 +38,12 @@ print(dog1.species) # prints "Canine"
 
 #### Self Parameter: 
 - reference to the current instance of the class, allowing us to access the attributes and methods of the object
-
-**Explanation:**
 - `self.name`: refers to the name attribute of the object (dog1) calling the method
 
 #### Constructor
 - `__init__` method is also the constructor, where a new object is created
 - `self.name` and `self.age` are instance attributes initialized in the constructor
 
+#### Class and Instance Variables
+- **Class variables:** shared by all instances of the class. If you change `Dog.species` it affects all objects, as it's a property of the class.
+- **Instance variables**: defined by the constructor which is unique 
