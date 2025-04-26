@@ -139,6 +139,9 @@ for dog in dogs:
 	dog.sound() # Prints dog sound, Labrador woofs, Beagle barks
 ```
 
+**Notes:**
+- Using method overriding in the Dog class and its subclasses (Labrador and Beagle)
+- Correct sound method is invoked at runtime based on the actual type of the object in the list
 #### Compile-time Polymorphism (Method overloading)
 
 **Definition:** determined during the compilation of the program. Allows methods or operators with the same name to behave differently based on their input parameters.
