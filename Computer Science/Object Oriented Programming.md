@@ -129,4 +129,12 @@ class Dog:
 class Labrador(Dog):
 	def sound(self):
 		print("Labrador woofs")
+
+class Beagle(Dog):
+	def sound(self):
+		print("Beagle barks")
+
+dogs = [Dog(), Labrador(), Beagle()]
+for dog in dogs:
+	dog.sound()
 ```
