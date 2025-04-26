@@ -37,3 +37,6 @@ print(dog1.species) # prints "Canine"
 - `dog1.species`: accesses the class attribute species of the `dog1` object
 
 **Self Parameter**: reference to the current instance of the class, allowing us to access the attributes and methods of the object
+
+**Explanation:**
+- `self.name`: refers to the name attribute of the object (Dog)
