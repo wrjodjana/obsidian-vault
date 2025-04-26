@@ -225,5 +225,13 @@ dog.set_age(5) # age = 5
 from abc import ABC, abstractmethod
 
 class Dog(ABC):
+	def __init__(self, name):
+		self.name = name
 	
+	@abstractmethod
+	def sound(self):
+		pass
+
+	def display_name(self):
+		print(f"Dog's name: )
 ```
