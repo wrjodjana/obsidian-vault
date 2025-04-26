@@ -39,4 +39,8 @@ print(dog1.species) # prints "Canine"
 **Self Parameter**: reference to the current instance of the class, allowing us to access the attributes and methods of the object
 
 **Explanation:**
-- `self.name`: refers to the name attribute of the object (Dog)
+- `self.name`: refers to the name attribute of the object (dog1) calling the method
+
+**Constructor**
+- `__init__` method is also the constructor, where a new object is created, initializing attributes of that class
+- 
