@@ -265,3 +265,4 @@ class Dog(ABC):
 
 ### Iterators
 
+**Definition:** an object that holds a sequence of values and provide sequential traversal through a collection of items such as lists, dictionaries and tuples.
