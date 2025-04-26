@@ -32,4 +32,5 @@ print(dog1.species) # prints "Canine"
 ```
 
 **Explanation:**
-- `dog1 = `
+- `dog1 = Dog("Buddy", 3)`: creates an object of the Dog class with name as "Buddy" and age as 3
+- `dog1.name`: accesses the instance 
