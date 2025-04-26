@@ -310,3 +310,14 @@ class EvenNumbers:
 - `__iter__()`: starts from the first even number, 2
 - `__next__()`: increments by 2 to get the next even number
 
+**Usage:**
+```Python
+even = EvenNumbers()
+it = iter(even)
+
+print(next(it)) # 2
+print(next(it)) # 4
+print(next(it)) # 6
+print(next(it)) # 8
+print(next(it)) # 10
+``` 
