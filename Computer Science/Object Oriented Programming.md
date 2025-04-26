@@ -271,4 +271,5 @@ class Dog(ABC):
 - initialized using the `iter()` method and uses the `next()` method for iteration
 
 #### Iterator vs Iterable
-- **Iterables:** objects that can return iterators 
+- **Iterables:** objects that can return iterators, an iterable implements the`__iter__()` method, which expects to return an iterator object
+- **Iterators:** 
