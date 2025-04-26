@@ -285,3 +285,6 @@ print(next(it)) # L
 ```
 
 #### Creating the iterator class
+
+**Definition:**
+1. Define the class: 
