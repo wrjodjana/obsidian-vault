@@ -218,7 +218,7 @@ dog.set_age(5) # age = 5
 
 ### Abstraction
 
-**Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it"
+**Definition:** hides the internal implementation details while exposing only the necessary functionality. Helps focus on "what to do" rather than "how to do it". Ensures consistency in derived classes by enforcing 
 
 
 #### Full Abstraction
@@ -244,7 +244,7 @@ class Dog(ABC):
 
 #### Partial Abstraction
 
-**Definition:** abstract class contains both abstract and concrete methods
+**Definition:** abstract class contains both abstract and concrete methods. `Dog` class has both abstract (`sound`) and concrete (`display_name`) methods
 
 **Example:**
 
