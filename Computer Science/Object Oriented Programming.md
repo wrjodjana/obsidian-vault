@@ -46,4 +46,5 @@ print(dog1.species) # prints "Canine"
 
 #### Class and Instance Variables
 - **Class variables:** shared by all instances of the class. If you change `Dog.species` it affects all objects, as it's a property of the class.
-- **Instance variables**: defined by the constructor which is unique 
+- **Instance variables**: defined by the constructor which is unique to each instance meaning that `dog1.name` and `dog2.name` is different
+- 
