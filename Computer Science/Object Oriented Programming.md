@@ -236,9 +236,10 @@ class Dog(ABC):
 	@abstractmethod
 	def sound(self):
 		pass
-
+	
+	@abstractmethod
 	def display_name(self):
-		print(f"Dog's name: {self.name}")
+		pass
 ```
 
 #### Partial Abstraction
