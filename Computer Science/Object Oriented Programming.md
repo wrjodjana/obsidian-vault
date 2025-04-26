@@ -136,5 +136,7 @@ class Beagle(Dog):
 
 dogs = [Dog(), Labrador(), Beagle()]
 for dog in dogs:
-	dog.sound()
+	dog.sound() # Prints dog sound, Labrador woofs, Beagle barks
 ```
+
+#### Compile-time Polymorphism (Method ov)
