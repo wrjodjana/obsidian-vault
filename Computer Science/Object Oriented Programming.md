@@ -287,4 +287,5 @@ print(next(it)) # L
 #### Creating the iterator class
 
 **Definition:**
-1. Define the class: 
+1. Define the class: start by defining the class that will act as the iterator
+2. 
