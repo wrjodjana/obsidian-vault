@@ -321,3 +321,5 @@ print(next(it)) # 6
 print(next(it)) # 8
 print(next(it)) # 10
 ``` 
+
+#### StopIteration Exception
