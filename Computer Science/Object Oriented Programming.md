@@ -155,4 +155,6 @@ print(calc.add(5, 10, 15)) # prints 30
 ```
 
 **Notes:**
-- Python doesn't support method overloading. Instead use single method with default arguments to 
+- Python doesn't support method overloading. Instead use single method with default arguments to handle varying number of parameters
+- Different behaviors are achieved based on how method is called
+
