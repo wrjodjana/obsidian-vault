@@ -327,3 +327,14 @@ print(next(it)) # 10
 **Definition:** signals the iterator has no more items to return. Once exception is raised, further calls to `next()` on the same iterator will continue raising `StopIteration`.
 
 **Example:**
+```Python
+li = [100, 200, 300]
+it = iter(li)
+
+while True:
+	try:
+		print(next(it))
+	except StopIteration:
+		print("End of Iteration")
+		break
+```
