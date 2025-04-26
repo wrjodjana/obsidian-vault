@@ -25,3 +25,11 @@ class Dog:
 **Definition:** an object is an instance of a class and represents an implementation of that class and hold its own data
 
 **Example:**
+```Python
+dog1 = Dog("Buddy", 3)
+print(dog1.name) # prints "Buddy"
+print(dog1.species) # prints "Canine"
+```
+
+**Explanation:**
+- `dog1 = `
