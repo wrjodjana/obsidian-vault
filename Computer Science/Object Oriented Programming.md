@@ -163,3 +163,9 @@ print(calc.add(5, 10, 15)) # prints 30
 
 ### Encapsulation
 
+**Definition:** bundling of attributes and methods within a class, restricting access to some components to control interactions.
+
+#### Public Members
+
+**Definition:** easily accessible by name
+
