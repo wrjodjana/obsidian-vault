@@ -15,3 +15,6 @@ class Dog:
 		self.age = age
 ```
 
+**Explanation:**
+- `class Dog`: defines a class named dog
+- 
