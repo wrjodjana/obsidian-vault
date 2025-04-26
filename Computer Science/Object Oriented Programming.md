@@ -82,7 +82,10 @@ lab.sound() # prints Labrador woofs
 ```Python
 class GuideDog(Labrador):
 	def guide(self):
-		print(f"{self.})
+		print(f"{self.name} guides the way!")
+
+guide_dog = GuideDog("Max")
+guide_dog.display_name # prints Dog's name: Max
 ```
 
 
