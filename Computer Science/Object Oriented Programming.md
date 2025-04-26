@@ -62,7 +62,8 @@ print(dog1.species) # prints "Canine"
 class Dog:
 	def __init__(self, name):
 		self.name = name
-
+	def display_name(self):
+		
 ```
 
 
