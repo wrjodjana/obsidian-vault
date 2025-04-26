@@ -268,4 +268,7 @@ class Dog(ABC):
 **Definition:** an object that holds a sequence of values and provide sequential traversal through a collection of items such as lists, dictionaries and tuples.
 
 **Implementation:**
-- initialized using the `iter()` meth
+- initialized using the `iter()` method and uses the `next()` method for iteration
+
+#### Iterator vs Iterable
+- 
