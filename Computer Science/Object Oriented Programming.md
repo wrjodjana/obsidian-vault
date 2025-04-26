@@ -272,4 +272,11 @@ class Dog(ABC):
 
 #### Iterator vs Iterable
 - **Iterables:** objects that can return iterators, an iterable implements the`__iter__()` method, which expects to return an iterator object
-- **Iterators:** objects that actually perform the iteration
+- **Iterators:** objects that actually perform the iteration. They implement `__iter__()` and `__next__()` method. The `__iter()__` method returns the iterator object itself.
+
+**Example:**
+```Python
+word = 'HELLO'
+it = iter(word)
+
+```
