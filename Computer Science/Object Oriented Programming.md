@@ -139,4 +139,6 @@ for dog in dogs:
 	dog.sound() # Prints dog sound, Labrador woofs, Beagle barks
 ```
 
-#### Compile-time Polymorphism (Method ov)
+#### Compile-time Polymorphism (Method overloading)
+
+**Definition:** 
