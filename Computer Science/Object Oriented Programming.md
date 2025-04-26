@@ -3,4 +3,6 @@
 
 ### Classes
 
-**Definition**: a collection of objects, sometimes known as blueprints of objects
+**Definition**: a collection of objects, sometimes known as blueprints of objects. It defines a set of attributes and methods that created objects (instances) have.
+
+**Example:**
