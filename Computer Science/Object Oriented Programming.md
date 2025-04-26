@@ -263,3 +263,5 @@ class Dog(ABC):
 		print(f"Dog's name: {self.name}")
 ```
 
+### Iterators
+
