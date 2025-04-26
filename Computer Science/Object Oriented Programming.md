@@ -49,4 +49,8 @@ print(dog1.species) # prints "Canine"
 - **Instance variables**: defined by the constructor which is unique to each instance meaning that `dog1.name` and `dog2.name` is different.
 - **Accessing variables**: can be accessed via class name, `Dog.species`,or an object, `dog1.species`. Instance variables are accessed by objects, `dog1.name`.
 
+### Inheritance
+
+**Definition:** allows a child class to acquire the properties and methods of a parent class 
+
 
