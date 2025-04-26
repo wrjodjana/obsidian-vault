@@ -53,8 +53,14 @@ print(dog1.species) # prints "Canine"
 
 **Definition:** allows a child class to acquire the properties and methods of a parent class, supporting hierarchical classification and promotes code reusing
 
-**Example:**
+#### Single Inheritance
 
+**Definition:** A child class inherits from a single parent class. Labrador inherits Dog's attributes and methods.
+
+**Example:**
+```Python
+
+```
 
 
 
