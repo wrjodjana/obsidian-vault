@@ -333,7 +333,7 @@ it = iter(li)
 
 while True:
 	try:
-		print(next(it))
+		print(next(it)) # 100, 200, 300, End of Iteration
 	except StopIteration:
 		print("End of Iteration")
 		break
