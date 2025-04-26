@@ -114,4 +114,12 @@ retriever.sound() # prints Golden Retriever Barks!
 
 **Definition:** allows methods to have the same name but behave differently based on the object's context. Achieved through method overriding or overloading.
 
-#### Run-time Polymorphism
+**Default Implementation:**
+```Python
+class Dog:
+	def sound(self):
+		print()
+```
+#### Run-time Polymorphism (Method overriding)
+
+**Definition:**
