@@ -184,5 +184,10 @@ class Dog:
 **Example:**
 ```Python
 dog = Dog("Buddy", "Labrador", 3)
-print(dog.name) # prints 
+print(dog.name) # prints "Buddy"
 ```
+
+#### Protected Members
+
+**Definition:** Used with a single `_`, such as `_breed`. Access is discouraged by allowed in subclasses
+
