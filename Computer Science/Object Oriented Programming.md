@@ -196,3 +196,15 @@ print(dog.name) # prints "Buddy"
 print(dog._breed) # prints "Labrador"
 ```
 
+#### Private Members
+
+**Definition:** Used with `__`, such as `__age`. Access requires setter and getter methods. Accessible only within the class.
+
+**Example:**
+```Python
+class Dog:
+	def get_age(self):
+		return self.__age
+
+	def set_age(self)
+```
