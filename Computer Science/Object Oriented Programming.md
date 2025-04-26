@@ -118,8 +118,15 @@ retriever.sound() # prints Golden Retriever Barks!
 ```Python
 class Dog:
 	def sound(self):
-		print()
+		print("dog sound")
 ```
 #### Run-time Polymorphism (Method overriding)
 
-**Definition:**
+**Definition:** determined during the execution of the program. Occurs when a subclass provides a specific implementation for a method already defined in its parent class.
+
+**Example:**
+```Python
+class Labrador(Dog):
+	def sound(self):
+		print("Labrador woofs")
+```
