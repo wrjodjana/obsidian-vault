@@ -29,4 +29,4 @@
 
 **Point 3:**
 - It's true that he's not doing things right for God, but the one thing we know is that he's still speaking out to God
-- 
+- To some degree, we all come to God 
