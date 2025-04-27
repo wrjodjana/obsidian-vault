@@ -5,4 +5,6 @@
 - Unless you know this you will not have the emotional strength to admit the amount of sin in your life
 - If the basis of your self-image is that your a morally good person, once there's data coming into you that threatens that self-image you'll be in denial
 
+**Outline:**
+ 1. Only if you really understand who you are in him, will you be able to admit how much sin is in you (*Roman 7:*)
 
