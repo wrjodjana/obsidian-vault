@@ -8,5 +8,8 @@ Pre-Sermon Notes
 
 **Outline:**
  1. Only if you really understand who you are in him, will you be able to admit how much sin is in you (*Roman 7:18-20 I have the desire to do what's right but not the ability to carry out*)
- 2. 
+
+
+**Point 1:**
+- Sin is always crouching and appear less serious and smaller then what they really are
 
