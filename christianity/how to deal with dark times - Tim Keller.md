@@ -28,4 +28,4 @@
 	- The very fact that God put them in the Bible shows that God identifies with those of us who pray like that because God knows us when we're desperate but still is the God of grace.
 
 **Point 3:**
-- It's true that he's not doing things right, 
+- It's true that he's not doing things right for God, but the one thing we know is that he's still speaking out to God
