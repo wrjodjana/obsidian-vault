@@ -8,7 +8,7 @@ Pre-Sermon Notes
 
 **Outline:**
  1. Only if you really understand who you are in him, will you be able to admit how much sin is in you (*Roman 7:18-20 I have the desire to do what's right but not the ability to carry out*)
- 2. Most people try to change by trying hard to avoid the consequences of sin 
+ 2. Most people try to change by trying hard to avoid the consequences of sin meaning you won't change deeply
 
 
 **Point 1:**
