@@ -1,7 +1,7 @@
 
 **what's the most difficult thing you've ever worked on?**
 
-I definitely think the most difficult thing I've worked on (and still currently working) is a research position that's helping to commercialize a platform to allow transportation engineers make better decisions using graph neural networks. All in all, the difficulty definitely comes from the scaling the product from 0 to 1 and having to do most of the work singlehandedly such as programming the website, cleaning up datasets, 
+I definitely think the most difficult thing I've worked on (and still currently working) is a research position that's helping to commercialize a platform to allow transportation engineers make better decisions using graph neural networks. All in all, the difficulty definitely comes from the scaling the product from 0 to 1 and having to do most of the work singlehandedly such as programming the website, cleaning up datasets, designing wireframes and conducting user interviews. However, it's extremely rewarding 
 
 
 **what's something you're proud to have worked on?**
