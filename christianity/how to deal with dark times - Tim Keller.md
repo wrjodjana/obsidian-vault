@@ -42,4 +42,4 @@
 	- Heman didn't get the total darkness, Jesus Christ got the total darkness.
 	- When he was at the cross he was abandoned, Jesus felt the wrath the God and everybody abandoned Jesus. "darkness was his only friend" because he was taking the sins upon himself 
 	- Jesus experienced darkness as his only friend so you will never feel abandoned so that you know God will always be there for you
-	- 
+- This darkness can happen to a believer, doesn't mean youre lost. This darkness can happen to someone who doesnt deserve it, 
