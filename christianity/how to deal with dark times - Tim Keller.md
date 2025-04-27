@@ -10,10 +10,10 @@
 3. Darkness can be relativized
 
 **Point 1:**
-- The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death ("Do you work wonders for the dead")
+- The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death (*Do you work wonders for the dead?*)
 - Outwardly, the man experiences darkness through the physical but inwardly he faces darkness  spiritually
 - Feeling of abandonment, he feels God is rejecting him and not listening to him
 - **TEACHING:** Even if you're a believing Christian, it doesn't mean life will get better for a LONG time
 - However, it's a mercy and shows the realism of the Bible. The Bible shows that you can do everything right, but that doesn't mean it will get better.
 - There is somebody WAY better than us and that's Christ and he didn't have a good life, tortured and killed. (*John 16: In this world you will have trouble*)
-- 
+- If you're expectations are aligned with reality and you know the Bible isn't selling anything, you can face the 
