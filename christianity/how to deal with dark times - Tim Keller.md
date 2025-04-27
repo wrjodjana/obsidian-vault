@@ -21,4 +21,7 @@
 **Point 2:**
 - Some parts of the prayer is more like an interrogation (*Is your faithfulness known in the land of destruction*), the man is saying to God "Answer me God".
 - When we're in despair, like this man, we have tendency to exaggerate and be angry and read everything in our life through that moment instead of saying God in the past you've done many good things for me.
-- Being extremely disrespectful, crossexaminin
+- Being extremely disrespectful, cross-examining God and saying *darkness is my closest friend*  means I'd rather have darkness than you
+- Why is this prayer in the Bible?
+	- Psalm 39 similar: Turn your face away from God before I get despair
+	- 
