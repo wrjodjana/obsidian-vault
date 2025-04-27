@@ -24,4 +24,4 @@
 - Being extremely disrespectful, cross-examining God and saying *darkness is my closest friend*  means I'd rather have darkness than you
 - Why is this prayer in the Bible?
 	- Psalm 39 similar: Turn your face away from God before I get despair
-	- 
+	- The very fact that God put them in the Bible shows that 
