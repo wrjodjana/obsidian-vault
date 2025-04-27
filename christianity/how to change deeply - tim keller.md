@@ -3,4 +3,6 @@
 - When you become Christian, your name is inscribed into Jesus Christ and he's bearing that sin
 - The only eyes whose opinion matters in all the universe finds you more precious then all the jewels beneath the Earth
 - Unless you know this you will not have the emotional strength to admit the amount of sin in your life
-- If the basis 
+- If the basis of your self-image is that your a morally good person, once there's data coming into you that threatens that self-image you'll be in denial
+
+
