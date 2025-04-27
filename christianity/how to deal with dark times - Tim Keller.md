@@ -14,4 +14,5 @@
 - Outwardly, the man experiences darkness through the physical but inwardly he faces darkness  spiritually
 - Feeling of abandonment, he feels God is rejecting him and not listening to him
 - **TEACHING:** Even if you're a believing Christian, it doesn't mean life will get better for a LONG time
-- However, it's a mercy and shows the realism of the Bible. The Bible shows that you can do everyth
+- However, it's a mercy and shows the realism of the Bible. The Bible shows that you can do everything right, but that doesn't mean it will get better.
+- There is somebody WAY better than 
