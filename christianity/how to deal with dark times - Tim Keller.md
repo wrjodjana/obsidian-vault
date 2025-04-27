@@ -40,4 +40,5 @@
 - God was turning him into something great and God is always there even if you don't feel it
 - *Matthew 27:45 From the sixth hour to the ninth hour darkness came down to the land and Jesus cried My God My God why have you turned your face from me*
 	- Heman didn't get the total darkness, Jesus Christ got the total darkness.
-	- When he was at the cross he was abandoned, Jesus felt the wrath the God 
+	- When he was at the cross he was abandoned, Jesus felt the wrath the God and everybody abandoned Jesus. "darkness was his only friend" because he was taking the sins upon himself 
+	- Jesus experienced dark
