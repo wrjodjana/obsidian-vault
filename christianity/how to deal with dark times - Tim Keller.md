@@ -6,4 +6,8 @@
 
 **Outline:**
 1. Darkness will last a long time for a believing Christian
-2. No better place to learn about the grace of God than during dark times
+2. No better place to learn about the grace of God than during dark times and have greatness during these times
+3. Darkness can be relativized
+
+**Outline 1:**
+- The guy in the psalm is 
