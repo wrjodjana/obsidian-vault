@@ -1,11 +1,7 @@
 
 **what's the most difficult thing you've ever worked on?**
 
-The most difficult project I've ever worked on is my current research position, which focuses on commercializing a platform that helps transportation engineers make better decisions using graph neural networks. The primary challenge has been scaling the product from concept to implementation while handling most aspects singlehandedly - programming the website, cleaning datasets, designing wireframes, and conducting user interviews. My lack of experience in this industry required extensive reading of technical manuals, discovering relevant datasets, and understanding the limitations of existing solutions such as ArcGIS to determine the product's direction.
-
-Despite these challenges, the experience has been extremely rewarding. I've learned a lot from what began as a small idea from my professor to now having full ownership and direction in building out the product. It's particularly gratifying that multiple civil engineering companies have expressed interest in what we're developing.
-
-
+The most difficult project I've ever worked on is my current research position, which focuses on commercializing a platform that helps transportation engineers make better decisions using graph neural networks. The primary challenge has been scaling the product from concept to implementation while handling most aspects singlehandedly - programming the website, cleaning datasets, designing wireframes, and conducting user interviews. My lack of experience in this industry required extensive reading of technical manuals, discovering relevant datasets, and understanding the limitations of existing solutions such as ArcGIS. Despite these challenges, the experience has been extremely rewarding. I've learned a lot from what began as a small idea from my professor to now having full ownership and direction in building out the product. I'm also extremely grateful that my idea has grown to the point where multiple civil engineering companies have peeked interest.
 
 
 **what's something you're proud to have worked on?**
