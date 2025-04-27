@@ -18,4 +18,5 @@
 - There is somebody WAY better than us and that's Christ and he didn't have a good life, tortured and killed. (*John 16: In this world you will have trouble*)
 - If you're expectations are aligned with reality and you know the Bible isn't selling anything, you can face the troubles (half the pain is from the false expectations)
 
-
+**Point 2:**
+- Some parts of the prary
