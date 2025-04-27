@@ -10,6 +10,7 @@
 3. Darkness can be relativized
 
 **Outline 1:**
-- The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death ("do the dead rise will praise you")
+- The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death ("Do you work wonders for the dead")
 - Outwardly, the man experiences darkness through the physical but inwardly he faces darkness  spiritually
 - Feeling of abandonment, he feels God is rejecting him and not listening to him
+- **TEACHING:** Even if you're a believing Christian, it doesn't mean life will get better for a LONG time
