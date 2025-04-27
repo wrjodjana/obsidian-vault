@@ -1,7 +1,7 @@
 
 **what's the most difficult thing you've ever worked on?**
 
-I definitely think the most difficult thing I've worked on (and still currently working) is a research position that's helping to commercialize a platform to better help transportation engineers 
+I definitely think the most difficult thing I've worked on (and still currently working) is a research position that's helping to commercialize a platform to help transportation engineers make 
 
 
 **what's something you're proud to have worked on?**
