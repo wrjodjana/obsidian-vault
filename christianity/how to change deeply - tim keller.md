@@ -12,4 +12,5 @@ Pre-Sermon Notes
 
 **Point 1:**
 - Sin is always crouching and appear less serious and smaller then what they really are
+- The idea of sin crouching is also God likening sin into your life like a predator 
 
