@@ -6,8 +6,9 @@
 
 **Outline:**
 1. Darkness will last a long time for a believing Christian
-2. No better place to learn about the grace of God than during dark times and have greatness during these times
-3. Darkness can be relativized
+2. No better place to learn about the grace of God than during dark times 
+3. and be a person of greatness during these times
+4. Darkness can be relativized
 
 **Point 1:**
 - The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death (*Do you work wonders for the dead?*)
@@ -25,4 +26,6 @@
 - Why is this prayer in the Bible?
 	- Psalm 39 similar: Turn your face away from God before I get despair
 	- The very fact that God put them in the Bible shows that God identifies with those of us who pray like that because God knows us when we're desperate but still is the God of grace.
-	- 
+
+**Point 3:**
+- It's true that he's not doing things right, 
