@@ -4,4 +4,4 @@ The future of transportation is electric, and our software solves the most criti
 
 **Why WeaveGrid?**
 
-From my research in the Uncertainty Quantification Group, I've learned alot about the industry of transportation and risk management, particularly how engineers make decisions about 
+From my research in the Uncertainty Quantification Group, I've learned alot about the industry of transportation and risk management, particularly how engineers make decisions based on the existing technologies. Now, I'm currently helping to build a platform that improves existing technologies with better latency and easier decisionmaking of 
