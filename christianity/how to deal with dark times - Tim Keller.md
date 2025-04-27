@@ -10,4 +10,4 @@
 3. Darkness can be relativized
 
 **Outline 1:**
-- The guy in the psalm is 
+- The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death ("do the dead rise will praise you")
