@@ -38,4 +38,6 @@
 - We know he's wrong, his suffering is relative and temporary and God was really there. 
 - Through his suffering, the man who wrote this psalm became a great artist (as he wrote other psalms). He couldn't see but we can and God was there and working.
 - God was turning him into something great and God is always there even if you don't feel it
-- *Matthew 27:45 From the sixth hour to the ninth hour darkness came down to the land*
+- *Matthew 27:45 From the sixth hour to the ninth hour darkness came down to the land and Jesus cried My God My God why have you turned your face from me*
+	- Heman didn't get the total darkness, Jesus Christ got the total darkness.
+	- When he was at the cross he was abandoned, Jesus felt the wrath the God 
