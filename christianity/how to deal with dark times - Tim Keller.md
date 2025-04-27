@@ -12,4 +12,4 @@
 **Outline 1:**
 - The guy in the psalm is calling to God, praying to God for help as he's losing friends, imminent to death ("do the dead rise will praise you")
 - Outwardly, the man experiences darkness through the physical but inwardly he faces darkness  spiritually
-- Feeling of abandonment, God is rejecting him and 
+- Feeling of abandonment, he feels God is rejecting him and not listening to him
