@@ -36,4 +36,6 @@
 **Point 4:**
 - The man believes that the darkness was objective and permanent, he feels that God's not there.
 - We know he's wrong, his suffering is relative and temporary and God was really there. 
-- Through his suffering, the man who wrote
+- Through his suffering, the man who wrote this psalm became a great artist (as he wrote other psalms). He couldn't see but we can and God was there and working.
+- God was turning him into something great and God is always there even if you don't feel it
+- 
