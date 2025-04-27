@@ -32,4 +32,6 @@
 - To some degree, we all come to God because we have a problem or an emptiness (we want something) and if we stay in that state we're full of self-centeredness
 - Job was being angry and upset at God but he never turned away, he stayed with God even if he was never getting anything out of it he defeated Satan similar to this story
 - When you go through darkness, but you don't feel God's there but you hold on anyways that shows that were not transactional but a person of endurance, strength, greatness and stable
-- 
+
+**Point 4:**
+
