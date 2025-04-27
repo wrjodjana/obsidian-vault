@@ -20,4 +20,4 @@
 
 **Point 2:**
 - Some parts of the prayer is more like an interrogation (*Is your faithfulness known in the land of destruction*), the man is saying to God "Answer me God".
-- 
+- When we're in despair, like this man, we have tendency ot
