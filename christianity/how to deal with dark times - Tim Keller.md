@@ -35,4 +35,5 @@
 
 **Point 4:**
 - The man believes that the darkness was objective and permanent, he feels that God's not there.
-- We know he's wrong, his suffering is relative and temporary and God was really there. The man Hemon 
+- We know he's wrong, his suffering is relative and temporary and God was really there. 
+- Through his suffering, the man who wrote
