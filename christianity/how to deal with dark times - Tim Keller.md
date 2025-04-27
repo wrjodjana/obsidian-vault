@@ -34,4 +34,4 @@
 - When you go through darkness, but you don't feel God's there but you hold on anyways that shows that were not transactional but a person of endurance, strength, greatness and stable
 
 **Point 4:**
-
+- The man believes that the darkness was objective and perma
