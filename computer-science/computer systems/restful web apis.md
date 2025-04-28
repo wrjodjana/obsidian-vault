@@ -9,4 +9,5 @@
 - May contain some static information, but certain types of state are not stored
 
 **Stateful server:**
-- 
+- Tracks different information for different clients
+- Usually login function followed by a series of actions that interact
