@@ -25,4 +25,6 @@
 ### RESTful Web API
 
 **Properties:**
-- Cl
+- Clients send HTTP requests, servers reply
+- GET does not change server state, but POST changes existing server state
+- 
