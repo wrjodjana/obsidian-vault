@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/object oriented programming.md",
+                "file": "computer-science/data structures/array and strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "object oriented programming"
+              "title": "array and strings"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "f7998f0e99c7fa58",
   "lastOpenFiles": [
-    "computer-science/data structures/array and strings.md",
+    "christianity/how to deal with dark times - Tim Keller.md",
     "computer-science/object oriented programming.md",
+    "computer-science/data structures/array and strings.md",
     "interview/cover letters/weavegrid.md",
     "README.md",
-    "christianity/how to deal with dark times - Tim Keller.md",
     "christianity/how to change deeply - tim keller.md",
     "interview/cover letters/sum billion dollar idea.md"
   ]
