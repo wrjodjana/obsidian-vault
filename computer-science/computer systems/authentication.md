@@ -13,6 +13,8 @@
 - property 2: $d(e(m,k),k) = m$ (decryption undoes encryption)
 - recovering $m$ from $e$ and $c$ without $k$ is no easier than trying every possible $k$ until one works
 
-**Asymmetric cipher:** 
+**Asymmetric cipher:** pair of functions that can each both encrypt and decrypt, but only bounded-size inputs
+- keys come in pair
+- 
 
 
