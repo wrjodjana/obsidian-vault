@@ -29,4 +29,6 @@
 - GET does not change server state, but POST changes existing server state
 - PUT and DELETE can be used to create and remove server states, but POST can handle this
 - HTTP request path identifies resource you are accessing
-- 
+- HTTP request body describes specific changes being implemented
+- HTTP headers may be used to pick response format, but not to change meaning of request
+- All request bodies within a
