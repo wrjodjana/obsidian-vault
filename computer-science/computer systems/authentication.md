@@ -9,6 +9,6 @@
 
 **Symmetric cipher:** pair of functions, one to encrypt and one to decrypt
 - takes two inputs: message of arbitrary length and limited-size secret key
-- 
+- property 1: 
 
 
