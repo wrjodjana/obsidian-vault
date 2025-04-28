@@ -38,5 +38,6 @@
 
 **Parsing and Routing Requests:**
 1. Set up a TCP/IP server (opening sockets)
-2. 
+2. Parse HTTP requests sent to it
+3. Send those parsed requests
 
