@@ -34,3 +34,5 @@
 - All request bodies within a single API uses the JSON or XML format
 - All response bodies provide structured data structure in JSON or XML format
 
+
+
