@@ -52,7 +52,9 @@ routes = web.RouteTableDef()
 2. Decorate each function you write with the method and path to send it:
 ```Python
 @routes.get("/path")
-async def handle_path(req)
+async def handle_path(req : web.Request) -> web.Response:
+	return web.Response(status=500, text="Server Incomplete")
 ```
 
+3. After definin
 
