@@ -67,4 +67,5 @@ if __name__ == "__main__":
 	web.run_app(app)
 ```
 
-- `run_app` opens server socket,
+- `run_app` opens server socket, accepts client sockets, parses any messages sent by client as HTTP requests,  compares the requests to the routes in `routes` and if finds a match calls that function, otherwise returns 404 NOT FOUND HTTP response
+
