@@ -10,4 +10,10 @@
 
 **Stateful server:**
 - Tracks different information for different clients
-- Usually login function followed by a series of actions that interact
+- Usually login function followed by a series of actions that interact with user's logged in data
+- Usually contain some stateless and static information
+
+### REST
+
+**Definition:** representational state transfer with these 5 properties:
+1. **Client / Server** - clients distinct with servers, interacting
