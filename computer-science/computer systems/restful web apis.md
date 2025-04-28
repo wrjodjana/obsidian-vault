@@ -22,3 +22,7 @@
 4. **Uniform interface** - request and responses formats use as similar format to one another as possible
 5. **Layered system** - server is designed to be able to split into many separate computers, with clients unable to tell which computer responded or even if there are several of them
 
+### RESTful Web API
+
+**Properties:**
+- Cl
