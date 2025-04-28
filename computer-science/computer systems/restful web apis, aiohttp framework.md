@@ -42,5 +42,8 @@
 3. Send those parsed requests to functions registered based on path and method
 4. Send the results of the functions back to those who sent the requests, formatted as HTTP requests
 
+**Third Step:**
+1. Make routing table, which is a `dict` with `(method, host)` pa
+
 
 
