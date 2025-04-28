@@ -44,17 +44,27 @@
 
 **Third Step:**
 1. Make routing table, which is a `dict` with `(method, host)` pairs as keys and functions as values:
+
 ```Python
 from aiohttp import web
 routes = web.RouteTableDef()
 ```
 
 2. Decorate each function you write with the method and path to send it:
+
 ```Python
 @routes.get("/path")
 async def handle_path(req : web.Request) -> web.Response:
 	return web.Response(status=500, text="Server Incomplete")
 ```
 
-3. After definin
+3. After defining functions, if running as program, make an app that uses those routes and start:
 
+```Python
+if __name__ == "__main__":
+	app = web.Application()
+	app.add_routes(routes)
+	web.run_app(app)
+```
+
+- `run_app` opens server socket,
