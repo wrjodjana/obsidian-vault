@@ -43,7 +43,16 @@
 4. Send the results of the functions back to those who sent the requests, formatted as HTTP requests
 
 **Third Step:**
-1. Make routing table, which is a `dict` with `(method, host)` pa
+1. Make routing table, which is a `dict` with `(method, host)` pairs as keys and functions as values:
+```Python
+from aiohttp import web
+routes = web.RouteTableDef()
+```
 
+2. Decorate each function you write with the method and path to send it:
+```Python
+@routes.get("/path")
+async def handle_path(req)
+```
 
 
