@@ -16,4 +16,5 @@
 ### REST
 
 **Definition:** representational state transfer with these 5 properties:
-1. **Client / Server** - clients distinct with servers, interacting
+1. **Client / Server** - clients distinct with servers, interacting through a defined interface/API
+2. 
