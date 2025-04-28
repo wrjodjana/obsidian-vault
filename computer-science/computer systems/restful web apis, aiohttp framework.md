@@ -37,5 +37,6 @@
 ### aiohttp webservices
 
 **Parsing and Routing Requests:**
-1. 
+1. Set up a TCP/IP server (opening sockets)
+2. 
 
