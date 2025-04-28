@@ -31,4 +31,6 @@
 - HTTP request path identifies resource you are accessing
 - HTTP request body describes specific changes being implemented
 - HTTP headers may be used to pick response format, but not to change meaning of request
-- All request bodies within a
+- All request bodies within a single API uses the JSON or XML format
+- All response bodies provide structured data structure in JSON or XML format
+
