@@ -5,5 +5,5 @@
 
 **Stateless server:**
 - Computes part of the content, but only based on the current request
-- Requests are not combined ito sequences and do not interact with each other
+- Requests are not combined into sequences and do not interact with each other
 - 
