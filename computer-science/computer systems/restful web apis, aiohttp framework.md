@@ -39,5 +39,8 @@
 **Parsing and Routing Requests:**
 1. Set up a TCP/IP server (opening sockets)
 2. Parse HTTP requests sent to it
-3. Send those parsed requests
+3. Send those parsed requests to functions registered based on path and method
+4. Send the results of the functions back to those who sent the requests, formatted as HTTP requests
+
+
 
