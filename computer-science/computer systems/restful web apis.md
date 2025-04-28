@@ -28,4 +28,5 @@
 - Clients send HTTP requests, servers reply
 - GET does not change server state, but POST changes existing server state
 - PUT and DELETE can be used to create and remove server states, but POST can handle this
+- HTTP request path identifies resource you are accessing
 - 
