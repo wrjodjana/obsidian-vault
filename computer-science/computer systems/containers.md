@@ -37,7 +37,9 @@ Image is stored internally with large hexadecimal ID
 Creating new containers
 - Specify the image using `docker run [image name]`
 - `docker run` won't connect the container to any resources other than the CPU
-- `-it` maps the container's stdin, stdout 
+- `-it` maps the container's stdin, stdout and stderr to the terminal
+- `-p 5000:3456` causes network connections to port `5000` to be forwarded into the container and remapped to port `3456` inside it
+- `-v /real/host/path:/inner/path` 
 
 
 
