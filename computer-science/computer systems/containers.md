@@ -9,7 +9,7 @@
 ### Creating Images
 
 **Dockerfile:**
-- `FROM imagename` initializes an image by copying another image
+- `FROM [image name]` initializes an image by copying another image
 	- Starting from pre-built image makes writing Dockerfile easy
 	- `FROM scratch` copies nothing
 - `RUN shell command` runs command inside the image during setup
@@ -28,14 +28,16 @@
 Image is stored internally with large hexadecimal ID
 - `docker images` lists all images usable by containers
 - `docker images --all` lists all images, even unnamed ones
-- `docker rmi imagename` removes a single image
+- `docker rmi [image name]` removes a single image
 - `docker image prune` removes all "dangling" images
 - `docker system prune -all` both removes any stopped containers and any images that are not used by running containers
 
 ### Creating Containers
 
 Creating new containers
-- Specify the image using `docker run [image name'`
+- Specify the image using `docker run [image name]`
+- `docker run` won't connect the container to any resources other than the CPU
+- 
 
 
 
