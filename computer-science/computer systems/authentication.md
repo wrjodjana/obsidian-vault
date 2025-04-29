@@ -14,7 +14,7 @@
 - recovering $m$ from $e$ and $c$ without $k$ is no easier than trying every possible $k$ until one works
 
 **Asymmetric cipher:** pair of functions that can each both encrypt and decrypt, but only bounded-size inputs
-- keys come in pair
-	- 
+- keys come in pair, for example $(f_1, f_2)$ is an asymmetric cipher and $(k_1, k_2)$ is a key pair
+- property 1: 
 
 
