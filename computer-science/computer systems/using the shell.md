@@ -31,5 +31,10 @@
 - `rm` removes files
 	- `rm -r` removes files and directories with all of the directories' contents
 - `mkdir` makes directories
-- `echo` copies its arguments to its stdout; mostly used for assembli
+- `echo` copies its arguments to its stdout; mostly used for assembling pipelines
+- `cat` dumps contents of its arguments to stdout
+- `less` shows contents of argument file, or its stdin if none
+- `nano` is a self-documenting text editor
+- `grep` searches for things
+	- `grep -n term filename` searches for `term` in `filename`
 
