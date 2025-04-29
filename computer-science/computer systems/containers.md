@@ -37,7 +37,7 @@ Image is stored internally with large hexadecimal ID
 Creating new containers
 - Specify the image using `docker run [image name]`
 - `docker run` won't connect the container to any resources other than the CPU
-- 
+- `-it` maps the container's stdin, stdout 
 
 
 
