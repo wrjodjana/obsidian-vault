@@ -15,5 +15,7 @@
 
 **Global variables:**
 - `$PWD` is the present working directory, `cd` changes the value of `PWD`
-- `$PATH` is a colon-separated list of paths 
+- `$PATH` is a colon-separated list of paths to look for applications in. `$PATH` is often (`/usr/bin')
+- `$USER` is the currently logged-in user
+- `$HOME` is the home directory of the currently-logged-in user. `~` is shorthand for `$HOME`. `cd` w
 
