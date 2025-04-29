@@ -30,8 +30,22 @@
 - Virtualization
 - Operating System
 
+**Large commercial providers**
+- AWS EKS and ECS
+- Azure AKS
+- GCP GKE
+
 ### Platform as a Service (PaaS)
 - A software library or family or related operations that code you write might wise to use
-- Example: database engine / trained AI model
 
 **Purchase**
+- Platform like a database or trained AI model
+
+**Abstracted away by service provider**
+- Hardware
+- Virtualization
+- Operating System
+- Containers
+
+**Large commercial providers**
+- Most IaaS and Caa
