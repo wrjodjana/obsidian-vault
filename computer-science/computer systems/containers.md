@@ -34,6 +34,9 @@ Image is stored internally with large hexadecimal ID
 
 ### Creating Containers
 
+Creating new containers
+- Specify the image using `docker run [image name'`
+
 
 
 
