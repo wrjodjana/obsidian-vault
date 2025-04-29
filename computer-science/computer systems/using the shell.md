@@ -36,5 +36,8 @@
 - `less` shows contents of argument file, or its stdin if none
 - `nano` is a self-documenting text editor
 - `grep` searches for things
-	- `grep -n term filename` searches for `term` in `filename`
+	- `grep -n term filename` searches for `term` in `filename` and shows each line where it occurs
+	- `grep -rl term directory` searches all files in `directory` recursively for ones that contain `term` somewhere inside and lists the files it finds
+
+
 
