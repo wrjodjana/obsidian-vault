@@ -10,7 +10,7 @@
 
 **Abstracted away by service provider**
 - Hardware
-- Visualization
+- Virtualization
 
 **Large commercial providers**
 - AWS EC2
@@ -21,5 +21,17 @@
 - A software that provides an isolated, controlled environment for running a specific application which is independent of the OS it is is running on
 - Helps manage clusters of containers
 - Example: Docker, Kubernetes
+
+**Purchase**
+- Container / container management tool
+
+**Abstracted away by service provider**
+- Hardware
+- Virtualization
+- Operating System
+
+### Platform as a Service (PaaS)
+- A software library or family or related operations that code you write might wise to use
+- Example: database engine / trained AI model
 
 **Purchase**
