@@ -15,4 +15,6 @@
 - `RUN shell command` runs command inside the image during setup
 	- Runs installation commands from a package manager from the `FROM` command
 	- Dockerfile RUN vs `docker run`
-		- Since RUN is inside a Dockerfile, it runs while setting up the image, changes it makes t
+		- Since RUN is inside a Dockerfile, it runs while setting up the image, changes it makes to the image persist and are copied into every container made from the image
+		- `docker run` will only impact the state of the container only; image won't change
+- 
