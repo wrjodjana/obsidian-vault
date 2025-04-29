@@ -10,3 +10,5 @@
 
 **Dockerfile:**
 - `FROM imagename` initializes an image by copying another image
+	- Starting from pre-built image makes writing Dockerfile easy
+	- `FROM scratch` copies nothi
