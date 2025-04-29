@@ -17,6 +17,9 @@
 - keys come in pair, for example $(f_1, f_2)$ is an asymmetric cipher and $(k_1, k_2)$ is a key pair
 - property 1: $f_2(f_1(m, k_1),k_2) = m - k_2$ decrypts what $k_1$ encrypts
 - property 2: $f_1(f_2(m,k_2), k_1) = m - k_1$ decrypts what $k_2$ encrypts
-- 
+- property 3: $f_i(f_i(m, k_i),k_i) \neq m$ - neither key decrypts what it encrypts
+- knowing $f$ 
+
+
 
 
