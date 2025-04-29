@@ -22,6 +22,8 @@
 
 ### Key Exchange
 
-**Diffie-Helman key exchange:** method of causing two or more parties to agree on a single shared random integer without anyone else listening in being able to know 
+**Diffie-Helman key exchange:** method of causing two or more parties to agree on a single shared random integer without anyone else listening in being able to know what number they agreed upon.
+
+
 
 
