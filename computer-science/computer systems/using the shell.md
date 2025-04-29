@@ -14,5 +14,6 @@
 	- `ls | shuf` redirects `ls` stdout to `shuf`' stdin
 
 **Global variables:**
-- `$PWD` is the 
+- `$PWD` is the present working directory, `cd` changes the value of `PWD`
+- `$PATH` is a colon-separated list of paths 
 
