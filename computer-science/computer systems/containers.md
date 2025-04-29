@@ -31,3 +31,4 @@ Image is stored internally with large hexadecimal ID
 - `docker rmi imagename` removes a single image
 - `docker image prune` removes all "dangling" images
 - `docker system prune -all` both removes any
+
