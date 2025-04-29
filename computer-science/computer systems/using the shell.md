@@ -27,5 +27,9 @@
 - `cd` changes the value of `PWD`
 - `cp` copies files
 	- `cp -r` copies directories with all their contents recursively
-- 
+- `mv` moves or rename files/directories
+- `rm` removes files
+	- `rm -r` removes files and directories with all of the directories' contents
+- `mkdir` makes directories
+- `echo` copies its arguments to its stdout; mostly used for assembli
 
