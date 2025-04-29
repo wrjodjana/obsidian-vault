@@ -20,6 +20,8 @@
 - property 3: $f_i(f_i(m, k_i),k_i) \neq m$ - neither key decrypts what it encrypts
 - knowing $f, c, k_1$ should not make determining $k_2$ or $m$ easier than brute force guessing all possible $k_2$s
 
+### Key Exchange
 
+**Diffie-Helman key exchange:** method of causing two or more parties to agree on a single shared random integer without anyone else listening in being able to know 
 
 
