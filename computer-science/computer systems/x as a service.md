@@ -51,3 +51,8 @@
 - Most IaaS and CaaS providers have multiple PaaS offerings
 
 ### Functions as a Service (FaaS)
+- Sending cloud providers a function and send back as a result of running that function
+- Also called "serverless cinoytubg"
+
+**Purchase**
+- Executions of a function I provi
