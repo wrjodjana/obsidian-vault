@@ -9,4 +9,4 @@
 ### Creating Images
 
 **Dockerfile:**
-- 
+- `FROM imagename` initializes an image by copying another image
