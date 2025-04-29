@@ -2,7 +2,7 @@ Hello Steve,
 
 I came across your profile and understand you recruit for talent at Rivian's Research Park team. I'm a current junior at University of Illinois at Urbana-Champaign and think I'd be a great fit technically.
 
-Last summer, I com
+Last summer, I completed a data engineering internship at Halodoc where I focused on developing ETL pipelines for pharmacy data with an i
 
 
 I completed a software engineering internship at TooTak last summer focusing on backend engineering with an interest in JavaScript and Flask and just applied to the Software Engineering Intern position for Summer of 2025.
