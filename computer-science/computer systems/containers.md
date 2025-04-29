@@ -20,4 +20,9 @@
 - `COPY local/path/inside/image` copies a file or directory tree from your computer into image
 - `USER username` runs any commands that follow it and run in the image as the given user
 - `WORKDIR /path/inside/image` basically `cd` in Dockerfile
-- `CMD` 
+- `CMD shell command` is a default command to run inside each container when it is started if no other command is provided
+- To create image: `docker build -t myimagename`
+
+### Listing and Deleting images
+
+Imag
