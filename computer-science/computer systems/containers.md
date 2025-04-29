@@ -25,4 +25,6 @@
 
 ### Listing and Deleting images
 
-Imag
+Image is stored internally with large hexadecimal ID
+- `docker images` lists all images usable by containers
+- `docker images --all` 
