@@ -10,5 +10,8 @@
 	- `ls > /tmp/dump` redirects stdout to file `/tmp/dump`
 	- `ls 2> /tmp/dump` redirects stderr to file `/tmp/dump`
 	- `ls < /tmp/dump` redirects stdin to read from file `/tmp/dump`
-- One process mapped to
+- One process's stdout mapped to another process's stdin:
+	- `ls | shuf` redirects `ls` stdout to `shuf`' stdin
+
+
 
