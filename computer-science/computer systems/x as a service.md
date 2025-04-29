@@ -18,4 +18,8 @@
 - GCP Compute Engine
 
 ### Containers as a Service (CaaS)
-- 
+- A software that provides an isolated, controlled environment for running a specific application which is independent of the OS it is is running on
+- Helps manage clusters of containers
+- Example: Docker, Kubernetes
+
+**Purchase**
