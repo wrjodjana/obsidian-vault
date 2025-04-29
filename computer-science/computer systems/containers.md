@@ -11,4 +11,6 @@
 **Dockerfile:**
 - `FROM imagename` initializes an image by copying another image
 	- Starting from pre-built image makes writing Dockerfile easy
-	- `FROM scratch` copies nothi
+	- `FROM scratch` copies nothing
+- `RUN shell command` runs command inside the image during setup
+	- 
