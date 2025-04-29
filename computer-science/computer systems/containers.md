@@ -27,4 +27,5 @@
 
 Image is stored internally with large hexadecimal ID
 - `docker images` lists all images usable by containers
-- `docker images --all` 
+- `docker images --all` lists all images, even unnamed ones
+- 
