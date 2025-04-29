@@ -21,4 +21,11 @@
 
 **Most important commands**
 - `man term` shows manual page for `term`
+- `ls` shows contents of current directory
+	- `ls -l` shows more info about each file
+	- `ls -A` shows "hidden" files too
+- `cd` changes the value of `PWD`
+- `cp` copies files
+	- `cp -r` copies directories with all their contents recursively
+- 
 
