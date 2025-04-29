@@ -13,5 +13,6 @@
 - One process's stdout mapped to another process's stdin:
 	- `ls | shuf` redirects `ls` stdout to `shuf`' stdin
 
-
+**Global variables:**
+- `$PWD` is the 
 
