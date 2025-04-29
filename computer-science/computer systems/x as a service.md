@@ -52,7 +52,20 @@
 
 ### Functions as a Service (FaaS)
 - Sending cloud providers a function and send back as a result of running that function
-- Also called "serverless cinoytubg"
+- Also called "serverless computing"
 
 **Purchase**
-- Executions of a function I provi
+- Executions of a function I provide
+
+**Abstracted away by service provider**
+- Hardware
+- Virtualization
+- Operating System
+- Containers
+- Compilers/Interpreter
+
+**Large commercial providers**
+- AWS Lambda
+- Azure Functions
+- GCP Cloud Functions
+
