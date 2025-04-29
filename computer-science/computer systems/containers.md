@@ -13,4 +13,6 @@
 	- Starting from pre-built image makes writing Dockerfile easy
 	- `FROM scratch` copies nothing
 - `RUN shell command` runs command inside the image during setup
-	- 
+	- Runs installation commands from a package manager from the `FROM` command
+	- Dockerfile RUN vs `docker run`
+		- 
