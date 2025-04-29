@@ -48,4 +48,6 @@
 - Containers
 
 **Large commercial providers**
-- Most IaaS and Caa
+- Most IaaS and CaaS providers have multiple PaaS offerings
+
+### Functions as a Service (FaaS)
