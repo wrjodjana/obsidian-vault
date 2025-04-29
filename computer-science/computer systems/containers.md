@@ -18,4 +18,6 @@
 		- Since RUN is inside a Dockerfile, it runs while setting up the image, changes it makes to the image persist and are copied into every container made from the image
 		- `docker run` will only impact the state of the container only; image won't change
 - `COPY local/path/inside/image` copies a file or directory tree from your computer into image
-- `USER username` ru
+- `USER username` runs any commands that follow it and run in the image as the given user
+- `WORKDIR /path/inside/image` basically `cd` in Dockerfile
+- `CMD` 
