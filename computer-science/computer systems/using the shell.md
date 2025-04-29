@@ -10,5 +10,5 @@
 	- `ls > /tmp/dump` redirects stdout to file `/tmp/dump`
 	- `ls 2> /tmp/dump` redirects stderr to file `/tmp/dump`
 	- `ls < /tmp/dump` redirects stdin to read from file `/tmp/dump`
-- 
+- One process mapped to
 
