@@ -30,5 +30,9 @@ Image is stored internally with large hexadecimal ID
 - `docker images --all` lists all images, even unnamed ones
 - `docker rmi imagename` removes a single image
 - `docker image prune` removes all "dangling" images
-- `docker system prune -all` both removes any
+- `docker system prune -all` both removes any stopped containers and any images that are not used by running containers
+
+### Creating Containers
+
+
 
