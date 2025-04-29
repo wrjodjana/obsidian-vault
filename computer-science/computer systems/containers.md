@@ -28,4 +28,4 @@
 Image is stored internally with large hexadecimal ID
 - `docker images` lists all images usable by containers
 - `docker images --all` lists all images, even unnamed ones
-- 
+- `docker rmi imagename`
