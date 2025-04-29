@@ -70,4 +70,17 @@
 - GCP Cloud Functions
 
 ### Software as a Service (SaaS)
-- Any app yo
+- Any app you run by connecting to a website or by running an installed application that defers key operational functions to a computer over the Internet
+
+**Purchase**
+- Access to an application
+
+**Abstracted away by service provider**
+- Hardware
+- Virtualization
+- Operating System
+- Containers
+- Compiler/Interpreter
+- Language/Code
+
+
