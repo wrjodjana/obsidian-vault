@@ -44,7 +44,8 @@ Creating new containers
 
 ### Listing and deleting containers
 - `docker container ls` lists the currently running containers
-- `docker container ls -all` lists the currently exiting containers: both running and fi
+- `docker container ls -all` lists the currently exiting containers: both running and finished
+- `dicjer cibtaub`
 
 
 
