@@ -91,4 +91,9 @@ Listing/Deleting images
 
 Creating containers
 - `-it` maps container's stdin, stdout and stderr to terminal
-- `-p $X:$Y` causes network connections to port `$X` 
+- `-p $X:$Y` causes network connections to port `$X` to be forwarded into container and remapped to port `$Y`
+- `-v $X:$Y` causes directory `$X` to show up in the container as `$Y`, sees changes in the filesystem
+- `--rm` remove container as long as it is finished running
+
+Listing/Deleting containers
+- 
