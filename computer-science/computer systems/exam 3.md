@@ -63,4 +63,7 @@ docker cli flags
 - removes the container as long as we are finished running it
 
 `-p $X:$Y`
+- causes network connections to port `$X` to be forwarded into container and remapped to port `$Y` inside it
+
+`-v $X:$Y`
 - 
