@@ -47,7 +47,9 @@ Creating new containers
 - `docker container ls -all` lists the currently exiting containers: both running and finished
 - `docker container rm [container id]` removes a container that is not running
 - `docker container rm --force [container id]` removes a container whether running or not
-- 
+- `docker container prune` removes all containers that are not running
+
+
 
 
 
