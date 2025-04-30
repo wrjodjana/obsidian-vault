@@ -26,4 +26,12 @@ nextid += 1
 allws[myid] = ws
 ```
 
-- Read messages sent by the client, 
+- Read messages sent by the client, forwarding them to all other clients
+```Python
+async for msg in ws:
+	if msg.type == WSMsgType.TEXT:
+		for other in allws:
+			await allws[other].send_str(f'{my id} : {msg.data}')
+	elif msg.type == WSMsgType.ERROR:
+		print(f'ws {my id})
+```
