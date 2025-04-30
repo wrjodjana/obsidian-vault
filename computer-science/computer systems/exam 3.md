@@ -36,3 +36,4 @@ rwxrw-r--  me  us  /thing/
 - Group: `us` has permissions `rw` or read, write
 - Others: has only `r` or read
 
+docker definitions
