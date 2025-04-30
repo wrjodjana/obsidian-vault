@@ -39,4 +39,11 @@ async for msg in ws:
 	return ws
 ```
 
-- 
+- When the app shuts down, we need to let it know it's OK to shut down the ope n WebSockets
+```Python
+async def shutdown_ws(app):
+	for other in tuple(allws):
+		await allws[other].close()
+
+if __name__ == '__main__'
+```
