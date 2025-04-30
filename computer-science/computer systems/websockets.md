@@ -45,5 +45,8 @@ async def shutdown_ws(app):
 	for other in tuple(allws):
 		await allws[other].close()
 
-if __name__ == '__main__'
+if __name__ == '__main__':
+	app = web.Application()
+	app.add_routes(routes)
+	app.on_shutdown.append(shutdown_ws)
 ```
