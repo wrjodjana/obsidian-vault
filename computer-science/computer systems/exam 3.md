@@ -42,4 +42,4 @@ docker definitions
 **DockerFile:** blueprint for creating an image
 **Image:** used for creating and running containers 
 
-
+docker run vs Dockerfile RUN
