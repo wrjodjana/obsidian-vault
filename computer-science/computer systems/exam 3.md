@@ -17,4 +17,9 @@ text = await req.text()
 - to call the request body u use `await`
 - `req.text()` is used to read the request body
 
+reading `json` response
+```Python
+json = await req.json()
+```
+- use `.extend` instead of `.append` when adding to a global list
 
