@@ -42,7 +42,9 @@ Creating new containers
 - `-v /real/host/path:/inner/path` causes directory `/real/host/path` on your disk to show up in the container as `/inner/path`. Any changes the container makes to files in that path will be visible to you even after the container finishes.
 - `--rm` tells the runtime to remove the container as soon as it is finished running
 
-
+### Listing and deleting containers
+- `docker container ls` lists the currently running containers
+- `docker container ls -all` lists the currently exiting containers: both running and fi
 
 
 
