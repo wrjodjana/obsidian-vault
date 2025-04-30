@@ -1,4 +1,5 @@
 
 **Initiated messages on the web**
 - **Polling:** 
-- **WebSockets:** 
+- **WebSockets:** transitioning from HTTP's request-and-response use of TCP to a general open socket
+- 
