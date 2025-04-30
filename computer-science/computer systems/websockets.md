@@ -33,5 +33,10 @@ async for msg in ws:
 		for other in allws:
 			await allws[other].send_str(f'{my id} : {msg.data}')
 	elif msg.type == WSMsgType.ERROR:
-		print(f'ws {my id})
+		print(f'ws {my id} recieved exception {ws.exception()}')
+
+	del allws[my id]
+	return ws
 ```
+
+- 
