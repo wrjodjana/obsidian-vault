@@ -6,4 +6,4 @@
 - creating a highway graph
 - FEMA flood maps
 - mapping the bridge failure probability to link failure probability
-- 
+- probability failrue of link failure would be 0%
