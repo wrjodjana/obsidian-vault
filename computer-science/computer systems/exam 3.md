@@ -47,13 +47,6 @@ docker run
 - runs something even if there is no program included after run/RUN
 - same thing as opening an interactive docker shell
 
-DockerFile RUN
-- executes commands in a new layer on top of the image
-- usually used for setup commands like `apt-get install`
-
-Both
-- contains side effects of the program to be inside Docker
-
 **X as a service**
 
 FaaS
