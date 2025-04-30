@@ -64,6 +64,8 @@ docker cli flags
 
 `-p $X:$Y`
 - causes network connections to port `$X` to be forwarded into container and remapped to port `$Y` inside it
+- connects a socket to it through a browser
 
 `-v $X:$Y`
-- 
+- causes directory `$X` on your disk to show up in the container as `$Y`
+- allows to see changes we make in our filesystem
