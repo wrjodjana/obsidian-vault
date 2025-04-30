@@ -26,3 +26,7 @@ body = await req.json()
 - `req.json()` returns a dictionary where `body["username"]` refers to the key `username`
 
 
+**mcq**
+
+file permissions
+	
