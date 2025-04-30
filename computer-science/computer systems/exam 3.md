@@ -80,4 +80,11 @@ DockerFile:
 - `COPY [path]` copies file or directory tree from computer inside image
 - `USER [username]` runs any command that follows it and run in the image
 - `WORKDIR [path]` DockerFile version of `cd`
-- `CMD [shell command]` default command 
+- `CMD [shell command]` default command to run inside each container
+
+Listing/Deleting images
+- `docker images` lists all images usable by container
+- `docker images --all` lists all images, even unnamed ones
+- `docker rmi [image name]` removes single image
+- `docker image prune` removes all "dangling" images
+- `docker system `
