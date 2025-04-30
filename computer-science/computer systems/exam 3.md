@@ -46,4 +46,4 @@ docker run
 - creates a container from an image and starts it
 
 DockerFile RUN
-- 
+- executes commands in a new layer on top of the image
