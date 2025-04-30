@@ -32,4 +32,7 @@ file permissions
 ```
 rwxrw-r--  me  us  /thing/
 ```
-- User: `me` has permissions `rwx`
+- User: `me` has permissions `rwx` or read, write, execute
+- Group: `us` has permissions `rw` or read, write
+- Others: has only `r` or read
+
