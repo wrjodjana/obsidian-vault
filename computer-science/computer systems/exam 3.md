@@ -54,7 +54,7 @@ DockerFile RUN
 Both
 - contains side effects of the program to be inside Docker
 
-X as a service
+**X as a service**
 
 FaaS
 - serverless computing
@@ -69,5 +69,5 @@ CaaS
 
 IaaS
 - VirtualBox
-- 
+- can do sudo permissions
 
