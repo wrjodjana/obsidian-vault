@@ -23,5 +23,7 @@ global nextid
 global allws
 myid = nextid
 nextid += 1
-allws[myid]
+allws[myid] = ws
 ```
+
+- 
