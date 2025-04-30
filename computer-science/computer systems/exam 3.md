@@ -54,8 +54,6 @@ DockerFile RUN
 Both
 - contains side effects of the program to be inside Docker
 
-
-
 **X as a service**
 
 FaaS
@@ -73,3 +71,10 @@ IaaS
 - VirtualBox
 - can do sudo permissions
 
+
+**docker scripting**
+
+- `FROM [image name]` initializes image by copying another image
+- `RUN [shell command]` runs a command inside image during setup
+- `COPY [path]` copies file or directory tree from computer inside image
+- 
