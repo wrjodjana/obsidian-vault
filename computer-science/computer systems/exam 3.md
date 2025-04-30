@@ -54,3 +54,8 @@ DockerFile RUN
 Both
 - contains side effects of the program to be inside Docker
 
+docker cli flags
+
+`-it`
+- maps the container's stdin, stdout and stderr to the terminal
+
