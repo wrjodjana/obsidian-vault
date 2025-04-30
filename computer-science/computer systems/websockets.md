@@ -26,4 +26,4 @@ nextid += 1
 allws[myid] = ws
 ```
 
-- 
+- Read messages sent by the client, 
