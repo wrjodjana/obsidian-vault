@@ -29,6 +29,7 @@ body = await req.json()
 **mcq**
 
 file permissions
-```linux
-
 ```
+rwxrw-r--  me  us  /thing/
+```
+- User: `me` has permissions `rwx`
