@@ -9,4 +9,8 @@
 @routes.get("/ws")
 async def websocket_handler(request):
 ```
-- 
+-  Create a WebSocket connection object and waiting while it communicates with the client:
+```Python
+ws = web.WebSocketResponse()
+await ws.prepare(request)
+```
