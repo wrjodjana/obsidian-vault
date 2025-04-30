@@ -19,7 +19,9 @@ text = await req.text()
 
 reading `json` response
 ```Python
-json = await req.json()
+body = await req.json()
 ```
 - use `.extend` instead of `.append` when adding to a global list
+- `req.json()` returns a dictionary where `body["username"]` refers to the key `username`
+
 
