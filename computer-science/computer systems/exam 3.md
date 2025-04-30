@@ -87,4 +87,8 @@ Listing/Deleting images
 - `docker images --all` lists all images, even unnamed ones
 - `docker rmi [image name]` removes single image
 - `docker image prune` removes all "dangling" images
-- `docker system `
+- `docker system prune --all`  removes any stopped containers and any images not used
+
+Creating containers
+- `-it` maps container's stdin, stdout and stderr to terminal
+- `-p $X:$Y` causes network connections to port `$X` 
