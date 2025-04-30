@@ -17,4 +17,11 @@ ws = web.WebSocketResponse()
 await ws.prepare(request)
 ```
 
-- 
+- Keeping tracking of all connected WebSockets
+```Python
+global nextid
+global allws
+myid = nextid
+nextid += 1
+allws[myid]
+```
