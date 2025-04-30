@@ -96,4 +96,8 @@ Creating containers
 - `--rm` remove container as long as it is finished running
 
 Listing/Deleting containers
-- 
+- `docker container ls` lists currently running containers
+- `docker container ls --all` lists currently exiting containers (both running and finished)
+- `docker container rm [container id]` removes container not running
+- `docker container rm --force [container id]` removes container if running or not
+- `docker container prune` 
