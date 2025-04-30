@@ -54,18 +54,12 @@ DockerFile RUN
 Both
 - contains side effects of the program to be inside Docker
 
-docker cli flags
+X as a service
 
-`-it`
-- maps the container's stdin, stdout and stderr to the terminal
+FaaS
+- serverless computing
+- rest apis
 
-`--rm`
-- removes the container as long as we are finished running it
+SaaS
+- Campuswire, Zoom
 
-`-p $X:$Y`
-- causes network connections to port `$X` to be forwarded into container and remapped to port `$Y` inside it
-- connects a socket to it through a browser
-
-`-v $X:$Y`
-- causes directory `$X` on your disk to show up in the container as `$Y`
-- allows to see changes we make in our filesystem
