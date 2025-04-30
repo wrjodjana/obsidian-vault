@@ -74,7 +74,10 @@ IaaS
 
 **docker scripting**
 
+DockerFile:
 - `FROM [image name]` initializes image by copying another image
 - `RUN [shell command]` runs a command inside image during setup
 - `COPY [path]` copies file or directory tree from computer inside image
-- 
+- `USER [username]` runs any command that follows it and run in the image
+- `WORKDIR [path]` DockerFile version of `cd`
+- `CMD [shell command]` default command 
