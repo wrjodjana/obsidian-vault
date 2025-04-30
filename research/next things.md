@@ -8,3 +8,5 @@
 - mapping the bridge failure probability to link failure probability
 - probability failrue of link failure would be 0%
 - select box and choose manual to remove those links and nodes
+- reproduce Tong's result with the failure probabilities
+- override 
