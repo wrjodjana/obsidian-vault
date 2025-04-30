@@ -39,7 +39,10 @@ Creating new containers
 - `docker run` won't connect the container to any resources other than the CPU
 - `-it` maps the container's stdin, stdout and stderr to the terminal
 - `-p 5000:3456` causes network connections to port `5000` to be forwarded into the container and remapped to port `3456` inside it
-- `-v /real/host/path:/inner/path` causes directory `/real/host/path` on your disk to show up in the container as `/inner/path`. Any changes the container makes to files in that path will be visisblet o you even after the container finishes.
+- `-v /real/host/path:/inner/path` causes directory `/real/host/path` on your disk to show up in the container as `/inner/path`. Any changes the container makes to files in that path will be visible to you even after the container finishes.
+- `--rm` tells the runtime to remove the container as soon as it is finished running
+
+
 
 
 
