@@ -29,4 +29,6 @@ body = await req.json()
 **mcq**
 
 file permissions
-	
+```linux
+
+```
