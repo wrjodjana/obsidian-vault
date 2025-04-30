@@ -59,3 +59,8 @@ docker cli flags
 `-it`
 - maps the container's stdin, stdout and stderr to the terminal
 
+`--rm`
+- removes the container as long as we are finished running it
+
+`-p $X:$Y`
+- 
