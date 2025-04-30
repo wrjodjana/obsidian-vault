@@ -9,6 +9,7 @@ async def func(req : Request) -> Response:
 ```
 - post could be replaced with put, get, delete
 - response can have headers `status`, `text`
+- status 200 usually means it's OK, while 500 means internal server error
 
 reading request body
 ```Python
