@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/computer systems/using the shell.md",
+                "file": "research/next things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "using the shell"
+              "title": "next things"
             }
           }
         ]
@@ -168,28 +168,29 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "research/things to fix.md",
+    "research/next things.md",
+    "computer-science/object oriented programming.md",
+    "computer-science/data structures/array and strings.md",
+    "christianity/how to change deeply - tim keller.md",
+    "christianity/how to deal with dark times - tim keller.md",
+    "computer-science/computer systems/using the shell.md",
     "computer-science/computer systems/websockets.md",
     "computer-science/computer systems/x as a service.md",
     "computer-science/computer systems/containers.md",
     "computer-science/computer systems/restful web apis, aiohttp framework.md",
-    "computer-science/computer systems/using the shell.md",
     "computer-science/computer systems/authentication.md",
-    "computer-science/object oriented programming.md",
     "interview/recruiter email/salesforce.md",
     "interview/recruiter email/rivian.md",
     "interview/cover letters/trading technologies.md",
     "interview/recruiter email/gen.md",
     "interview/recruiter email",
     "computer-science/computer systems/restful web apis.md",
-    "research/things to fix.md",
     "research",
-    "christianity/how to deal with dark times - tim keller.md",
     "computer-science/computer systems",
     "interview/cover letters/weavegrid.md",
-    "computer-science/data structures/array and strings.md",
     "christianity/how to deal with dark times - Tim Keller.md",
     "README.md",
-    "christianity/how to change deeply - tim keller.md",
     "interview/cover letters/sum billion dollar idea.md"
   ]
 }
