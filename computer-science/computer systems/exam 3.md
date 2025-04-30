@@ -38,4 +38,5 @@ rwxrw-r--  me  us  /thing/
 
 docker definitions
 
+**Container:** run a program, get output, discard everything it did to my system
 **DockerFile:** 
