@@ -39,4 +39,5 @@ rwxrw-r--  me  us  /thing/
 docker definitions
 
 **Container:** run a program, get output, discard everything it did to my system
-**DockerFile:** 
+**DockerFile:** blueprint for creating an image
+**Image:** used for creating containers 
