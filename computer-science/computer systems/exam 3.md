@@ -36,7 +36,7 @@ rwxrw-r--  me  us  /thing/
 - Group: `us` has permissions `rw` or read, write
 - Others: has only `r` or read
 
-docker definitions
+**docker definitions**
 
 **Container:** run a program, get output, discard everything it did to my system
 **DockerFile:** blueprint for creating an image
@@ -53,6 +53,8 @@ DockerFile RUN
 
 Both
 - contains side effects of the program to be inside Docker
+
+
 
 **X as a service**
 
