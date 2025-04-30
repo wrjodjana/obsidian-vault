@@ -11,9 +11,10 @@ async def func(req : Request) -> Response:
 - response can have headers `status`, `text`
 
 reading request body
-- to call the request body u use `await`
-- `req.text()` is used to read the request body
 ```Python
 text = await req.text()
 ```
+- to call the request body u use `await`
+- `req.text()` is used to read the request body
+
 
