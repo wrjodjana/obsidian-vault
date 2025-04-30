@@ -40,4 +40,6 @@ docker definitions
 
 **Container:** run a program, get output, discard everything it did to my system
 **DockerFile:** blueprint for creating an image
-**Image:** used for creating containers 
+**Image:** used for creating and running containers 
+
+
