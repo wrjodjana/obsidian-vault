@@ -9,4 +9,4 @@ async def func(req : Request) -> Response:
 ```
 - post could be replaced with put, get, delete
 - to call the request body u use `await`
-- 
+	- `req.text()` is used to get 
