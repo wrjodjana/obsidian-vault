@@ -100,4 +100,5 @@ Listing/Deleting containers
 - `docker container ls --all` lists currently exiting containers (both running and finished)
 - `docker container rm [container id]` removes container not running
 - `docker container rm --force [container id]` removes container if running or not
-- `docker container prune` 
+- `docker container prune` removes all container not running
+
