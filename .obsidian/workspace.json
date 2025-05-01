@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/cover letters/Untitled.md",
+                "file": "interview/recruiter email/knowtex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "knowtex"
             }
           }
         ]
@@ -168,8 +168,12 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "interview/recruiter email/rivian.md",
+    "interview/recruiter email/knowtex.md",
+    "interview/cover letters/weavegrid.md",
+    "interview/cover letters/trading technologies.md",
+    "interview/cover letters/sum billion dollar idea.md",
     "computer-science/computer systems/exam 3.md",
-    "interview/cover letters/Untitled.md",
     "data engineering/sql/basics.md",
     "data engineering/sql",
     "data engineering",
@@ -186,16 +190,12 @@
     "computer-science/computer systems/containers.md",
     "computer-science/computer systems/authentication.md",
     "interview/recruiter email/salesforce.md",
-    "interview/recruiter email/rivian.md",
-    "interview/cover letters/trading technologies.md",
     "interview/recruiter email/gen.md",
     "interview/recruiter email",
     "computer-science/computer systems/restful web apis.md",
     "research",
     "computer-science/computer systems",
-    "interview/cover letters/weavegrid.md",
     "christianity/how to deal with dark times - Tim Keller.md",
-    "README.md",
-    "interview/cover letters/sum billion dollar idea.md"
+    "README.md"
   ]
 }
