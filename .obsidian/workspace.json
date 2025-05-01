@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/computer systems/exam 3.md",
+                "file": "interview/cover letters/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exam 3"
+              "title": "Untitled"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "computer-science/computer systems/exam 3.md",
+    "interview/cover letters/Untitled.md",
     "data engineering/sql/basics.md",
     "data engineering/sql",
     "data engineering",
     "computer-science/computer systems/restful web apis, aiohttp framework.md",
     "computer-science/computer systems/websockets.md",
     "research/next things.md",
-    "computer-science/computer systems/exam 3.md",
     "research/things to fix.md",
     "computer-science/object oriented programming.md",
     "computer-science/data structures/array and strings.md",
