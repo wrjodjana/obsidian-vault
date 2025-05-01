@@ -15,6 +15,7 @@
 | SMALLMONEY |          Smaller monetary values           |              -214,748.3648 to 214,748.3647              |
 |   FLOAT    |        Approximate numerical values        |                 -1.79E+308 to 1.79E+308                 |
 |    REAL    | Similar to FLOAT, but with less precision  |                  -3.40E+38 to 3.40E+38                  |
+**Character and String Data Types:**
 
 
 
