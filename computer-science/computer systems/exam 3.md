@@ -40,7 +40,7 @@ rwxrw-r--  me  us  /thing/
 - User: `me` has permissions `rwx` or read, write, execute
 - Group: `us` has permissions `rw` or read, write
 - Others: has only `r` or read
-- have to execute in the first two and then read/write in the last
+- have to execute in the first two files and then read/write in the last
 
 **docker definitions**
 
