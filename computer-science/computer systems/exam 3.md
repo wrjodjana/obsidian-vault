@@ -25,6 +25,11 @@ body = await req.json()
 - use `.extend` instead of `.append` when adding to a global list
 - `req.json()` returns a dictionary where `body["username"]` refers to the key `username`
 
+starting aiohttp session
+```Python
+async with aiohttp.ClientSession() as session:
+	async with session.get(url) as response:
+```
 
 **mcq**
 
