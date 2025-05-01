@@ -52,24 +52,6 @@ docker run
 - runs something even if there is no program included after run/RUN
 - same thing as opening an interactive docker shell
 
-**X as a service**
-
-FaaS
-- serverless computing
-- rest apis
-
-SaaS
-- Campuswire, Zoom
-
-CaaS
-- containers
-- Docker
-
-IaaS
-- VirtualBox
-- can do sudo permissions
-
-
 **docker scripting**
 
 DockerFile:
