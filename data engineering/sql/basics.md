@@ -3,10 +3,10 @@
 
 **Numeric Data Types:**
 
-| Data Type | Description | Range |
-| :-------: | :---------: | :---: |
-|  BIGINT   |             |       |
-|           |             |       |
+| Data Type |      Description      | Range |
+|:---------:|:---------------------:|:-----:|
+|  BIGINT   | Large Integer Numbers |       |
+|           |                       |       |
 
 
 
