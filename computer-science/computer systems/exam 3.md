@@ -61,7 +61,7 @@ DockerFile:
 - `COPY [path]` copies file or directory tree from computer inside image
 - `USER [username]` runs any command that follows it and run in the image
 - `WORKDIR [path]` DockerFile version of `cd`
-- `CMD [shell command]` default command to run inside each container\
+- `CMD [shell command]` default command to run inside each container
 
 Create an image: `docker build -t [image name]`
 
