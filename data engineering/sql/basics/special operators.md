@@ -85,4 +85,8 @@ Output:
 ### `ANY` keyword
 
 1. Used with comparison operators in `WHERE` or `HAVING` and condition is true if the comparison is satisfied for at least one value returned in the category
-
+```sql
+SELECT [column_name]
+FROM [table_name]
+WHERE value > ANY(SELECT [column_name] FROM [table_name_2])
+```
