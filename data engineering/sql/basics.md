@@ -58,5 +58,5 @@ Output:
 |:------:| --------------- | --------- | ----------- |
 |  104   | Utkarsh Singh   | Allahabad | India       |
 |  105   | Sudhanshu Yaudh | Allahabad | India       |
-**Bitwise Operators**
-- `&` 
+**Special Operators**
+- `ALL` - used to select all records of a `SELECT` statement
