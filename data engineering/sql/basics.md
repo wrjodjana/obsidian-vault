@@ -9,8 +9,14 @@ Arithmetic Operators
 - `%` - modulus is used to get remainder when data is divided by another
 
 **Example:**
+
 ```sql
 SELECT emp_salary, emp_salary * 1.05 AS "Revised Salary" FROM employee;
 ```
 
+Output:
+
+|     |     |
+| --- | --- |
+|     |     |
 
