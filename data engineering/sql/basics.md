@@ -88,5 +88,14 @@ OrderDetails Table:
 
 | OrderDetailsID | OrderID | ProductID | Quantity |
 | -------------- | ------- | --------- | -------- |
-|                |         |           |          |
-|                |         |           |          |
+| 1              | 10248   | 1         | 12       |
+| 2              | 10248   | 2         | 10       |
+| 3              | 10248   | 3         | 15       |
+| 4              | 10249   | 4         | 4        |
+| 5              | 10249   | 1         | 8        |
+
+Query:
+```sql
+SELECT ALL ProductName
+FROM
+```
