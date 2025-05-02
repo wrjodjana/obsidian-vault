@@ -95,5 +95,14 @@ WHERE value > ANY(SELECT [column_name] FROM [table_name_2])
 
 Query: Find distinct category IDs of products that appear in the OrderDetails table
 ```sql
-
+SELECT DISTINCT CategoryID
+FROM Products
+WHERE ProductID = any(SELECT ProductID
+					  FROM OrderDetails)
 ```
+
+Output:
+
+| CategoryID |     |
+| ---------- | --- |
+|            |     |
