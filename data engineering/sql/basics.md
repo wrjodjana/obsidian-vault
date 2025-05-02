@@ -63,5 +63,7 @@ Output:
 `ALL` - used to select all records of a `SELECT` statement
 
 ```sql
+SELECT [column_name]
+FROM [table_name]
 
 ```
