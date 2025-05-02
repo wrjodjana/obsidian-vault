@@ -1,6 +1,4 @@
 
-### Operators
-
 **Arithmetic Operators**
 - `+` - perform addition operation on data values
 - `-` - perform subtraction operation on data values
@@ -94,7 +92,7 @@ OrderDetails Table:
 | 4              | 10249   | 4         | 4        |
 | 5              | 10249   | 1         | 8        |
 
-Query:  
+Query:  Find all product names in the Products table
 ```sql
 SELECT ALL ProductName
 FROM Products
@@ -141,3 +139,4 @@ Output:
 | OrderID |
 | ------- |
 | 10248   |
+
