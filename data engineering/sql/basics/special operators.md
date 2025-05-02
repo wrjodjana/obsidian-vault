@@ -126,5 +126,11 @@ WHERE [column_name] BETWEEN value1 AND value2;
 
 1. Used in `WHERE` or `HAVING` clauses to check if  a value matches any value in a specified list or subquery.
 ```sql
-SELECT [column_]
+SELECT [column_name]
+FROM [table_name]
+WHERE [column_name] IN (value1, value2, value3);
+
+SELECT [column_name]
+FROM [table_name]
+WHERE [column_name] IN (SELECT column_name FROM table_name);
 ```
