@@ -58,3 +58,5 @@ Output:
 |:------:| --------------- | --------- | ----------- |
 |  104   | Utkarsh Singh   | Allahabad | India       |
 |  105   | Sudhanshu Yaudh | Allahabad | India       |
+**Bitwise Operators**
+- `&` 
