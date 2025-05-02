@@ -60,7 +60,7 @@ Output:
 |  105   | Sudhanshu Yaudh | Allahabad | India       |
 **Special Operators**
 
-`ALL` - used to select all records of a `SELECT` statement. 
+`ALL` - a SQL keyword with two uses:
 1. Used in a `SELECT` clause, to explicitly specify that all rows should be returned including duplicates
 ```sql
 SELECT ALL [column_name] FROM [table_name];
@@ -71,3 +71,4 @@ SELECT [column_name]
 FROM [table_name] 
 WHERE value > ALL (SELECT [column_name] FROM [table_name_2])
 ```
+
