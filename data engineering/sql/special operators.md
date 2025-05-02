@@ -90,6 +90,7 @@ SELECT [column_name]
 FROM [table_name]
 WHERE value > ANY(SELECT [column_name] FROM [table_name_2])
 ```
+- interchangeable with the `SOME` keyword
 
 **Example:**
 
@@ -146,6 +147,7 @@ FROM [table_name]
 WHERE EXISTS (SELECT * FROM [table_name_2] WHERE [condition]);
 ```
 
-### `SOME` keyword
+### `UNIQUE` keyword
 
-**Definition:** 
+**Definition:** two primary uses:
+1. As a constraint in table definitions. Ensures that all values in a column 
