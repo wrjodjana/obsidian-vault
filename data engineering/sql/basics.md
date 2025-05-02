@@ -62,9 +62,9 @@ Output:
 
 `ALL` - used to select all records of a `SELECT` statement
 
+Syntax:
 ```sql
 SELECT [column_name]
 FROM [table_name]
 WHERE [column_name] [comparison_op] ALL
-	(SELECT )
 ```
