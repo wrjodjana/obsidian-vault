@@ -1,5 +1,5 @@
 
-`ALL` - a SQL keyword with two uses:
+### `ALL` keyword
 1. Used in a `SELECT` clause, to explicitly specify that all rows should be returned including duplicates
 ```sql
 SELECT ALL [column_name] FROM [table_name];
@@ -80,4 +80,5 @@ Output:
 | OrderID |
 | ------- |
 | 10248   |
+
 
