@@ -120,4 +120,11 @@ WHERE [column_name] BETWEEN value1 AND value2;
 ```
 - equivalent to `WHERE [column_name] >= value1 AND column_name <= value2`
 
-### ``
+### `IN` keyword
+
+**Definition:** used to filter data based on multiple possible values
+
+1. Used in `WHERE` or `HAVING` clauses to check if  a value matches any value in a specified list or subquery.
+```sql
+SELECT [column_]
+```
