@@ -84,3 +84,5 @@ Output:
 
 ### `ANY` keyword
 
+1. Used with comparison operators in `WHERE` or `HAVING` and condition is true 
+
