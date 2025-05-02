@@ -42,4 +42,12 @@ Output:
 |      5      | MOHAN  | 50    |
 
 **Logical Operators**
-- `AND` - compares two booleans as expressions 
+- `AND` - compares two booleans as expressions and returns true when both expressions are true
+- `OR` - compares two booleans as expressions and returns true when one expression is true
+- `NOT` - takes a single boolean and changes its value from false to true or true to false
+
+Example:
+
+```sql
+SE
+```
