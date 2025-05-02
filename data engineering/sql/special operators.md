@@ -136,3 +136,7 @@ WHERE [column_name] IN (SELECT column_name FROM table_name);
 ```
 
 ### `EXISTS` keyword
+
+**Definition:** used to test the existence of records in a subquery
+
+
