@@ -150,4 +150,10 @@ WHERE EXISTS (SELECT * FROM [table_name_2] WHERE [condition]);
 ### `UNIQUE` keyword
 
 **Definition:** two primary uses:
-1. As a constraint in table definitions. Ensures that all values in a column 
+1. As a constraint in table definitions. Ensures that all values in a column or combination of columns are different (no duplicates).
+```sql
+CREATE TABLE table_name (
+	column_name data_type UNIQUE,
+);
+```
+2. In a `SELECT` clause. Used to retrieve distinct rows, removing duplicates with `DISTINCT` in 
