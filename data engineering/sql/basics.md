@@ -54,6 +54,7 @@ SELECT * FROM employee WHERE emp_city = 'Allahabad' AND emp_country = 'India';
 
 Output:
 
-| emp_id | emp_name      | emp_city | emp_country |
-| ------ | ------------- | -------- | ----------- |
-| 104    | Utkarsh Singh |          |             |
+| emp_id | emp_name        | emp_city  | emp_country |
+|:------:| --------------- | --------- | ----------- |
+|  104   | Utkarsh Singh   | Allahabad | India       |
+|  105   | Sudhanshu Yaudh | Allahabad | India       |
