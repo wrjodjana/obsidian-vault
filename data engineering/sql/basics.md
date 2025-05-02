@@ -130,5 +130,15 @@ Query:
 ```sql
 SELECT OrderID
 FROM OrderDetails
-GROUP BY 
+GROUP BY OrderID
+HAVING MAX(Quantity) > ALL(SELECT AVG(Quantity)
+						   FROM OrderDetails
+						   GROUP BY OrderID);
 ```
+
+Output:
+
+
+| OrderID |     |
+| ------- | --- |
+|         |     |
