@@ -124,7 +124,7 @@ WHERE [column_name] BETWEEN value1 AND value2;
 
 **Definition:** used to filter data based on multiple possible values
 
-1. Used in `WHERE` or `HAVING` clauses to check if  a value matches any value in a specified list or subquery.
+1. Used in `WHERE` or `HAVING` clauses to check if a value matches any value in a specified list or subquery.
 ```sql
 SELECT [column_name]
 FROM [table_name]
@@ -139,4 +139,7 @@ WHERE [column_name] IN (SELECT column_name FROM table_name);
 
 **Definition:** used to test the existence of records in a subquery
 
-
+1. Used in `WHERE` or `HAVING` clauses to check if a subquery returns any rows
+```sql
+SELECT [co]
+```
