@@ -1,4 +1,4 @@
-Subject: UIUC Junior in CS interested in technology :)
+UIUC Junior in CS interested in technology :)
 
 Hello [INSERT NAME], 
 
