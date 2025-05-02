@@ -11,7 +11,7 @@ FROM [table_name]
 WHERE value > ALL (SELECT [column_name] FROM [table_name_2])
 ```
 
-Example:
+**Example:**
 
 Products Table:
 
