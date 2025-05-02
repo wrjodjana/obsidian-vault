@@ -110,4 +110,9 @@ Output:
 
 ### `BETWEEN` keyword
 
-**Definition:** 
+**Definition:** used to filter data within a specified inclusive range
+
+1. Used in `WHERE` or `HAVING` clauses to select values within a given range (inclusive of boundary values). Requires the `AND` keyword to connect lower and upper bounds.
+```sql
+
+```
