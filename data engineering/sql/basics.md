@@ -72,3 +72,12 @@ FROM [table_name]
 WHERE value > ALL (SELECT [column_name] FROM [table_name_2])
 ```
 
+Example:
+
+Products Table:
+
+| ProductID | ProductName | SupplierID | CategoryID | Price |
+| --------- | ----------- | ---------- | ---------- | ----- |
+| 1         | Chais       | 1          | 1          | 18    |
+| 2         | Chang       |            |            |       |
+|           |             |            |            |       |
