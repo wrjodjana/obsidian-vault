@@ -61,4 +61,8 @@ Output:
 **Special Operators**
 
 `ALL` - used to select all records of a `SELECT` statement. 
-1. Used in a 
+1. Used in a `SELECT` clause, to explicitly specify that all rows should be returned including duplicates
+```sql
+SELECT ALL [column_name] FROM [table_name];
+```
+2. Used in comparison operators, in `WHERE` or `HAVING` clauses to compare a value against
