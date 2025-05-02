@@ -82,4 +82,11 @@ Products Table:
 | 2         | Chang       | 1          | 1          | 19    |
 | 3         | Aniseed     | 1          | 2          | 20    |
 | 4         | Anton       | 2          | 2          | 22    |
-| 5         |             |            |            |       |
+| 5         | Gumbo       | 2          | 2          | 21    |
+
+OrderDetails Table:
+
+| OrderDetailsID | OrderID | ProductID | Quantity |
+| -------------- | ------- | --------- | -------- |
+|                |         |           |          |
+|                |         |           |          |
