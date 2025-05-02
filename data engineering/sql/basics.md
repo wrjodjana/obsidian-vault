@@ -34,3 +34,12 @@ Example:
 ```sql
 SELECT * FROM MATHS WHERE MARKS=50;
 ```
+
+Output:
+
+| ROLL_NUMBER | S_NAME | MARKS |
+|:-----------:| ------ | ----- |
+|      5      | MOHAN  | 50    |
+
+**Logical Operators**
+- `AND` - compares two booleans as expressions 
