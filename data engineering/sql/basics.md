@@ -117,5 +117,7 @@ SELECT ProductName
 FROM Products
 WHERE ProductID = ALL (SELECT ProductID
 					   FROM OrderDetails
-					   WHERE )
+					   WHERE Quantity=8 or Quantity=12)
 ```
+
+Output:
