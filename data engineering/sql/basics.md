@@ -17,10 +17,10 @@ SELECT emp_salary, emp_salary * 1.05 AS "Revised Salary" FROM employee;
 Output:
 
 | emp_salary | Revised Salary |
-|:----------:|:--------------:|
-|   50000    |     52500      |
-|   60000    |     63000      |
-|   45000    |     47250      |
+|:---------- |:--------------:|
+| 50000      |     52500      |
+| 60000      |     63000      |
+| 45000      |     47250      |
 **Comparison Operators**
 - `=` - equal to
 - `>` - greater than
@@ -38,8 +38,8 @@ SELECT * FROM MATHS WHERE MARKS=50;
 Output:
 
 | ROLL_NUMBER | S_NAME | MARKS |
-|:-----------:| ------ | ----- |
-|      5      | MOHAN  | 50    |
+|:----------- | ------ |:----- |
+| 5           | MOHAN  | 50    |
 
 **Logical Operators**
 - `AND` - compares two booleans as expressions and returns true when both expressions are true
@@ -97,5 +97,16 @@ OrderDetails Table:
 Query:
 ```sql
 SELECT ALL ProductName
-FROM
+FROM Products
+WHERE TRUE;
 ```
+
+Output:
+
+| ProductName |
+| ----------- |
+| Chais       |
+| Chang       |
+| Aniseed     |
+| Anton       |
+| Gumbo       |
