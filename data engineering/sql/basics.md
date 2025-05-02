@@ -17,10 +17,10 @@ SELECT emp_salary, emp_salary * 1.05 AS "Revised Salary" FROM employee;
 Output:
 
 | emp_salary | Revised Salary |
-|:---------- |:--------------:|
-| 50000      |     52500      |
-| 60000      |     63000      |
-| 45000      |     47250      |
+|:---------- |:-------------- |
+| 50000      | 52500          |
+| 60000      | 63000          |
+| 45000      | 47250          |
 **Comparison Operators**
 - `=` - equal to
 - `>` - greater than
@@ -38,7 +38,7 @@ SELECT * FROM MATHS WHERE MARKS=50;
 Output:
 
 | ROLL_NUMBER | S_NAME | MARKS |
-|:----------- | ------ |:----- |
+|:----------- |:------ |:----- |
 | 5           | MOHAN  | 50    |
 
 **Logical Operators**
@@ -110,3 +110,12 @@ Output:
 | Aniseed     |
 | Anton       |
 | Gumbo       |
+
+Query:
+```sql
+SELECT ProductName
+FROM Products
+WHERE ProductID = ALL (SELECT ProductID
+					   FROM OrderDetails
+					   WHERE )
+```
