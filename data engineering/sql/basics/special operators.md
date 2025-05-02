@@ -90,3 +90,8 @@ SELECT [column_name]
 FROM [table_name]
 WHERE value > ANY(SELECT [column_name] FROM [table_name_2])
 ```
+
+**Example:**
+
+Query: Find distinct category IDs of products that appear in the OrderDetails table
+
