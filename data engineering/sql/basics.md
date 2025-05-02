@@ -94,7 +94,7 @@ OrderDetails Table:
 | 4              | 10249   | 4         | 4        |
 | 5              | 10249   | 1         | 8        |
 
-Query:
+Query:  
 ```sql
 SELECT ALL ProductName
 FROM Products
@@ -111,7 +111,7 @@ Output:
 | Anton       |
 | Gumbo       |
 
-Query:
+Query: Find product names if all records in the OrderDetails have a quantity of 8 or 12
 ```sql
 SELECT ProductName
 FROM Products
@@ -126,7 +126,7 @@ Output:
 | ----------- |
 | Chais       |
 
-Query:
+Query: Finding the maximum quantity in the order exceeds the average quantity of all orders
 ```sql
 SELECT OrderID
 FROM OrderDetails
@@ -138,7 +138,6 @@ HAVING MAX(Quantity) > ALL(SELECT AVG(Quantity)
 
 Output:
 
-
-| OrderID |     |
-| ------- | --- |
-|         |     |
+| OrderID |
+| ------- |
+| 10248   |
