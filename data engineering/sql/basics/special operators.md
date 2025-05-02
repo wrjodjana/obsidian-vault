@@ -102,8 +102,9 @@ WHERE ProductID = any(SELECT ProductID
 ```
 
 Output:
-
 | CategoryID |
 | ---------- |
 | 1          |
 | 2          |
+
+
