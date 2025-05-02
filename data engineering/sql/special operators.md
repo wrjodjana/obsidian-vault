@@ -141,5 +141,11 @@ WHERE [column_name] IN (SELECT column_name FROM table_name);
 
 1. Used in `WHERE` or `HAVING` clauses to check if a subquery returns any rows
 ```sql
-SELECT [co]
+SELECT [column_name]
+FROM [table_name]
+WHERE EXISTS (SELECT * FROM [table_name_2] WHERE [condition]);
 ```
+
+### `SOME` keyword
+
+**Definition:** 
