@@ -108,3 +108,6 @@ Output:
 | 1          |
 | 2          |
 
+### `BETWEEN` keyword
+
+**Definition:** 
