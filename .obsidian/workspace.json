@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/recruiter email/knowtex.md",
+                "file": "interview/recruiter email/tyson foods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "knowtex"
+              "title": "tyson foods"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "interview/recruiter email/knowtex.md",
+    "interview/recruiter email/tyson foods.md",
     "interview/recruiter email/country financial.md",
     "interview/recruiter email/structureiq.md",
     "data engineering/sql/data definition language.md",
     "data engineering/sql/special operators.md",
     "data engineering/sql/operators.md",
     "interview/recruiter email/rivian.md",
-    "interview/recruiter email/knowtex.md",
     "interview/cover letters/weavegrid.md",
     "interview/cover letters/trading technologies.md",
     "interview/cover letters/sum billion dollar idea.md",
@@ -195,7 +196,6 @@
     "computer-science/computer systems/containers.md",
     "computer-science/computer systems/authentication.md",
     "interview/recruiter email/salesforce.md",
-    "interview/recruiter email/gen.md",
     "interview/recruiter email",
     "research",
     "computer-science/computer systems"
