@@ -60,11 +60,13 @@ Output:
 |  105   | Sudhanshu Yaudh | Allahabad | India       |
 **Special Operators**
 
-`ALL` - used to select all records of a `SELECT` statement
+`ALL` - used to select all records of a `SELECT` statement. Must be preceded by a comparison operator
 
-Syntax:
+Example:
 ```sql
-SELECT [column_name]
-FROM [table_name]
-WHERE [column_name] [comparison_op] ALL
+SELECT ALL ProductName
+FROM Products
+WHERE TRUE;
 ```
+
+Output:
