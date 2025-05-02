@@ -1,4 +1,4 @@
-
+ 
 ### `ALL` keyword
 
 1. Used in a `SELECT` clause, to explicitly specify that all rows should be returned including duplicates
@@ -84,5 +84,5 @@ Output:
 
 ### `ANY` keyword
 
-1. Used with comparison operators in `WHERE` or `HAVING` and condition is true 
+1. Used with comparison operators in `WHERE` or `HAVING` and condition is true if the comparison is satisfied for at least one value returned in the category
 
