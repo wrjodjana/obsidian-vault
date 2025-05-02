@@ -79,5 +79,7 @@ Products Table:
 | ProductID | ProductName | SupplierID | CategoryID | Price |
 | --------- | ----------- | ---------- | ---------- | ----- |
 | 1         | Chais       | 1          | 1          | 18    |
-| 2         | Chang       |            |            |       |
-|           |             |            |            |       |
+| 2         | Chang       | 1          | 1          | 19    |
+| 3         | Aniseed     | 1          | 2          | 20    |
+| 4         | Anton       | 2          | 2          | 22    |
+| 5         |             |            |            |       |
