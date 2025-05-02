@@ -121,3 +121,14 @@ WHERE ProductID = ALL (SELECT ProductID
 ```
 
 Output:
+
+| ProductName |
+| ----------- |
+| Chais       |
+
+Query:
+```sql
+SELECT OrderID
+FROM OrderDetails
+GROUP BY 
+```
