@@ -65,4 +65,9 @@ Output:
 ```sql
 SELECT ALL [column_name] FROM [table_name];
 ```
-2. Used in comparison operators, in `WHERE` or `HAVING` clauses to compare a value against
+2. Used in comparison operators, in `WHERE` or `HAVING` clauses to compare a value against every value returned in subquery
+```sql
+SELECT [column_name] 
+FROM [table_name] 
+WHERE value > ALL (SELECT [column_name] FROM [table_name_2])
+```
