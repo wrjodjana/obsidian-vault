@@ -60,13 +60,5 @@ Output:
 |  105   | Sudhanshu Yaudh | Allahabad | India       |
 **Special Operators**
 
-`ALL` - used to select all records of a `SELECT` statement. Must be preceded by a comparison operator or used with `SELECT`, `WHERE` and `HAVING` statements.
-
-Example:
-```sql
-SELECT ALL ProductName
-FROM Products
-WHERE TRUE;
-```
-
-Output:
+`ALL` - used to select all records of a `SELECT` statement. 
+1. Used in a 
