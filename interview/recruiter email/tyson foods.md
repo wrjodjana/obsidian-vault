@@ -1,3 +1,5 @@
+Subject: UIUC Junior in CS interested in technology :)
+
 Hello [INSERT NAME], 
 
 I came across your profile and understand you recruit for talent at Tyson Foods. I'm a current junior at University of Illinois at Urbana-Champaign studying Computer Science and Statistics and think I'd be a great fit technically. 
