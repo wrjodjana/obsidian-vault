@@ -1,4 +1,4 @@
-UIUC Junior in CS interested in software engineering :)
+UIUC CS Junior interested in Software Engineering :)
 
 Hello [INSERT NAME], 
 
