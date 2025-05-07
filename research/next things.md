@@ -10,3 +10,7 @@
 - select box and choose manual to remove those links and nodes
 - reproduce Tong's result with the failure probabilities
 - override bridge probability failures
+
+completed
+- created a highway graph
+- 
