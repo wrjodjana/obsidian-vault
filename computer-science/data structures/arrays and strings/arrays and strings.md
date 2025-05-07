@@ -24,5 +24,13 @@
 
 ### Two Pointers
 
+**Definition:** having two integer variables that both move along an iterable, usually named `left` and `right`
 
+**First Method:** start pointers at edge of the input, move towards each other until they meet
+
+```Python
+def fn(arr):
+	l = 0
+	r = 
+```
 
