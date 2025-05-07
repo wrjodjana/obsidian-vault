@@ -33,7 +33,7 @@ def fn(arr):
 	l = 0
 	r = len(arr) - 1
 	while l < r:
-		# do something based on logic based on problem
+		# do something based on problem
 		# do some more logic to decide on the following:
 			1. l += 1
 			2. r -= 1
@@ -47,5 +47,12 @@ def fn(arr):
 def fn(arr1, arr2):
 	i = j = 0
 	while i < len(arr1) and j < len(arr2):
-		
+		# do something based on problem
+		# do some more logic to decide on the following:
+			1. l += 1
+			2. r -= 1
+			3. Both l += 1 and r -= 1
+	# make sure both iterables are exhausted
+	while i < len(arr1):
+		# do some more logic based on pro
 ```
