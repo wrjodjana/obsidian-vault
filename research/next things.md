@@ -13,4 +13,5 @@
 
 completed
 - created a highway graph
-- still trying to figure out how to restructure the graph neural network to be used for 
+- still trying to figure out how to restructure the graph neural network to be used for all possible scenarios
+- 
