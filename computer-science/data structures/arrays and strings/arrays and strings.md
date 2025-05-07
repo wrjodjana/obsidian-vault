@@ -95,8 +95,15 @@ def fn(arr1, arr2):
 4. As we are adding and removing elements, we are "sliding" our window along the input from left to right
 
 #### Implementation
+Example: find longest subarray with a sum less than or equal to k
 
-
+```Python
+def fn(nums, k):
+	l = 0
+	curr = 0
+	ans = 0
+	for r in range()
+```
 
 
 
