@@ -91,8 +91,8 @@ def fn(arr1, arr2):
 ### Algorithm
 1. Initially have we `l = r = 0`  meaning the first subarray is just the first element
 2. To expand size of "window" we do `r += 1`, adding this element to our window
-3. If after adding new element, subarray becomes invalid, we remove element by increment `l += 1`
-4. As we are adding and removing elements, we are 
+3. If after adding new element, subarray becomes invalid, we remove element by `l += 1`
+4. As we are adding and removing elements, we are "sliding" our window along the input from left to right
 
 
 
