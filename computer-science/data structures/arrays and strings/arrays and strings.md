@@ -81,5 +81,8 @@ def fn(arr1, arr2):
 #### Using Sliding Window
 
 **First scenario:** Defining a criteria to make a subarray valid. There are 2 components to making a subarray valid:
-1. A constraint metric. This could mean like the sum, unique number of elements, the frequency of a specific element
-2. A numeric restriction on constraint metric 
+1. A constraint metric. This could mean like the sum, unique number of elements, the frequency of a specific element.
+2. A numeric restriction on constraint metric. This is what the constraint metric should be for a a subarray to be valid.
+
+**Second scenario:** 
+
