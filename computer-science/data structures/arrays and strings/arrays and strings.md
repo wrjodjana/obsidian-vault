@@ -85,6 +85,11 @@ def fn(arr1, arr2):
 2. A numeric restriction on constraint metric. This is what the constraint metric should be for a a subarray to be valid.
 
 **Second scenario:** Problem will ask to find valid subarrays in some way such as:
-1. Finding the best valid subarray. Problem will define what will make a subarray better than another.
-2. 
+1. Finding the best valid subarray.
+2. Finding the number of valid subarrays.
+
+### Algorithm
+
+
+
 
