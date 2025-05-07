@@ -7,3 +7,4 @@
 
 ### Strings
 - Python strings are immutable, which means it's a type of data that can't be changed
+- Example: imagine you have mutable array, `arr = ["a", "b", "c"]` and immutable string `s = "abc"` and you want to change ""
