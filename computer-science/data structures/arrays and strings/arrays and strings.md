@@ -49,10 +49,17 @@ def fn(arr1, arr2):
 	while i < len(arr1) and j < len(arr2):
 		# do something based on problem
 		# do some more logic to decide on the following:
-			1. l += 1
-			2. r -= 1
-			3. Both l += 1 and r -= 1
+			1. i += 1
+			2. j += 1
+			3. Both i += 1 and j += 1
+	
 	# make sure both iterables are exhausted
 	while i < len(arr1):
-		# do some more logic based on pro
+		# do some more logic based on problem
+		i += 1
+	
+	while j < len(arr2):
+		# do some more logic based on problem
+		j += 1
 ```
+- The time complexity of this method is 
