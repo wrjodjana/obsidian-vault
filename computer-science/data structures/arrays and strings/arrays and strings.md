@@ -89,7 +89,8 @@ def fn(arr1, arr2):
 2. Finding the number of valid subarrays.
 
 ### Algorithm
-1. Initially have `l = r = 0` 
+1. Initially have we `l = r = 0`  meaning the first subarray is just the first element
+2. To expand size of "window" we increment `r += 1` 
 
 
 
