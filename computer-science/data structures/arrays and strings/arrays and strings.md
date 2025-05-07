@@ -20,4 +20,5 @@
 | Random access              | $O(1)$     | $O(1)$             |
 | Modifying an element       | $O(1)$     | $O(n)$             |
 | Checking if element exists | $O(n)$     | $O(n)$             |
-- appending to end is amortized O(1)
+- appending to end is [amortized $O(1)$](https://stackoverflow.com/questions/33044883/why-is-the-time-complexity-of-pythons-list-append-method-o1)
+- 
