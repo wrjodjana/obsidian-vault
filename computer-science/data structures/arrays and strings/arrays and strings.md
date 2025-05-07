@@ -76,5 +76,8 @@ def fn(arr1, arr2):
 - A subarray is defined by two indices, the start and end
 - For example, subarray `[2,3]` has start index `1` and end index `2`, meaning `1` is the left bound and `2` is the right bound
 
-![[subarray.png]]
+![[subarray.png | center]]
 
+#### Using Sliding Window
+
+**First scenario:** Defining a criteria to make a subarra  
