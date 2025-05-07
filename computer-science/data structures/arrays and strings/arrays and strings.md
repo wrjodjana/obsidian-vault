@@ -89,7 +89,7 @@ def fn(arr1, arr2):
 2. Finding the number of valid subarrays.
 
 ### Algorithm
-
+1. Initially have `l = r = 0` 
 
 
 
