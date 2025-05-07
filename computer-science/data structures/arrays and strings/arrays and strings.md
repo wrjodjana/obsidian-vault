@@ -41,4 +41,11 @@ def fn(arr):
 ```
 - there will never be more than $O(n)$ iterations because pointers start $n$ away from each other
 
-**Second Method:** 
+**Second Method:** Move along both inputs simultaneously until all elements checked
+
+```Python
+def fn(arr1, arr2):
+	i = j = 0
+	while i < len(arr1) and j < len(arr2):
+		
+```
