@@ -20,13 +20,13 @@
 | Random access              | $O(1)$     | $O(1)$             |
 | Modifying an element       | $O(1)$     | $O(n)$             |
 | Checking if element exists | $O(n)$     | $O(n)$             |
-- appending to end is [amortized O(1)](https://stackoverflow.com/questions/33044883/why-is-the-time-complexity-of-pythons-list-append-method-o1)
+- Appending to end is [amortized O(1)](https://stackoverflow.com/questions/33044883/why-is-the-time-complexity-of-pythons-list-append-method-o1)
 
 ### Two Pointers
 
-**Definition:** having two integer variables that both move along an iterable, usually named `left` and `right`
+**Definition:** Having two integer variables that both move along an iterable, usually named `left` and `right`
 
-**First Method:** start pointers at edge of the input, move towards each other until they meet
+**First Method:** Start pointers at edge of the input, move towards each other until they meet
 
 ```Python
 def fn(arr):
@@ -39,7 +39,7 @@ def fn(arr):
 			2. r -= 1
 			3. Both l += 1 and r -= 1
 ```
-- there will never be more than $O(n)$ iterations because pointers start $n$ away from each other
+- There will never be more than $O(n)$ iterations because pointers start $n$ away from each other
 
 **Second Method:** Move along both inputs simultaneously until all elements checked
 
@@ -66,4 +66,6 @@ def fn(arr1, arr2):
 
 ### Sliding Window
 
-
+#### Subarrays
+- A contiguous section of an array where all elements are adjacent and in original order
+- For e
