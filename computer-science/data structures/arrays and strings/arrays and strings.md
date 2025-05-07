@@ -80,4 +80,4 @@ def fn(arr1, arr2):
 
 #### Using Sliding Window
 
-**First scenario:** Defining a criteria to make a subarra  
+**First scenario:** Defining a criteria to make a subarray valid  
