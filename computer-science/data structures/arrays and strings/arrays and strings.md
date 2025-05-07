@@ -68,4 +68,10 @@ def fn(arr1, arr2):
 
 #### Subarrays
 - A contiguous section of an array where all elements are adjacent and in original order
-- For e
+- For example, `arr = [1,2,3,4]` has subarrays:
+	- `[1],[2],[3],[4]`
+	- `[1,2], [2,3], [3,4]`
+	- `[1,2,3], [2,3,4]`
+	- `[1,2,3,4]`
+
+
