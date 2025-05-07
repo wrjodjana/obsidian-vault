@@ -11,7 +11,8 @@
 
 ### Time Complexity of Arrays/Strings
 
-
-| Operation | Array/List |
-| --------- | ---------- |
-|           |            |
+| Operation               | Array/List | String (immutable) |
+| ----------------------- | ---------- | ------------------ |
+| Appending to end        | O(1)*      | O(n)               |
+| Popping from end        | O(1)       | O(n)               |
+| Insertion, not from end | O()        |                    |
