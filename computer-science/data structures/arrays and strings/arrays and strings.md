@@ -73,5 +73,5 @@ def fn(arr1, arr2):
 	- `[1,2], [2,3], [3,4]`
 	- `[1,2,3], [2,3,4]`
 	- `[1,2,3,4]`
-
-
+- A subarray is defined by two indices, the start and end
+- For example, subarray `[2,3]` has start index `1` and end 
