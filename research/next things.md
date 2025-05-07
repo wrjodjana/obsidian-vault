@@ -16,4 +16,4 @@ completed
 - still trying to figure out how to restructure the graph neural network to be used for all possible scenarios
 
 week 12
-- automate one of these results where we test the gnn 
+- automate one of these results where we test the gnn on input network that user selects
