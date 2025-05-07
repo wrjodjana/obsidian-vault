@@ -31,6 +31,12 @@
 ```Python
 def fn(arr):
 	l = 0
-	r = 
+	r = len(arr) - 1
+	while l < r:
+		# do something based on logic based on problem
+		# do some more logic to decide on the following:
+			1. l += 1
+			2. r -= 1
+			3. Both l += 1 and r -= 1
 ```
 
