@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/cover letters/trading technologies.md",
+                "file": "christianity/praying in the dark - pastor luke.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trading technologies"
+              "title": "praying in the dark - pastor luke"
             }
           }
         ]
@@ -168,13 +168,15 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "interview/behavioral interviews/structureiq.md",
+    "interview/cover letters/weavegrid.md",
+    "interview/cover letters/trading technologies.md",
     "interview/cover letters/sum billion dollar idea.md",
     "christianity/praying in the dark - pastor luke.md",
     "christianity/how to deal with dark times - tim keller.md",
     "christianity/how to change deeply - tim keller.md",
     "interview/recruiter email/tyson foods.md",
     "interview/recruiter email/here technologies.md",
-    "interview/behavioral interviews/structureiq.md",
     "interview/behavioral interviews",
     "computer-science/data structures/images/subarray.png",
     "computer-science/data structures/images",
@@ -190,8 +192,6 @@
     "data engineering/sql/special operators.md",
     "data engineering/sql/operators.md",
     "interview/recruiter email/rivian.md",
-    "interview/cover letters/weavegrid.md",
-    "interview/cover letters/trading technologies.md",
     "computer-science/computer systems/exam 3.md",
     "data engineering/sql/basics.md",
     "data engineering/sql",
