@@ -119,7 +119,8 @@ def fn(nums, k):
 - Any algorithm that looks at every subarray will run at $O(n^2)$, but sliding window has a maximum of $2n$ window iterations, so runs on $O(n)$ time complexity
 
 #### Fixed Sliding Window
-
-
+- Sometimes, a sliding window problem could have a fixed length of `k`
+- The main idea is that the difference between two adjacent windows is only two elements
+- 
 
 
