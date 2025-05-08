@@ -110,6 +110,6 @@ def fn(nums, k):
 		ans = max(ans, r-l+1)
 	return ans
 ```
-
-
+- `curr` tracks our current sum so adding element is `curr += nums[r]` and removing is `curr -= nums[l]`
+- 
 
