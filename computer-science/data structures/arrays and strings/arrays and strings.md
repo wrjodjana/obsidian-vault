@@ -130,7 +130,13 @@ def fn(arr, k):
 	for i in range(k):
 		# do something with curr to build first window
 
-	
+	ans = # some answer variable (could be equal to curr)
+	for i in range(k, len(arr)):
+		# add arr[i] to window
+		# remove arr[i-k] to window
+		# update ans
+
+	return ans
 ```
 
 
