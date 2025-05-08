@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "christianity/how to deal with dark times - tim keller.md",
+                "file": "interview/cover letters/trading technologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to deal with dark times - tim keller"
+              "title": "trading technologies"
             }
           }
         ]
@@ -168,9 +168,10 @@
   },
   "active": "f1393fc0ce5c1781",
   "lastOpenFiles": [
+    "interview/cover letters/sum billion dollar idea.md",
     "christianity/praying in the dark - pastor luke.md",
-    "christianity/how to change deeply - tim keller.md",
     "christianity/how to deal with dark times - tim keller.md",
+    "christianity/how to change deeply - tim keller.md",
     "interview/recruiter email/tyson foods.md",
     "interview/recruiter email/here technologies.md",
     "interview/behavioral interviews/structureiq.md",
@@ -191,7 +192,6 @@
     "interview/recruiter email/rivian.md",
     "interview/cover letters/weavegrid.md",
     "interview/cover letters/trading technologies.md",
-    "interview/cover letters/sum billion dollar idea.md",
     "computer-science/computer systems/exam 3.md",
     "data engineering/sql/basics.md",
     "data engineering/sql",
