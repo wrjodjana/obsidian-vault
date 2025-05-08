@@ -79,7 +79,7 @@ def fn(arr1, arr2):
 
 ![[subarray.png | center]]
 
-#### Using Sliding Window
+#### Dynamic Sliding Window
 
 **First scenario:** Defining a criteria to make a subarray valid. There are 2 components to making a subarray valid:
 1. A constraint metric. This could mean like the sum, unique number of elements, the frequency of a specific element.
@@ -117,6 +117,9 @@ def fn(nums, k):
 
 #### Time Complexity
 - Any algorithm that looks at every subarray will run at $O(n^2)$, but sliding window has a maximum of $2n$ window iterations, so runs on $O(n)$ time complexity
-- 
+
+#### Fixed Sliding Window
+
+
 
 
