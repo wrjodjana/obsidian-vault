@@ -14,7 +14,7 @@
 - Finally, I personally don't have any experience with InfluxDB, but I researched a bit on the kinds of data it stores which is like time series and because I have worked on other databases of specific kinds of data types like PostGIS I'd be able to adapt quickly.
 
 **Questions to ask:**
-- 
+- What would a day to day look like working at StructureIQ and how would that 
 
 
 
