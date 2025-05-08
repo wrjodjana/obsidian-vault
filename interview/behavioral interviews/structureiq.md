@@ -10,5 +10,7 @@
 - Finally, 
 
 **Why this role?**
-- In terms of technical understanding, I've previously worked with 
+- In terms of technical understanding, I've previously worked with Python, Flask and mySQL before so I have a strong, indepth knowledge of how these technologies interact with frontend and backend applications
+- Also through my data engineering role, I also did some basic dashboard development using Metabase (not necessarily developing) but I'd understand what sort of visualizations are needed
+- Finally, 
 
