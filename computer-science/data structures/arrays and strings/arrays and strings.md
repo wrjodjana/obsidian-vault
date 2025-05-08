@@ -124,7 +124,13 @@ def fn(nums, k):
 
 ```Python
 def fn(arr, k):
-	curr 
+	curr = # some data to track window
+
+	# build first window
+	for i in range(k):
+		# do something with curr to build first window
+
+	
 ```
 
 
