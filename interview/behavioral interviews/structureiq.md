@@ -5,5 +5,5 @@
 - however, i think the work that most relates to this role is my research position where I helped to develop a full-stack webapp integrate graph neural networks to predict bridge and link failure probabilities of networks
 
 **Why structureIQ**
-- 
+- Firstly, with my research experience I have a strong background within the industry of this role, specifically to like structural engineering and 
 
