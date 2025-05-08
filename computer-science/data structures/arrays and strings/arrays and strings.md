@@ -120,7 +120,11 @@ def fn(nums, k):
 
 #### Fixed Sliding Window
 - Sometimes, a sliding window problem could have a fixed length of `k`
-- The main idea is that the difference between two adjacent windows is only two elements
-- 
+- The main idea is that the difference between two adjacent windows is only two elements (add one element to right and removing one element left)
+
+```Python
+def fn(arr, k):
+	curr 
+```
 
 
