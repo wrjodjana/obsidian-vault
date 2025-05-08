@@ -1,15 +1,16 @@
 
-**Definition:** both arrays and strings represents an ordered group of elements
+### Arrays and Strings
 
-### Arrays
+**Definition:** both arrays and strings represents an ordered group of elements
+#### Arrays
 - Python uses lists as arrays, initialization is as follows: `arr = []`
 - An array can't be resized while a dynamic array (or list) can be, in algorithms it's always a dynamic array
 
-### Strings
+#### Strings
 - Python strings are immutable, which means it's a type of data that can't be changed
 - Example: imagine you have mutable array, `arr = ["a", "b", "c"]` and immutable string `s = "abc"` and you want to change `"c"` to `"d"` you can do `arr[2] = "d"` but not `s[2] = "d"`
 
-### Time Complexity of Arrays/Strings
+#### Time Complexity of Arrays/Strings
 
 | Operation                  | Array/List | String (immutable) |
 | -------------------------- | ---------- | ------------------ |
@@ -88,7 +89,7 @@ def fn(arr1, arr2):
 1. Finding the best valid subarray.
 2. Finding the number of valid subarrays.
 
-### Algorithm
+#### Algorithm
 1. Initially have we `l = r = 0`  meaning the first subarray is just the first element
 2. To expand size of "window" we do `r += 1`, adding this element to our window
 3. If after adding new element, subarray becomes invalid, we remove element by `l += 1`
@@ -112,4 +113,6 @@ def fn(nums, k):
 ```
 - `curr` tracks our current sum so adding element is `curr += nums[r]` and removing is `curr -= nums[l]`
 - Since  `r` is always moving forward, just use for loop to iterate while `l` is only when we want to shrink the window, which is when subarray becomes invalid or `curr > k`
-- When we add new element, we may have to remove multiple elements before it which is why we used the `while` loopw
+- When we add new element, we may have to remove multiple elements before it which is why we used the `while` loop
+
+
