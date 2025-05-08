@@ -2,7 +2,7 @@
 **Tell me about yourself**
 - junior at UIUC studying computer science and statistics
 - previously did two internships, one was as a backend engineering at an edtech startup and the other was doing data engineering at a healthcare unicorn
-- however, i think the work that is most relevant to this role is my research position where I helped to develop a full-stack webapp to predict bridge and link failure probabilities of US networks from natural disasters like earthqukaes and floods
+- however, i think the work that is most relevant to this role is my research position where I helped to develop a full-stack webapp to predict bridge and link failure probabilities of US networks from natural disasters like earthquakes and floods
 
 **Why StructureIQ**
 - Firstly, with my research experience I have a strong background within the industry of this role, specifically to like structural and transportation engineering
