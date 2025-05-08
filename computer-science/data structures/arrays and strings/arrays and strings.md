@@ -112,4 +112,4 @@ def fn(nums, k):
 ```
 - `curr` tracks our current sum so adding element is `curr += nums[r]` and removing is `curr -= nums[l]`
 - Since  `r` is always moving forward, just use for loop to iterate while `l` is only when we want to shrink the window, which is when subarray becomes invalid or `curr > k`
-- When we add new element, we may remove 
+- When we add new element, we may have to remove multiple elements before it which is why we used the `while` loop
