@@ -116,6 +116,6 @@ def fn(nums, k):
 - When we add new element, we may have to remove multiple elements before it which is why we used the `while` loop
 
 #### Time Complexity
-- Any algorithm that looks at every subarray will run at $O(n)^2$ 
+- Any algorithm that looks at every subarray will run at $O(n^2)$, but sliding window  
 
 
