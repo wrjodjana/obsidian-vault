@@ -6,5 +6,7 @@
 
 **Why StructureIQ**
 - Firstly, with my research experience I have a strong background within the industry of this role, specifically to like structural and transportation engineering
-- Secondly, I have a brief background in artifical intelligence and I've wanted to even adapt this idea within my research role, so I think joining a company like StructureIQ I would expand more on these skills while also improving my current backend engineering sk
+- Secondly, I have a brief background in artificial intelligence, so I think joining a company like StructureIQ I would expand more on these skills while also improving my current backend engineering skills. On the IoT side it'd be something completely new.
+
+Why th
 
