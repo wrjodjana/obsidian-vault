@@ -12,5 +12,5 @@
 **Why this role?**
 - In terms of technical understanding, I've previously worked with Python, Flask and mySQL before so I have a strong, in-depth knowledge of how these technologies interact with frontend and backend applications
 - Also through my data engineering role, I also did some basic dashboard development using Metabase and Apache Spark (PySpark) (not necessarily developing) but I'd understand what sort of visualizations are needed
-- Finally, I personally don't have any experience with InfluxDB, but I researched a bit on the kinds
+- Finally, I personally don't have any experience with InfluxDB, but I researched a bit on the kinds of data it stores which is like time series and because I have worked on other databases of specific kinds of data types like PostGIS I'd be able to adapt quickly.
 
