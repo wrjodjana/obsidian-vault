@@ -16,7 +16,6 @@
 **Questions to ask:**
 - What would a day to day look like working as an intern at StructureIQ and if i had to get the role, what would you say would be like a successful internship consists of?
 - How would you say that a product like this could affect for example the insurance and financial markets?
-- 
 
 
 
