@@ -158,4 +158,5 @@ for i in range(len(nums)):
 ```
 - Initially start with first element
 - Then iterate from index `1` to the end of the array
+- Last element of `prefix` will represent the sum of all elements in the input up to but not including index `i`, so add that value plus current value to the end of `prefix`
 - 
