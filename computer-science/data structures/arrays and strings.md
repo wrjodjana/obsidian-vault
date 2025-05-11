@@ -10,7 +10,7 @@
 - Python strings are immutable, which means it's a type of data that can't be changed
 - Example: imagine you have mutable array, `arr = ["a", "b", "c"]` and immutable string `s = "abc"` and you want to change `"c"` to `"d"` you can do `arr[2] = "d"` but not `s[2] = "d"`
 
-#### Time Complexity of Arrays/Strings
+#### Time Complexity
 
 | Operation                  | Array/List | String (immutable) |
 | -------------------------- | ---------- | ------------------ |
@@ -159,4 +159,7 @@ for i in range(len(nums)):
 - Initially start with first element
 - Then iterate from index `1` to the end of the array
 - Last element of `prefix` will represent the sum of all elements in the input up to but not including index `i`, so add that value plus current value to the end of `prefix`
+
+#### Time Complexity
+- $O(n)$ to build but allows all future subarray queries to be $O(1)$
 - 
