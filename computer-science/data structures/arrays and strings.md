@@ -150,3 +150,7 @@ def fn(arr, k):
 	- and `prefix[j]` is the sum of all elements until `j`
 
 #### Implementation
+
+```Python
+
+```
