@@ -1,4 +1,3 @@
 - cs 340 final project
 - dtx 495 final assignment
-- gsd 390 plugin
 - gsd 390 final demo
