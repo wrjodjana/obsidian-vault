@@ -149,10 +149,11 @@ def fn(arr, k):
 	- Works because `prefix[i - 1]` is the sum of all elements before element `i`
 	- and `prefix[j]` is the sum of all elements until `j`
 
-#### Implementation
+#### Implementation of prefix sum
 
 ```Python
 prefix = [nums[0]]
 for i in range(len(nums)):
-	prefix.append()
+	prefix.append(nums[i] + prefix[len(prefix) - 1])
 ```
+
