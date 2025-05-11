@@ -145,4 +145,6 @@ def fn(arr, k):
 #### Algorithm
 - Create an array `prefix` where `prefix[i]` is the sum of all elements until `i` (inclusive).
 - When subarray starts at index `0` it is a prefix of the array. A prefix sum is the sum of all prefixes.
+- Sum of subarray from `i` to `j` is `prefix[j] - prefix[i - 1]`
+
 - 
