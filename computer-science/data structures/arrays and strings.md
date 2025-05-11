@@ -152,5 +152,7 @@ def fn(arr, k):
 #### Implementation
 
 ```Python
-
+prefix = [nums[0]]
+for i in range(len(nums)):
+	prefix.append()
 ```
