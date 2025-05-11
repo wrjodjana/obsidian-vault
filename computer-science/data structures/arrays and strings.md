@@ -156,4 +156,6 @@ prefix = [nums[0]]
 for i in range(len(nums)):
 	prefix.append(nums[i] + prefix[len(prefix) - 1])
 ```
-
+- Initially start with first element
+- Then iterate from index `1` to the end of the array
+- 
