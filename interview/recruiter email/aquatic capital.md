@@ -2,7 +2,7 @@ UIUC CS Junior interested in Software Engineering :)
 
 Hello [INSERT NAME], 
 
-I came across your profile and understand you recruit for talent at Aquatic Capital Management. I'm a current junior at University of Illinois at Urbana-Champaign studying Computer Science and Statistics and think I'd be a great fit technically. 
+I came across your profile and understand you recruit for talent at Aquatic Capital Management. I'm a current junior at the University of Illinois at Urbana-Champaign studying Computer Science and Statistics and think I'd be a great fit technically. 
 
 I completed a software engineering internship at TooTak last summer focusing on backend engineering with an interest in JavaScript and Python and just applied to the Software Engineer Intern position for Summer 2026.
 
