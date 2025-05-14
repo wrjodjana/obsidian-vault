@@ -18,3 +18,9 @@ completed
 week 12
 - automate one of these results where we test the gnn on input network that user selects
 - link failure probability 
+
+week 13
+- selecting network
+- getting the data from database
+- getting the gnn information
+
