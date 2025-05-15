@@ -13,5 +13,7 @@ How it works:
 2. Add the `root.render()` method to render the react code to your DOM
 
 **JSX**
-- syntax extension for JavaScript that allows you to describe your UI in a familiar HTML syntax
-- However, browsers dont understand JSX so you need **Babel** as
+- Syntax extension for JavaScript that allows you to describe your UI in a familiar HTML syntax
+- However, browsers don't understand JSX so you need **Babel** as a JavaScript compiler
+
+**Components**
