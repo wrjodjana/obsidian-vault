@@ -1,12 +1,12 @@
 
 
-### DOM
+**DOM** **(Document-Object Model)**
 - object representation of the HTML elements
 - acts as a bridge between your code and the user interface and has a tree-like structure with parent and child elements
 
 ![[Pasted image 20250515113553.png]]
 
-### Updating UI with JavaScript
+**Updating UI with JavaScript**
 
 HTML Code:
 ```html
@@ -38,5 +38,6 @@ Explanation:
 
 However this shit is so bad because how tf r u writing all that for just an `<h1>` element
 
-### Imperative vs Declarative Programming
+**Imperative vs Declarative Programming**
 
+Imperative programming is when you write the steps for how the user interface should be updated w
