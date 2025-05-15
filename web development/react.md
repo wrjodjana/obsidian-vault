@@ -18,3 +18,10 @@ How it works:
 
 **Components**
 
+In React, components are functions. Inside the `script` tag, create new function `header`
+
+```js
+function header() {
+	return (<h1>Develop. Preview. Ship.</h1>)
+}
+```
