@@ -21,7 +21,8 @@ How it works:
 In React, components are functions. Inside the `script` tag, create new function `header`
 
 ```js
-function header() {
+function Header() {
 	return (<h1>Develop. Preview. Ship.</h1>)
 }
+root.render(<Header />)
 ```
