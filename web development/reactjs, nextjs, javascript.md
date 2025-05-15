@@ -7,6 +7,19 @@
 
 **Updating UI with JavaScript**
 
+HTML Code:
+```html
+<html>
+	<body>
+		<div id="app"> </div>
+		<script type="text/javascript">
+		</script>
+	</body>
+</html>
+```
+
+
+Under
 ```js
-const app 
+
 ```
