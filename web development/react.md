@@ -17,3 +17,4 @@ How it works:
 - However, browsers don't understand JSX so you need **Babel** as a JavaScript compiler
 
 **Components**
+
