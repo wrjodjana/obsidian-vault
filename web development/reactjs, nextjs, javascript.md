@@ -24,5 +24,7 @@ Under Script:
 const app = document.getElementById("app");
 const header = document.createElement("h1");
 const text = 'Develop. Preview. Ship.';
-const headerContent = document.
+const headerContent = document.createTextNode(text);
+app.appendChild(header)
 ```
+
