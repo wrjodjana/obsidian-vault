@@ -40,4 +40,4 @@ However this shit is so bad because how tf r u writing all that for just an `<h1
 
 **Imperative vs Declarative Programming**
 
-Imperative programming is when you write the steps for how the user interface should be updated w
+Imperative programming is when you write the steps for how the user interface should be updated while declarativve
