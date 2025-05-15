@@ -19,7 +19,10 @@ HTML Code:
 ```
 
 
-Under
+Under Script:
 ```js
-
+const app = document.getElementById("app");
+const header = document.createElement("h1");
+const text = 'Develop. Preview. Ship.';
+const headerContent = document.
 ```
