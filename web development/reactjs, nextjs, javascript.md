@@ -5,3 +5,8 @@
 
 ![[Pasted image 20250515113553.png]]
 
+**Updating UI with JavaScript**
+
+```js
+const app 
+```
