@@ -28,3 +28,9 @@ const headerContent = document.createTextNode(text);
 app.appendChild(header)
 ```
 
+Explanation:
+1. Select div element with "app" id
+2. Create a new h1 element
+3. Create a new text node for the h1 element
+4. Append the text to the h1 element
+5. Place h1 element inside div
