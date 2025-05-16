@@ -124,7 +124,14 @@ function HomePage() {
 	const names = ["Warren", "Bob", "James]
 
 	return (
-		
+		<div>
+			<Header title="Temporary Title" />
+			<ul>
+				{names.map((name) => (
+					<li key={name}>{name}</li>
+				))}
+			</ul>
+		</div>
 	)
 }
 ```
