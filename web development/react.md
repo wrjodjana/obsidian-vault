@@ -158,6 +158,7 @@ function HandleClick() {
 
 **State and Hooks**
 
-Hooks
-- Add additional logic such as a state to your components
-- A state is any information in your UI that 
+Definition
+- Hooks add additional logic such as a state to your components
+- A state is any information in your UI that changes over time, usually triggered by user interaction
+
