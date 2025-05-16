@@ -132,6 +132,8 @@ function HomePage() {
 				))}
 			</ul>
 		</div>
-	)
+	);
 }
 ```
+- Use the `array.map()` method to iterate over the array and use the arrow function to map a name to a list item
+- We 
