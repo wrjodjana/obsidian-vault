@@ -77,3 +77,19 @@ function Header({ title }) {
 	return <h1>{title}</h1>
 }
 ```
+
+Adding JavaScript expression inside curly braces:
+
+1. Object property with dot notation
+```js
+function Header(props) {
+	return <h1>{props.title}</h1>
+}
+```
+
+2. A template literal
+```js
+function Header(props) {
+	return <h1>{props.title}</h1>
+}
+```
