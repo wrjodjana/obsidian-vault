@@ -42,3 +42,9 @@ function HomePage() {
 ![[Pasted image 20250516064215.png]]
 
 Since `HomePage` is now the top-level component, you can pass it to the `root.render()`
+
+```js
+const root = reactDOM.createRoot(app);
+root.render(<HomePage />);
+```
+
