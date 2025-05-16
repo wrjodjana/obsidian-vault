@@ -53,11 +53,16 @@ root.render(<HomePage />);
 Image you wanted possible variations of a button or you don't know the information ahead of time because you're fetching external data, you use **props**
 
 ```js
+function Header({ title }) {
+	return <h1>title</h1>
+}
+
 function HomePage() {
 	return (
 		<div>
-			<Header title="React">
-			
-	)
+			<Header title="React" />
+		</div>
+	);
 }
 ```
+
