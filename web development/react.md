@@ -136,4 +136,5 @@ function HomePage() {
 }
 ```
 - Use the `array.map()` method to iterate over the array and use the arrow function to map a name to a list item
-- We 
+- We can use names for now since unique, but if they are not, you should use an item ID
+
