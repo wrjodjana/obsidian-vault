@@ -110,7 +110,7 @@ function Header({ title }) {
 ```
 
 4. Ternary operators
-```js
+```jsx
 function Header(title) {
 	return <h1>{title ? title : 'Default Title'}</h1>;
 }
@@ -118,3 +118,13 @@ function Header(title) {
 
 
 **Iterating through lists**
+
+```jsx
+function HomePage() {
+	const names = ["Warren", "Bob", "James]
+
+	return (
+		
+	)
+}
+```
