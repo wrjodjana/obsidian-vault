@@ -70,4 +70,10 @@ function HomePage() {
 
 **Using variables in JSX**
 
+Writing JavaScript directly inside JSX markup
 
+```js
+function Header({ title }) {
+	return <h1>{title}</h1>
+}
+```
