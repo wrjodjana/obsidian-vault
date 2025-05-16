@@ -22,15 +22,17 @@ In React, components are functions. Inside the `script` tag, create new function
 
 ```js
 function Header() {
-	return (<h1>Develop. Preview. Ship.</h1>)
+	return (<h1>Develop. Preview. Ship.</h1>);
 }
-root.render(<Header />)
+root.render(<Header />);
 ```
 
 **Nesting Components**
 
 ```js
 function HomePage() {
-	return <div></div>
+	return <div>
+		<Header />
+	</div>;
 }
 ```
