@@ -26,3 +26,11 @@ function Header() {
 }
 root.render(<Header />)
 ```
+
+**Nesting Components**
+
+```js
+function HomePage() {
+	return <div></div>
+}
+```
