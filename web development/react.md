@@ -156,3 +156,8 @@ function HandleClick() {
 ```
 - Define a function to "handle" events whenever they are triggered
 
+**State and Hooks**
+
+Hooks
+- Add additional logic such as a state to your components
+- A state is any information in your UI that 
