@@ -48,3 +48,6 @@ const root = reactDOM.createRoot(app);
 root.render(<HomePage />);
 ```
 
+**Using props**
+
+Image you wanted pos
