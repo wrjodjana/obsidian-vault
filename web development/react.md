@@ -162,3 +162,9 @@ Definition
 - Hooks add additional logic such as a state to your components
 - A state is any information in your UI that changes over time, usually triggered by user interaction
 
+```jsx
+function HomePage() {
+	const [likes, setLikes] = React.useState(0)
+}
+```
+- `useState()` returns an array and you can access and use those array values 
