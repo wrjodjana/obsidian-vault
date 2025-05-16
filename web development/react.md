@@ -171,4 +171,17 @@ function HomePage() {
 - First item in the array is the state `value` and second item in the array is a function to update the `value` 
 - In this case, the initial value of likes i `0`
 
-Checking in
+Checking initial state is working by using state variable
+
+```jsx
+<button onClick={handleClick}>Like({likes})</button>
+```
+
+State updater function
+
+```jsx
+function handleClick() {
+	setLikes(likes+1)
+}
+
+```
