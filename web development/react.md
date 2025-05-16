@@ -74,7 +74,7 @@ Writing JavaScript directly inside JSX markup
 
 ```js
 function Header({ title }) {
-	return <h1>{title}</h1>
+	return <h1>{title}</h1>;
 }
 ```
 
@@ -83,13 +83,22 @@ Adding JavaScript expression inside curly braces:
 1. Object property with dot notation
 ```js
 function Header(props) {
-	return <h1>{props.title}</h1>
+	return <h1>{props.title}</h1>;
 }
 ```
 
 2. A template literal
 ```js
-function Header(props) {
-	return <h1>{props.title}</h1>
+function Header({title}) {
+	return <h1>('Cool ${title}')</h1>;
+}
+```
+
+3. Returned value of function
+```js
+function createTitle(title) {
+	if (title) {
+		return title;
+	}
 }
 ```
