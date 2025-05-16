@@ -67,4 +67,7 @@ function HomePage() {
 ```
 - Pass a custom `title` prop to the `Header` component and in `Header` accept `title` as its first function parameter
 - You can use object destructuring by explicitly naming the values of the props, e.g. `title`
-- 
+
+**Using variables in JSX**
+
+
