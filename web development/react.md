@@ -20,7 +20,7 @@ How it works:
 
 In React, components are functions. Inside the `script` tag, create new function `header`
 
-```js
+```jsx
 function Header() {
 	return (<h1>Develop. Preview. Ship.</h1>);
 }
@@ -29,7 +29,7 @@ root.render(<Header />);
 
 **Nesting Components**
 
-```js
+```jsx
 function HomePage() {
 	return <div>
 		<Header />
@@ -43,7 +43,7 @@ function HomePage() {
 
 Since `HomePage` is now the top-level component, you can pass it to the `root.render()`
 
-```js
+```jsx
 const root = reactDOM.createRoot(app);
 root.render(<HomePage />);
 ```
@@ -52,7 +52,7 @@ root.render(<HomePage />);
 
 Image you wanted possible variations of a button or you don't know the information ahead of time because you're fetching external data, you use **props**
 
-```js
+```jsx
 function Header({ title }) {
 	return <h1>title</h1>
 }
@@ -72,7 +72,7 @@ function HomePage() {
 
 Writing JavaScript directly inside JSX markup
 
-```js
+```jsx
 function Header({ title }) {
 	return <h1>{title}</h1>;
 }
@@ -81,21 +81,21 @@ function Header({ title }) {
 Adding JavaScript expression inside curly braces:
 
 1. Object property with dot notation
-```js
+```jsx
 function Header(props) {
 	return <h1>{props.title}</h1>;
 }
 ```
 
 2. A template literal
-```js
+```jsx
 function Header({title}) {
 	return <h1>('Cool ${title}')</h1>;
 }
 ```
 
 3. Returned value of function
-```js
+```jsx
 function createTitle(title) {
 	if (title) {
 		return title;
@@ -115,3 +115,6 @@ function Header(title) {
 	return <h1>{title ? title : 'Default Title'}</h1>;
 }
 ```
+
+
+**Iterating through lists**
