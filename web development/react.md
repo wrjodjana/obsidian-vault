@@ -36,3 +36,9 @@ function HomePage() {
 	</div>;
 }
 ```
+
+**Component Trees**
+
+![[Pasted image 20250516064215.png]]
+
+Since `HomePage` is now the top-level component, you can pass it to the `root.render()`
