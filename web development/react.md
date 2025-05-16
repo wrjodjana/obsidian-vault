@@ -50,4 +50,14 @@ root.render(<HomePage />);
 
 **Using props**
 
-Image you wanted pos
+Image you wanted possible variations of a button or you don't know the information ahead of time because you're fetching external data, you use **props**
+
+```js
+function HomePage() {
+	return (
+		<div>
+			<Header title="React">
+			
+	)
+}
+```
