@@ -111,5 +111,7 @@ function Header({ title }) {
 
 4. Ternary operators
 ```js
-function Header(title ? title : )
+function Header(title) {
+	return <h1>{title ? title : 'Default Title'}</h1>;
+}
 ```
