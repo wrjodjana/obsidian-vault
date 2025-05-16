@@ -144,4 +144,5 @@ function HomePage() {
 <button onClick={}>Like</button>
 ```
 - Event names are camelCased
-- 
+- `onClick` is used when the user clicks a button, `onChange` works for input fields and `onSubmit` for forms
+
