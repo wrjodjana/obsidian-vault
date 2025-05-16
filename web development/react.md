@@ -167,4 +167,7 @@ function HomePage() {
 	const [likes, setLikes] = React.useState(0)
 }
 ```
-- `useState()` returns an array and you can access and use those array values 
+- `useState()` returns an array and you can access and use those array values inside your components using array destructuring
+- First item in the array is the state `value` and second item in the array is a function to update the `value` 
+- In this case, the initial value of likes i `0`
+- 
