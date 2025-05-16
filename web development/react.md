@@ -183,5 +183,4 @@ State updater function
 function handleClick() {
 	setLikes(likes+1)
 }
-
 ```
