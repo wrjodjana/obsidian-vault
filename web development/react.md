@@ -146,3 +146,12 @@ function HomePage() {
 - Event names are camelCased
 - `onClick` is used when the user clicks a button, `onChange` works for input fields and `onSubmit` for forms
 
+**Handling Events**
+
+```jsx
+function HandleClick() {
+	like += 1;
+}
+<button onClick={HandleClick}>Like</button>
+```
+- 
