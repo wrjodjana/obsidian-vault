@@ -24,3 +24,6 @@ week 13
 - getting the data from database
 - getting the gnn information
 
+week 14
+![[Pasted image 20250517205705.png]]
+- merge these into one node 
