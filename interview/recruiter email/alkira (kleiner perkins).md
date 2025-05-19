@@ -1,6 +1,6 @@
 Hello Jaynee,
 
-I came across your profile and understand you recruit for talent at John Deere's Research Park team. I'm a current junior at University of Illinois at Urbana-Champaign studying Computer Science and Statistics and think I'd be a great fit technically. 
+I came across your profile and understand you recruit for talent at alkira. I'm a current junior at University of Illinois at Urbana-Champaign studying Computer Science and Statistics and think I'd be a great fit technically. 
 
 I completed a software engineering internship at TooTak last summer focusing on backend engineering with an interest in JavaScript and Python and recently applied to the Part Time Student - Software Engineer position for Summer and Fall 2025.
 
