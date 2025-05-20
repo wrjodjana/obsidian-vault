@@ -162,4 +162,5 @@ for i in range(len(nums)):
 
 #### Time Complexity
 - $O(n)$ to build but allows all future subarray queries to be $O(1)$
-- 
+
+
