@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/leetcode/object oriented programming.md",
+                "file": "interview/technical interviews/general cs concepts/object oriented programming.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview/leetcode/object oriented programming.md",
+                "file": "interview/technical interviews/general cs concepts/object oriented programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview/leetcode/object oriented programming.md",
+                "file": "interview/technical interviews/general cs concepts/object oriented programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview/leetcode/object oriented programming.md",
+                "file": "interview/technical interviews/general cs concepts/object oriented programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,11 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5606e51642e69a3",
+  "active": "4681579b1845d4c7",
   "lastOpenFiles": [
-    "interview/leetcode/data structures",
-    "interview/leetcode",
-    "interview/leetcode/data structures/arrays and strings.md",
+    "interview/technical interviews/leetcode/Untitled.md",
+    "interview/technical interviews/general cs concepts/object oriented programming.md",
+    "interview/technical interviews/general cs concepts",
+    "interview/technical interviews",
+    "interview/Untitled.md",
+    "interview/technical interviews/general cs concepts/data structures",
+    "interview/technical interviews/leetcode",
+    "interview/technical interviews/general cs concepts/data structures/arrays and strings.md",
     "web development/images/Pasted image 20250516064215.png",
     "web development/images/Pasted image 20250515113553.png",
     "web development/react.md",
