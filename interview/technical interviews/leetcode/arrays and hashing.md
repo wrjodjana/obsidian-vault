@@ -8,3 +8,5 @@
 **Majority Element**
 - Sort the array then use the n // 2 value as the index
 
+**Valid Sudoku**
+- Use different sets to track the digits in each row, column and sub boxes
