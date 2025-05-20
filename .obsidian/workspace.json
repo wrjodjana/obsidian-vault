@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/technical interviews/leetcode/arrays and hashing.md",
+                "file": "data engineering/sql/special operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arrays and hashing"
+              "title": "special operators"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "4681579b1845d4c7",
   "lastOpenFiles": [
-    "interview/technical interviews/general cs concepts/object oriented programming.md",
+    "data engineering/sql/operators.md",
+    "data engineering/sql/data definition language.md",
     "interview/technical interviews/leetcode/arrays and hashing.md",
+    "interview/technical interviews/general cs concepts/object oriented programming.md",
     "interview/technical interviews/leetcode/Untitled",
     "interview/technical interviews/general cs concepts",
     "interview/technical interviews",
