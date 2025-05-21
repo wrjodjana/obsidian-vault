@@ -4,3 +4,4 @@ week 1
 	- I have been to the great wall of china
 	- i switch my major twice
 	- I hate physics
+- 
