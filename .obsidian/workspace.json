@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data engineering/sql/special operators.md",
+                "file": "interview/technical interviews/general cs concepts/object oriented programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "special operators"
+              "title": "object oriented programming"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "4681579b1845d4c7",
   "lastOpenFiles": [
+    "data engineering/sql/special operators.md",
     "interview/recruiter email/zenobia pay (x25).md",
     "data engineering/sql/operators.md",
     "data engineering/sql/data definition language.md",
