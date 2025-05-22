@@ -5,5 +5,7 @@ week 1
 	- i switch my major twice
 	- I hate physics
 
+
+meeting notes
 - under header, we can put like past headers, or like add a box to write emoji and text
 - 
