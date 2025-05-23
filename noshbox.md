@@ -8,4 +8,4 @@ week 1
 
 meeting notes
 - under header, we can put like past headers, or like add a box to write emoji and text
-- 
+
