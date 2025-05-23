@@ -10,3 +10,5 @@ I previously worked on two research projects. The first being with the departmen
 However, I think the second experience is more relevant to the position which was working with the Uncertainty Quantification Group to develop a tool that helps transportation engineers understand infrastructure vulnerabilities. For example, they could define a region like New York City and get all the data about the network in that particular region and more importantly the damages to structures such as buildings based on different natural disasters like earthquakes and floods. Most of this data was taken from various APIs such as USGS's ShakeMap, using strict calculations following the HAZUS manual while also using GNNs to build graphs and predict node and edge feature information.
 
 **What is the most interesting/innovative project that you have done? Describe it.**
+
+I definitely think the most innovative project I've worked on was the tool in my research but what comes second would definitely be Explorifyy, which is a platform that helps connects students with 
