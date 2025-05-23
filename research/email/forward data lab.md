@@ -1,7 +1,7 @@
 
 **Why do you want to participate in research?**
 
-Coming from Indonesia, I've realized that research opportunities are often limited, especially for those in high school/undergraduate programs. While there's a strong emphasis for research in STEM, it's often not universally open and reserved to the most talented. When I decided to come to the US to study computer science, I wanted to open up myself to these opportunities that didn't exist back home while being able to grow my skills and deepen my understanding of the subject. Joining the Forward Data Lab would give me the chance to contribute meaningfully to research in this field 
+Coming from Indonesia, I've realized that research opportunities are often limited, especially for those in high school/undergraduate programs. While there's a strong emphasis for research in STEM, it's often not universally open and reserved to the most talented. When I decided to come to the US to study computer science, I wanted to open up myself to these opportunities that didn't exist back home while being able to grow my skills and deepen my understanding of the subject. Joining the Forward Data Lab would give me the chance to contribute meaningfully to research in this field while continuing to gain practical knowledge that will complement my academic coursework.
 
 **Do you have prior research experience? Describe it.**
 
@@ -11,4 +11,4 @@ However, I think the second experience is more relevant to the position which wa
 
 **What is the most interesting/innovative project that you have done? Describe it.**
 
-I definitely think the most innovative project I've worked on was the tool in my research but what comes second would definitely be Explorifyy, which is a platform that helps connects students with campus events and organizations. 
+I definitely think the most innovative project I've worked on was the tool in my research but what comes second would definitely be Explorifyy, which is a platform that helps connects students with campus events and organizations. It was my first time working with mobile development, so I had to go through many pages of documentation and 
