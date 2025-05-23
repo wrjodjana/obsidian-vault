@@ -11,4 +11,4 @@ However, I think the second experience is more relevant to the position which wa
 
 **What is the most interesting/innovative project that you have done? Describe it.**
 
-I definitely think the most innovative project I've worked on was the tool in my research but what comes second would definitely be Explorifyy, which is a platform that helps connects students with campus events and organizations. It was my first time working with mobile development, so I had to go through many pages of documentation and 
+I definitely think the most innovative project I've worked on was the tool in my research but what comes second would definitely be Explorifyy, which is a platform that helps connects students with campus events and organizations. It was my first time working with mobile development, so I had to go through many pages of documentation and understand how to develop REST APIs in comparison to on the web. Furthermore, I had to take into account the scalability of the project since we decided on using Supabase 
