@@ -5,6 +5,6 @@ Coming from Indonesia, I've realized that research opportunities are often limit
 
 **Do you have prior research experience? Describe it.**
 
-I previously worked on two research projects. The first being with the department of special education which was using data analysis 
+I previously worked on two research projects. The first being with the department of special education which was using data analysis to develop new intervention strategies for young adults with disabilities. Most of it was collecting data by sitting down through interviews, understanding the data collectio
 
 **What is the most interesting/innovative project that you have done? Describe it.**
