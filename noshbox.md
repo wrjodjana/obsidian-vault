@@ -9,5 +9,8 @@ week 1
 meeting notes
 - under header, we can put like past headers, or like add a box to write emoji and text
 - engagement metrics you cant scroll all the way down and the text is overflowing the box
-- metrics user growth is 
+- metrics user growth graph not possible to be prompt engineered dont know why
+- revenue generated money is overflowing
+- personal info page goes to mystery box
+- 
 
