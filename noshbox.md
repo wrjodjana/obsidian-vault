@@ -13,5 +13,8 @@ meeting notes
 - revenue generated money is overflowing
 - personal info page goes to mystery box
 - notifications number on top right side of the page
-- 
 
+
+feedback
+- latea: negative reviews after testing this product, interested in the coupons and discounts, 
+- 
