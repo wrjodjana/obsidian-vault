@@ -24,7 +24,7 @@ feedback
 	- using spreadsheets to import into the application could be easier through the POS system Infi, integrating API into our product, if using loyalty points not to use promotions and vice versa
 	- quality control is a big issue
 	- have a singular application to update, change supply count
-- teamoji
+- susuru ramen
 	- 
 
 
