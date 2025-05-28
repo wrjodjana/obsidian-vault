@@ -21,5 +21,5 @@ feedback
 	- need consumers to place themselves on the product (roughly 10k)
 	- mentioned the happy hours on tuesday (bogo), happy hour: gaining visibility through freshman in the fall, wants to bring customers into the store physically (not through rso events), got traction from following on instagram, doesnt want to go through layers
 	- wednesday is the next worst day to improve upon
-	- using spreadsheets to import into the application could be easier through the POS system Infi
-	- another layer of doing API integration to 
+	- using spreadsheets to import into the application could be easier through the POS system Infi, integrating API into our product
+	- 
