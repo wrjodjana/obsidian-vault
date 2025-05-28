@@ -50,6 +50,6 @@ feedback
 	- chowbus pos system
 - fat sandwich company
 	- down to do the promotions, did something simlar couple years ago
-	- 
+	- alot of students come in and ask for specials but those 
 
 
