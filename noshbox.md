@@ -29,6 +29,7 @@ feedback
 	- doesnt care about if the meals are going to be cheaper during the summer since they want to make a certain amount of sales
 	- susururamenbar@gmail.com
 - murphys pub
-	- 
+	- food is made to order, so no surplus food
+	- happy hour is illegal now for alcohol in illinois
 
 
