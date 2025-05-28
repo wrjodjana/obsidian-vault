@@ -35,6 +35,7 @@ feedback
 	- asked about the cost of using the product
 	- murphyspubuofi@gmail.com (evan)
 - shwarma joint
+	- they close fully their entire kitchen at 10 so the mystery boxes is not that useful for them
 	- 
 
 
