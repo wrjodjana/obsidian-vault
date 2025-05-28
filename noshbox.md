@@ -26,6 +26,7 @@ feedback
 	- have a singular application to update, change supply count
 - susuru ramen
 	- toast pos system but using chowly for integration for the online systems
+	- doesnt care about if the meals are going to be cheaper during the summer since they want to make a certain amount of sales
 	- 
 
 
