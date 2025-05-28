@@ -38,12 +38,14 @@ feedback
 	- they close fully their entire kitchen at 10 so the mystery boxes is not that useful for them
 	- they dont want to make any other food items other then the made ones already
 - mia zas
-	- toast pos system, seems to be interested in this idea and could expand to the smaller mia za's
-	- meal plans are going to be helpful
+	- toast pos system, 
+	- seems to be interested in this idea and could expand to the smaller mia za's
+	- meal plans are going to be helpful but not really the boxes because they are not in surplus
 - kyo matcha + kajiken (haley)
 	- peblla pos system
 	- franchise, so needs to run it on another boss
 	- interested in the boxes, because they waste alot of the cakes
-	- losing money in the beginner of th
+	- losing money in the beginning of the day on alot of bakery stuff
+	- 
 
 
