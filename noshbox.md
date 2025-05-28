@@ -25,6 +25,7 @@ feedback
 	- quality control is a big issue
 	- have a singular application to update, change supply count
 - susuru ramen
-	- toast pos system but using chow
+	- toast pos system but using chowly for integration for the online systems
+	- 
 
 
