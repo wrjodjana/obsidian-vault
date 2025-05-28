@@ -31,7 +31,7 @@ feedback
 - murphys pub
 	- food is made to order, so no surplus food
 	- happy hour is illegal now for alcohol in illinois, but can do food potentially for couple of hours window (promotions)
-	- asked about the the preorders flow from the pos system
+	- asked about the the preorders flow from the pos system (datasym)
 	- 
 
 
