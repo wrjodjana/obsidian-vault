@@ -52,5 +52,6 @@ feedback
 	- down to do the promotions, did something simlar couple years ago
 	- alot of students come in and ask for specials but those that dont come doesnt know
 	- clover pos system
-	- 11-5 is the least busiest times, while 
+	- 11-5 is the least busiest times, while after 12 its extremely busy since it focuses on late night food
+	- 
 
