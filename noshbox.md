@@ -36,7 +36,7 @@ feedback
 	- murphyspubuofi@gmail.com (evan)
 - shwarma joint
 	- they close fully their entire kitchen at 10 so the mystery boxes is not that useful for them
-	- they dont want to make any other food items other then the made ones already
+	- they dont want to make any other food items oth`er then the made ones already
 - mia zas
 	- toast pos system
 	- seems to be interested in this idea and could expand to the smaller mia za's
