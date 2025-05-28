@@ -57,5 +57,6 @@ feedback
 	- doesnt do mystery boxes but has interest in the promotions 
 - thai fusion
 	- chowbus POS system
-	- 
+	- interested in the idea
+- 
 
