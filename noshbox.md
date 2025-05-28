@@ -43,6 +43,7 @@ feedback
 - kyo matcha + kajiken (haley)
 	- peblla pos system
 	- franchise, so needs to run it on another boss
+	- interested in the boxes, because they waste alot of the cakes
 	- 
 
 
