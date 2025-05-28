@@ -20,4 +20,6 @@ feedback
 	- negative reviews after testing this similar product (the leftover meals), interested in the coupons and discounts, 
 	- need consumers to place themselves on the product but likely a partnership
 	- mentioned the happy hours on tuesday (bogo)
-	- happy hour: gaining visibility through freshman in the fall, wants to bring customers into the store
+	- happy hour: gaining visibility through freshman in the fall, wants to bring customers into the store physically (not through rso events)
+	- wednesday is the next worst day to improve upon
+	- 
