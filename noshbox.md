@@ -17,7 +17,7 @@ meeting notes
 
 feedback
 - latea: 
-	- negative reviews after testing this product, interested in the coupons and discounts, 
+	- negative reviews after testing this similar product (the leftover meals), interested in the coupons and discounts, 
 	- need consumers to place themselves on the product but likely a partnership
 	- mentioned the happy hours on tuesday (bogo)
 	- 
