@@ -18,8 +18,8 @@ meeting notes
 feedback
 - latea: 
 	- negative reviews after testing this similar product (the leftover meals), interested in the coupons and discounts, 
-	- need consumers to place themselves on the product but likely a partnership
+	- need consumers to place themselves on the product (roughly 10k)
 	- mentioned the happy hours on tuesday (bogo)
-	- happy hour: gaining visibility through freshman in the fall, wants to bring customers into the store physically (not through rso events)
+	- happy hour: gaining visibility through freshman in the fall, wants to bring customers into the store physically (not through rso events), got traction from following on instagram, doesnt want to go through layers
 	- wednesday is the next worst day to improve upon
 	- 
