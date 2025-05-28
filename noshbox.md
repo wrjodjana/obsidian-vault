@@ -43,9 +43,9 @@ feedback
 	- meal plans are going to be helpful but not really the boxes because they are not in surplus
 - kyo matcha + kajiken (haley)
 	- peblla pos system
-	- franchise, so needs to run it on another boss
+	- franchise, so needs to run it on another boss (gloria)
 	- interested in the boxes, because they waste alot of the cakes
 	- losing money in the beginning of the day on alot of bakery stuff
-	- 
+- 
 
 
