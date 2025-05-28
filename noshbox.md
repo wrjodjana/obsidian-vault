@@ -41,6 +41,8 @@ feedback
 	- toast pos system, seems to be interested in this idea and could expand to the smaller mia za's
 	- meal plans are going to be helpful
 - kyo matcha + kajiken
+	- peblla pos system
+	- franchise, so needs to run it on another boss
 	- 
 
 
