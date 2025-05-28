@@ -28,5 +28,6 @@ feedback
 	- toast pos system but using chowly for integration for the online systems
 	- doesnt care about if the meals are going to be cheaper during the summer since they want to make a certain amount of sales
 	- 
+	- susururamenbar@gmail.com
 
 
