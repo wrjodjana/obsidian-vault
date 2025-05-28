@@ -49,6 +49,7 @@ feedback
 - ygf malatang
 	- chowbus pos system
 - fat sandwich company
+	- down to do the promotions, did something simlar couple years ago
 	- 
 
 
