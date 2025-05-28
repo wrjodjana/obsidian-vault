@@ -30,7 +30,7 @@ feedback
 	- susururamenbar@gmail.com
 - murphys pub
 	- food is made to order, so no surplus food
-	- happy hour is illegal now for alcohol in illinois, but can do food potentially for couple of hours window
+	- happy hour is illegal now for alcohol in illinois, but can do food potentially for couple of hours window (promotions)
 	- 
 
 
