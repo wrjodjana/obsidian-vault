@@ -46,6 +46,8 @@ feedback
 	- franchise, so needs to run it on another boss (gloria)
 	- interested in the boxes, because they waste alot of the cakes
 	- losing money in the beginning of the day on alot of bakery stuff
-- 
+- ygf malatang
+	- chowbus pos system
+	- 
 
 
