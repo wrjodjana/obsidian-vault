@@ -12,4 +12,4 @@ Back home in Indonesia, I had heard about retirement accounts from my parents bu
 
 **Tell us about a person in your field that you admire. Why did you pick this person? How do you think you can be more like them?**
 
-One person that I admire in this field is my older brother who currently works as a software engineer. Even though we both have differing ideas and ambitions, I've always looked up to him in terms of how much he g
+One person that I admire in this field is my older brother who currently works as a software engineer. Even though we both have differing ideas and ambitions, I've always looked up to him in terms of how much he grown as a person because of this field and learning how he approaches 
