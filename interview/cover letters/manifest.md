@@ -8,6 +8,6 @@ In terms of career goals, I would say there's two ways that I'd like to grow in 
 
 **Why do you want to work at Manifest?**
 
-Back home in Indonesia, I had heard about retirement accounts from my parents but barely had any idea about this until recently
+Back home in Indonesia, I had heard about retirement accounts from my parents but barely had any idea about the whole process until recently. 
 
 **Tell us about a person in your field that you admire. Why did you pick this person? How do you think you can be more like them?**
