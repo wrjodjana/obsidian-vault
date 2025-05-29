@@ -55,8 +55,11 @@ feedback
 	- 11-5 is the least busiest times, while after 12 its extremely busy since it focuses on late night food
 - moge tee
 	- doesnt do mystery boxes but has interest in the promotions 
-- thai fusio
+- thai fusion
 	- chowbus POS system
 	- interested in the idea
-- 
+- evo
+	- interested in the idea, especially the mystery boxes (wants ingredients as well), showed some of the waste they had
+- caos hot pot
+	- 
 
