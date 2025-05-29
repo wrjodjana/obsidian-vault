@@ -56,5 +56,6 @@ feedback
 - caos hot pot
 	- chowbus POS system
 	- asked how users are going to pay for the mystery box like the entire process
-	- asked about how customers are going to grow on the 
+	- asked about how customers are going to grow on the platform
+	- 
 
