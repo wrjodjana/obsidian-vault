@@ -1,6 +1,6 @@
 **Why do you want to work at a startup?**
 
-Last year I joined a startup under the iVenture Accelerator program at UIUC and learnt a lot about the intricacies of being a founder and and creating valuable products but the one thing that stood out was the term "iteration". Being able to pivot and iterate on different ideas while still growing as a team creates this sort of adrenaline and mindset that nothing is perfectly built and working with direct users to develop the most viable product is super important. This connotation of having to be perfect like getting a 4.0 gpa doesnt exist when it comes to 
+Last year I joined a startup under the iVenture Accelerator program at UIUC and learnt a lot about the intricacies of being a founder and and creating valuable products but the one thing that stood out was the term "iteration". Being able to pivot and iterate on different ideas while still growing as a team creates this sort of adrenaline and mindset that nothing is perfectly built and working with direct users to develop the most viable product is super important. This connotation of having to be perfect like getting a 4.0 gpa doesn't exist when it comes to building startups, it's always about being able to adapt to various scenarios and learning how to grow beyond initial difficulties. I want to continue having this sort of state of mind and 
 
 **Tell us about your career goals. What are some things you wish to accomplish if you get this position?**
 
