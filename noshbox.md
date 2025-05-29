@@ -62,5 +62,6 @@ feedback
 	- interested in the idea, especially the mystery boxes (wants ingredients as well), showed some of the waste they had
 - caos hot pot
 	- chowbus POS system
-	- a
+	- asked how users are going to pay for the mystery box like the entire process
+	- 
 
