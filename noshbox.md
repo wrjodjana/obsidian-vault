@@ -59,6 +59,6 @@ feedback
 	- asked about how customers are going to grow on the platform
 	- interested in promoting the restaurant as ayce, 
 	- need to figure out a way to integrate the POS system without alerting any of the POS systems so that they dont need to be charged more
-	- ask about pricing of product, how t
+	- ask about pricing of product, how they will be charged etc.
 	- 
 
