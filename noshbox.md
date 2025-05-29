@@ -61,6 +61,7 @@ feedback
 	- need to figure out a way to integrate the POS system without alerting any of the POS systems so that they dont need to be charged more
 	- ask about pricing of product, how they will be charged etc.
 - ambar india
-	- teletic POS system
+	- teletec POS system
+	- asked about the pricing systems of the comission
 	- 
 
