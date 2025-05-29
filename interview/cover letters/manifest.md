@@ -1,8 +1,10 @@
 **Why do you want to work at a startup?**
 
-Last year I joined a startup under the iVenture Accelerator program at UIUC and learnt a lot about the intricacies of being a founder and and creating valuable products but the one thing that stood out was the term "iteration". Being able to pivot and iterate on different ideas while still growing as a team creates this sort of adrenaline and mindset that nothing is perfectly built and working with direct users to develop the most viable product is super important. This connotation of having to be perfect like getting a 4.0 gpa doesn't exist when it comes to building startups, it's always about being able to adapt to various scenarios and learning how to grow beyond initial difficulties. I want to continue having this sort of state of mind where I can freely push code while being able to constantly interchange different ideas and see how perspectives change.
+Last year I joined a startup under the iVenture Accelerator program at UIUC and learned a lot about the intricacies of being a founder and creating valuable products. However, the one thing that stood out most was the concept of "iteration." Being able to pivot and iterate on different ideas while still growing as a team creates this adrenaline rush and mindset where nothing is considered perfectly built. This approach completely contrasts with the academic perfectionism of chasing a 4.0 GPA. In startups, it's always about adapting to various scenarios and learning how to grow beyond initial difficulties. I want to continue cultivating this mindset where I can freely push code while constantly interchanging different ideas, embracing the uncertainty and rapid evolution that defines true innovation.
 
 **Tell us about your career goals. What are some things you wish to accomplish if you get this position?**
+
+
 
 **Why do you want to work at Manifest?**
 
