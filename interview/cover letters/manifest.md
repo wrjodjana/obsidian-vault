@@ -4,7 +4,7 @@ Last year I joined a startup under the iVenture Accelerator program at UIUC and 
 
 **Tell us about your career goals. What are some things you wish to accomplish if you get this position?**
 
-In terms of career goals, I would say there's two ways that I'd like to grow in this particular role which is technically and professionally. In the aspect of technically, I'm definitely looking into continually developing 
+In terms of career goals, I would say there's two ways that I'd like to grow in this particular role which is technically and professionally. In the aspect of technically, I'm definitely looking into continually developing my frontend engineering skills such as TypeScript and React, however one thing I missed in my previous experiences i
 
 **Why do you want to work at Manifest?**
 
