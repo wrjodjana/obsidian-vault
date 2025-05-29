@@ -58,4 +58,6 @@ feedback
 	- asked how users are going to pay for the mystery box like the entire process
 	- asked about how customers are going to grow on the platform
 	- interested in promoting the restaurant as ayce, 
+	- need to figure out a way to integrate the POS system without alerting any of the POS systems so that they dont need to be charged more
+	- 
 
