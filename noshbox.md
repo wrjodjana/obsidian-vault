@@ -62,6 +62,6 @@ feedback
 	- ask about pricing of product, how they will be charged etc.
 - ambar india
 	- teletec POS system
-	- asked about the pricing systems, comission
+	- asked about the pricing systems, commission
 	- 
 
