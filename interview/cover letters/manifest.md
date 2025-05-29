@@ -1,6 +1,6 @@
 **Why do you want to work at a startup?**
 
-Last year I joined a startup under the iVenture Accelerator program at UIUC and learnt a lot about the intricacies of being a founder and and creating valuable products but the one thing that stood out was the term "iteration". 
+Last year I joined a startup under the iVenture Accelerator program at UIUC and learnt a lot about the intricacies of being a founder and and creating valuable products but the one thing that stood out was the term "iteration". Being able to pivot and iterate on different ideas whi
 
 **Tell us about your career goals. What are some things you wish to accomplish if you get this position?**
 
