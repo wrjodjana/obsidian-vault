@@ -8,6 +8,8 @@ In terms of career goals, I would say there are two ways that I'd like to grow i
 
 **Why do you want to work at Manifest?**
 
-Back home in Indonesia, I had heard about retirement accounts from my parents but barely had any idea about the whole process until recently. However, one thing that I definitely notice is that it's definitely slow, traditional and half-hearted, meaning that you miss a lot of the steps that you should've taken. Being able to make this whole process a seamless experience through understanding the small details about your retirement account such as tracking different amounts while still maintaining accurate data is super important and I'd like to be able to contribute to a
+Back home in Indonesia, I had heard about retirement accounts from my parents but barely had any idea about the whole process until recently. However, one thing that I definitely noticed is that it's slow, traditional, and half-hearted, meaning that you miss a lot of the steps that you should have taken. Being able to make this whole process a seamless experience through understanding the small details about your retirement account, such as tracking different amounts while still maintaining accurate data is super important, and I'd like to be able to contribute to a company that's revolutionizing how people approach their financial future. What excites me most about Manifest is the opportunity to work on technology that directly impacts people's long-term financial security and makes something traditionally complex much more accessible and user-friendly.
 
 **Tell us about a person in your field that you admire. Why did you pick this person? How do you think you can be more like them?**
+
+One person that I admire in this field is my older brother who currently works as a soft
