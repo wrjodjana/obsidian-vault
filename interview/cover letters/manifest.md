@@ -4,7 +4,7 @@ Last year I joined a startup under the iVenture Accelerator program at UIUC and 
 
 **Tell us about your career goals. What are some things you wish to accomplish if you get this position?**
 
-There's two perspectives that I could approach this which would be 
+There's two perspectives that I could approach this which would be from 
 
 **Why do you want to work at Manifest?**
 
