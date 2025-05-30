@@ -7,6 +7,7 @@ Just say thank you for reviewing resume and like taking time out of ur busy day 
 
 Based on my background, what 2-3 skills should I prioritize developing to be competitive for your team?
 
+
 How can I better position my experience for software roles in aerospace/maritime mobility?
 
 What makes vehicle software engineering for seagliders unique, and what programming languages/frameworks are essential?
