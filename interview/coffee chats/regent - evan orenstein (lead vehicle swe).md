@@ -9,3 +9,6 @@ Based on my background, what 2-3 skills should I prioritize developing to be com
 
 How can I better position my experience for software roles in aerospace/maritime mobility?
 
+- **What makes vehicle software engineering for seagliders unique, and what programming languages/frameworks are essential?**
+    
+Given your Boeing/NASA experience, what career advice would you give someone entering this field?
