@@ -30,9 +30,12 @@ technical questions
 ****
 
 Answer:
-```
+```Python
 def longestPalindrome(s):
-	
+	long_start = 0
+	long_len = 0
+
+	def 
 ```
 
 
