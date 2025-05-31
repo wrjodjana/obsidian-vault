@@ -5,4 +5,6 @@ intro
 - also have some research experience mostly focus on doing ai/ml integration towards web platforms, skills: React, FastAPI, TypeScript, Python
 
 why extrahop
+- interested in working with bigger clients in comparison to at startups where it's mostly customer-facing and mostly d
+- 
 
