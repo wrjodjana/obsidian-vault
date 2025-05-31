@@ -5,3 +5,5 @@ intro
 - also have some research experience mostly focus on doing ai/ml integration towards web platforms, skills: React, FastAPI, TypeScript, Python
 
 
+
+
