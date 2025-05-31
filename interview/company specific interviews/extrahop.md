@@ -6,5 +6,6 @@ intro
 
 why extrahop
 - interested in working with bigger clients in comparison to at startups where I was doing alot of customer-facing
-- however extrahop is also not that big to the point where I can still be challenged and take up multiple roles (based on what my referral mentioned)
+- however extrahop is also not that big of a company where I can still be challenged and able to take on multiple problems (based on what my referral mentioned)
+- finally, the product itself 
 
