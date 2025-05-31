@@ -31,7 +31,8 @@ technical questions
 
 Answer:
 ```
-def longestPalindrome(self, s: st)
+def longestPalindrome(s):
+	
 ```
 
 
