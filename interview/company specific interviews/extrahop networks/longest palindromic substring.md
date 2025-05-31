@@ -51,6 +51,6 @@ def longestPalindrome(s):
 	c. Case sensitivity,  ASCII values?
 2. Explain approach
 	a. Brute force: check every possible substring to see if its a palindrome, which would take $O(n^3)$ - $O(n^2)$ substrings, each taking $O(n)$ 
-	b. Optimal approach: 
+	b. Optimal approach:  Go through every value in the array, then use this as a center to expand outward and check for either the outward
 
 
