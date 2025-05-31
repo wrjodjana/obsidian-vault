@@ -1,4 +1,6 @@
 
+behavio
+
 intro
 - cs and statistics junior studying at uiuc
 - Internship experiences at a startup doing backend engineering and a unicorn doing data engineering
@@ -19,7 +21,12 @@ technical questions
 > 
 > Example 1:
 > Input s = "babad"
+> Output: "bab"
+> Explanation: "aba" is also a valid answer
 > 
+> Example 2:
+> Input s = "cbbd"
+> Output: "bb"
 ****
 
 
