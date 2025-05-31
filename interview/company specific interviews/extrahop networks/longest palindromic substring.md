@@ -45,6 +45,7 @@ def longestPalindrome(s):
 ```
 
 
-
+1. Questions to ask
+	a. 
 
 
