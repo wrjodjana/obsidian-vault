@@ -46,6 +46,10 @@ def longestPalindrome(s):
 
 
 1. Questions to ask
-	a. 
+	a. What should I return if the input array is empty?
+	b. Are there any constraints on string length?
+	c. Case sensitivity,  ASCII values?
+2. Explain approach
+	a. Brute force: check every possible substring to see if its a palindrome, which would take 
 
 
