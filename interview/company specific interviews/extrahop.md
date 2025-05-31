@@ -33,28 +33,28 @@ Answer:
 ```Python
 def longestPalindrome(s):
 	long_start = 0
-	long_len = 0
+	long_len = 1
 
 	def expand_center(l, r):
 		while l >= 0 and r < len(s) and s[l] == s[r]:
-			l += 1
-			r -= 1
+			l -= 1
+			r += 1
 		start = l + 1
 		length = (r - 1) - (l + 1) + 1
 		return start, length
 
 	for i in range(len(s)):
 		start, length = expand_center(i, i)
-		if length > long_length:
-			long_length = length
+		if length > long_len:
+			long_len = length
 			long_start = start
 
 		start, length = expand_center(i, i+1)
-		if length > long_length:
-			long_length = length
+		if length > long_len:
+			long_len = length
 			long_start = start
-			
-			
+
+	return s[long_start:long_start+long_len]	
 ```
 
 
