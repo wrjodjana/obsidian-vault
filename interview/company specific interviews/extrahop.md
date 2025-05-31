@@ -1,5 +1,5 @@
 
-behavio
+behavioural questions + recruiter call
 
 intro
 - cs and statistics junior studying at uiuc
@@ -29,7 +29,10 @@ technical questions
 > Output: "bb"
 ****
 
-
+Answer:
+```
+def longestPalindrome(self, s: st)
+```
 
 
 
