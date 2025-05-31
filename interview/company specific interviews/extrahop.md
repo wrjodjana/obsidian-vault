@@ -5,7 +5,11 @@ intro
 - also have some research experience mostly focus on doing ai/ml integration towards web platforms, skills: React, FastAPI, TypeScript, Python
 
 why extrahop
-- interested in working with bigger clients in comparison to at startups where I was doing alot of customer-facing
-- however extrahop is also not that big of a company where I can still be challenged and able to take on multiple problems (based on what my referral mentioned)
-- i've worked with alot of data particularly developing pipelines or data aggregation, so it's in relation to Extrahop's main product which is using network traffic to identify threats and secure cloud investments
+- I'm interested in working with larger clients compared to the startups where I was heavily involved in customer-facing roles
+- However, ExtraHop isn't so large that I wouldn't still face challenges and be able to tackle multiple problems (according to my referral)
+- I have extensive experience working with data, particularly in developing pipelines and data aggregation, which directly relates to ExtraHop's core product that analyzes network traffic to identify threats and secure cloud investments
+
+
+
+
 
