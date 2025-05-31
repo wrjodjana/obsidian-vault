@@ -45,7 +45,16 @@ def longestPalindrome(s):
 
 	for i in range(len(s)):
 		start, length = expand_center(i, i)
-		if length > max_length
+		if length > long_length:
+			long_length = length
+			long_start = start
+
+		start, length = expand_center(i, i+1)
+		if length > long_length:
+			long_length = length
+			long_start = start
+			
+			
 ```
 
 
