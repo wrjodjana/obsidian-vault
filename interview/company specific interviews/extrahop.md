@@ -35,7 +35,15 @@ def longestPalindrome(s):
 	long_start = 0
 	long_len = 0
 
-	def 
+	def expand_center(l, r):
+		while l >= 0 and r < len(s) and s[l] == s[r]:
+			l += 1
+			r -= 1
+		start = l + 1
+		length = (r - 1) - (l + 1) + 1
+		return start, length
+
+	
 ```
 
 
