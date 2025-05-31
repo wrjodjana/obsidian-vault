@@ -50,6 +50,7 @@ def longestPalindrome(s):
 	b. Are there any constraints on string length?
 	c. Case sensitivity,  ASCII values?
 2. Explain approach
-	a. Brute force: check every possible substring to see if its a palindrome, which would take 
+	a. Brute force: check every possible substring to see if its a palindrome, which would take $O(n^3)$ - $O(n^2)$ substrings, each taking $O(n)$ 
+	b. Optimal approach: 
 
 
