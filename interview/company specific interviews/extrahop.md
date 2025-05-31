@@ -32,6 +32,9 @@ technical questions
 Answer:
 ```Python
 def longestPalindrome(s):
+	if not s:
+		return ""
+
 	long_start = 0
 	long_len = 1
 
@@ -57,8 +60,8 @@ def longestPalindrome(s):
 	return s[long_start:long_start+long_len]	
 ```
 
-
-
+Explanation:
+1. 
 
 
 
