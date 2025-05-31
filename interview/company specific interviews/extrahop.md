@@ -7,5 +7,5 @@ intro
 why extrahop
 - interested in working with bigger clients in comparison to at startups where I was doing alot of customer-facing
 - however extrahop is also not that big of a company where I can still be challenged and able to take on multiple problems (based on what my referral mentioned)
-- finally, the product itself 
+- finally, the product itself is interesting because i've worked with alot of data particularly developing pipelines or data aggregation, so it's in
 
