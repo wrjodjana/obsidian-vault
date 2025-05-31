@@ -15,6 +15,8 @@ why extrahop
 
 technical questions
 
+
+
 > [!question]
 > **Longest Palindromic Substring**
 > Given a string s, return the longest palindromic substring in s. Note: substring means continuous characters in s
@@ -60,8 +62,7 @@ def longestPalindrome(s):
 	return s[long_start:long_start+long_len]	
 ```
 
-Explanation:
-1. 
+
 
 
 
