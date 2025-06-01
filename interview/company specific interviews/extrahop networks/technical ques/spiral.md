@@ -79,7 +79,13 @@ def spiral(s, start_x, start_y, start_direction):
 
 	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
-	x, y = start_
+	x, y = start_x, start_y
+	direction = start_direction % 4
+	steps_left = s
+
+	steps_curr_direction = (start_direction // 2) + 1
+
+	
 ```
 
 
