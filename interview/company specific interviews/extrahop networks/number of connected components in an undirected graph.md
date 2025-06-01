@@ -54,4 +54,6 @@ def countComponents(n, edges):
 	- A connected component is a maximal set of nodes where every pair is connected by some path
 	- First, build an adjacency list of the graph to easily go through the graph and find neighbors later on
 	- For every unvisited node, perform BFS to mark all nodes in its connected component
-	- Count how many times we initiate 
+	- Count how many times we initiate a new BFS (each initiation = one component)
+	- Use a visited set to ensure each node is processed exactly once
+3. 
