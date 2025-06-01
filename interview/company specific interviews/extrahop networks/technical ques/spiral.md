@@ -54,7 +54,7 @@ Explanation:
 1. Questions to ask:
 	1. What should I return if s is negative?
 	2. Are there any constraints on the maximum number of steps
-2. 
+2. Optimal Appraoch
 
 
 
