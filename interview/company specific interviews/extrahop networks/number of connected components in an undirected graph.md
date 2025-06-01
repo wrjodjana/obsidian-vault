@@ -49,4 +49,5 @@ def countComponents(n, edges):
 1. Questions to ask:
 	a. What should I return if the edges are no edges?
 	b. Any constraints on n?
-	c. 
+2. Approach
+	a. Optimal: 
