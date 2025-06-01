@@ -40,7 +40,6 @@ def spiral(s):
 		y += dy * steps
 		
 		steps_left -= steps
-
 		if steps == steps_curr_direction:
 			direction = (direction + 1) % 4
 			if direction % 2 == 0:
@@ -48,6 +47,7 @@ def spiral(s):
 
 	return (x,y)
 ```
+
 
 
 
