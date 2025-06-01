@@ -64,6 +64,8 @@ def longestPalindrome(s):
 			- `1 > 1`, no so dont update 
 		- even-length:
 			- `s[0] != s[1] -> "b" != "a"` so dont continue
-	- "a" is first center, 
+	- "a":
+		- odd-length:
+			- `s[1] == s[1]`, `l -= 1, r += 1`
 
 
