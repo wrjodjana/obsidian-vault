@@ -70,7 +70,17 @@ Explanation:
 
 Extensions:
 
+Instead of assuming that you start at (0, 0) facing East, modify your function to // also accept an starting x coordinate, y coordinate, and direction
 
+```Python
+def spiral(s, start_x, start_y, start_direction):
+	if s == 0:
+		return (start_x, start_y)
+
+	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+
+	x, y = start_
+```
 
 
 
