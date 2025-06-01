@@ -23,7 +23,17 @@
 Answer:
 ```Python
 def spiral(s):
-	if. 
+	if s == 0:
+		return (0, 0)
+
+	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+	
+	x, y = 0, 0
+	direction = 0
+	steps_left = s
+	steps_curr_direction = 1
+	
+	
 ```
 
 
