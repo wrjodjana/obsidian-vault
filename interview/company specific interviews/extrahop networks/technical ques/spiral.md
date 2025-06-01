@@ -62,6 +62,7 @@ Explanation:
 		1. Start with 1 step east, then we know how many steps we need to take in each direction before turning
 		2. Instead of taking individual steps, calculate how many steps we take in the current direction, if we have enough steps remaining, we can move the entire segment length at once
 		3. If there's not enough steps left to complete segment in current direction, we take only the remaining steps and stop
+		4. After completing full segment, rotate to the next direction. Every time we complete two directions (East -> North or West -> South)
 
 
 
