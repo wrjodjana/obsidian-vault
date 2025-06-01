@@ -33,7 +33,13 @@ def spiral(s):
 	steps_left = s
 	steps_curr_direction = 1
 	
-	
+	while steps_left > 0:
+		steps = min(steps_left, steps_curr_direction)
+		dx, dy = directions[direction]
+		x += dx * steps_left
+		y += dy * steps_left
+		
+		steps_left -= 
 ```
 
 
