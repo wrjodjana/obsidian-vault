@@ -9,7 +9,7 @@ intro
 why extrahop
 - ExtraHop is innovating in cybersecurity by fundamentally **reimagining how enterprises approach network security** through consolidation and advanced AI-driven analysis. For example, recently the company announced the all-in-one sensor that eliminates the need for consumers to feed different legacy security tools. [evidence](https://www.extrahop.com/news/press-releases/extrahop-disrupts-network-detection-and-response-market-with-industry-first-all-in-one-sensor)
 - Also interested because the company is solving problems in the cybersecurity at a large scale. I'm also constantly solving problems, for example in my previous research experience the platform that I was building basically was nonexistent and much of the data I had to go through extensive loops to find. I believe that Extrahop's mission and values align with mine, particularly going above and beyond to satisfy the customers challenges.
-- 
+- I'm interested in working with larger clients compared to the startups where I was heavily involved in consumer-facing roles, However, ExtraHop isn't so large that I wouldn't still face challenges and be able to tackle multiple problems (according to my referral)
 
 
 technical questions
