@@ -16,6 +16,6 @@ why extrahop
 technical questions
 [[longest palindromic substring]]
 [[number of connected components in an undirected graph]]
-
+[[spiral]]
 
 

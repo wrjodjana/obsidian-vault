@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/company specific interviews/extrahop networks/spiral.md",
+                "file": "interview/company specific interviews/extrahop networks/prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spiral"
+              "title": "prep"
             }
           }
         ]
@@ -171,14 +171,14 @@
   },
   "active": "17119801215ba65f",
   "lastOpenFiles": [
-    "interview/coffee chats/regent - evan orenstein (lead vehicle swe).md",
     "interview/company specific interviews/extrahop networks/spiral.md",
-    "interview/images/Screenshot 2025-06-01 at 1.34.48 AM.png",
-    "interview/company specific interviews/extrahop networks/everything.md",
-    "interview/company specific interviews/structureiq.md",
+    "interview/company specific interviews/extrahop networks/prep.md",
     "interview/company specific interviews/extrahop networks/number of connected components in an undirected graph.md",
-    "interview/company specific interviews/extrahop.md",
     "interview/company specific interviews/extrahop networks/longest palindromic substring.md",
+    "interview/coffee chats/regent - evan orenstein (lead vehicle swe).md",
+    "interview/images/Screenshot 2025-06-01 at 1.34.48 AM.png",
+    "interview/company specific interviews/structureiq.md",
+    "interview/company specific interviews/extrahop.md",
     "interview/company specific interviews/extrahop networks/extrahop.md",
     "interview/company specific interviews/extrahop networks",
     "noshbox.md",
