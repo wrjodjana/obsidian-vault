@@ -19,8 +19,14 @@
 >Example 3:
 >Input: s = 2
 >Output: (1, 1)
->
->
+
+Answer:
+```Python
+def spiral(s):
+	if. 
+```
+
+
 
 
 
