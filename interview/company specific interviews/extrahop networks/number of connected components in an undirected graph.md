@@ -52,4 +52,6 @@ def countComponents(n, edges):
 2. Approach
 	a. Optimal:
 	- A connected component is a maximal set of nodes where every pair is connected by some path
-	- First, build an adjacency list of the graph to 
+	- First, build an adjacency list of the graph to easily go through the graph and find neighbors later on
+	- For every unvisited node, perform BFS to mark all nodes in its connected component
+	- Count how many times we initiate 
