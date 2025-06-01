@@ -61,3 +61,14 @@ def countComponents(n, edges):
 	- Space Complexity: $O(n+e)$, building the graph to store all nodes and edges, $O(n+e)$, visited set is $O(n)$ to track visited nodes, bfs queue is $O(n)$ in its worst case
 
 
+Alternative approaches:
+
+DFS
+```Python
+def dfs(node):
+	visited.add(node)
+	for neighbor in graph[node]:
+		if neighbor not in visited:
+			dfs(neighbor)
+```
+
