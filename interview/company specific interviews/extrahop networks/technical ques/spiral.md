@@ -55,8 +55,9 @@ Explanation:
 	1. What should I return if s is negative?
 	2. Are there any constraints on the maximum number of steps
 2. Optimal Approach:
-	1. Insights:
-		1. 
+	1. Instead of moving one step at a time, the spiral follows a pattern where we move multiple steps in each direction
+	2. Spiral moves in segments, 1 East, 1 North, 2 West, 2 South, 3 East, 3 North etc.
+	3. Each direction has a specific number of s
 
 
 
