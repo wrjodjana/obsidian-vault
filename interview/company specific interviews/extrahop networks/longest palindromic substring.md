@@ -70,5 +70,10 @@ def longestPalindrome(s):
 			- `s[0] == s[2], l -= 1, r += 1`
 			- `l = -1`, out of bounds so stop
 			- `3 > 1`, so update `long_start = 0, long_len = 3`
+		- even-length:
+			- `s[1] != s[2], "a" != "b"` so dont continue
+
+4. Time/Space Complexity
+	- Time Complexity: 
 
 
