@@ -52,4 +52,4 @@ def countComponents(n, edges):
 2. Approach
 	a. Optimal:
 	- A connected component is a maximal set of nodes where every pair is connected by some path
-		- First, build an adjacency list 
+	- First, build an adjacency list of the graph to 
