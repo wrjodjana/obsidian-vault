@@ -74,6 +74,6 @@ def longestPalindrome(s):
 			- `s[1] != s[2], "a" != "b"` so dont continue
 
 4. Time/Space Complexity
-	- Time Complexity: 
+	- Time Complexity: $O(n^2)$
 
 
