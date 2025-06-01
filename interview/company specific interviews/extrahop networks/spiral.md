@@ -39,7 +39,9 @@ def spiral(s):
 		x += dx * steps_left
 		y += dy * steps_left
 		
-		steps_left -= 
+		steps_left -= steps
+
+		if steps_
 ```
 
 
