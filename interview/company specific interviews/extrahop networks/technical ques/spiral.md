@@ -60,7 +60,7 @@ Explanation:
 	3. Each direction has a specific number of steps before we turning and the number of steps increases in pairs: directions that are opposite of each other share the same step count
 	4. Logic:
 		1. Start with 1 step east, then we know how many steps we need to take in each direction before turning
-		2. 
+		2. Instead of taking individual steps, calculate how many steps 
 
 
 
