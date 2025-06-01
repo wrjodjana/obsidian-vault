@@ -25,6 +25,15 @@ def countComponents(n, edges):
 		graph[x].append(y)
 		graph[y].append(x)
 
+	q = deque()
+	visited = set()
+
+	def bfs(root):
+		q.append(root)
+		visited.add(root)
+
+		while q:
+			
 	
 ```
 
