@@ -31,7 +31,6 @@ def countComponents(n, edges):
 	def bfs(root):
 		q.append(root)
 		visited.add(root)
-
 		while q:
 			node = q.popleft()
 			for neighbor in graph[node]:
@@ -43,6 +42,9 @@ def countComponents(n, edges):
 		if i not in visited:
 			bfs(i)
 			components += 1
-	
+
+	return components
 ```
 
+1. Questions to ask:
+	a. 
