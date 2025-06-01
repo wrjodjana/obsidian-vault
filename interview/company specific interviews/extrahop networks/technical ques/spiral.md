@@ -85,7 +85,20 @@ def spiral(s, start_x, start_y, start_direction):
 
 	steps_curr_direction = (start_direction // 2) + 1
 
-	
+	while steps_left > 0:
+		steps = min(steps_left, steps_curr_direction)
+		dx, dy = directions[direction]
+		x += dx * steps
+		y += dy * steps
+		
+		steps_left -= steps
+		
+		if steps == steps_curr_direction:
+			direction = (direction + 1) % 4
+			if direction % 2 == 0:
+				steps_curr_direction += 1
+
+	return (x, y)
 ```
 
 
