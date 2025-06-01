@@ -34,8 +34,15 @@ def countComponents(n, edges):
 
 		while q:
 			node = q.popleft()
-
-			for nei
+			for neighbor in graph[node]:
+				if neighbor not in visited:
+					q.append(neighbor)
+					visited.add(neighbor)
+	components = 0
+	for i in range(n):
+		if i not in visited:
+			bfs(i)
+			components += 1
 	
 ```
 
