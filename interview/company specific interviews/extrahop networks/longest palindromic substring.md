@@ -67,5 +67,6 @@ def longestPalindrome(s):
 	- "a":
 		- odd-length:
 			- `s[1] == s[1]`, `l -= 1, r += 1`
+			- `s[0] == s[2] =`
 
 
