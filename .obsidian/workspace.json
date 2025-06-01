@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/company specific interviews/extrahop networks/prep.md",
+                "file": "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prep"
+              "title": "spiral"
             }
           }
         ]
@@ -169,12 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5606e51642e69a3",
+  "active": "17119801215ba65f",
   "lastOpenFiles": [
+    "interview/company specific interviews/extrahop networks/prep.md",
     "interview/company specific interviews/extrahop networks/technical ques",
     "interview/company specific interviews/extrahop networks/technical ques/longest palindromic substring.md",
     "interview/company specific interviews/extrahop networks/technical ques/number of connected components in an undirected graph.md",
-    "interview/company specific interviews/extrahop networks/prep.md",
     "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
     "interview/company specific interviews/structureiq.md",
     "interview/coffee chats/regent - evan orenstein (lead vehicle swe).md",
@@ -208,7 +208,6 @@
     "web development/images/Pasted image 20250516064215.png",
     "web development/images/Pasted image 20250515113553.png",
     "web development/images",
-    "web development",
     "research/uq group/images/Pasted image 20250517205705.png",
     "research/uq group/things to fix.md"
   ]
