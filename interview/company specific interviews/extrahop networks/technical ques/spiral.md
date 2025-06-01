@@ -63,7 +63,8 @@ Explanation:
 		2. Instead of taking individual steps, calculate how many steps we take in the current direction, if we have enough steps remaining, we can move the entire segment length at once
 		3. If there's not enough steps left to complete segment in current direction, we take only the remaining steps and stop
 		4. After completing full segment, rotate to the next direction. Every time we complete two directions (East -> North or West -> South), we increase segment length for next pair of directions
-
+3. Time/Space Complexity:
+	1. Time Complexity: $O(\sqrt s)$ because the spiral completes roughly $\sqrt s$ full cycles before reach
 
 
 
