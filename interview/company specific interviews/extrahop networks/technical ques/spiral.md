@@ -68,6 +68,9 @@ Explanation:
 	2. Space Complexity: $O(1)$ since no additional data structures are used and only using constant variables to track position, direction
 
 
+Extensions:
+
+
 
 
 
