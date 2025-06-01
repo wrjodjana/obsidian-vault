@@ -64,7 +64,10 @@ Explanation:
 		3. If there's not enough steps left to complete segment in current direction, we take only the remaining steps and stop
 		4. After completing full segment, rotate to the next direction. Every time we complete two directions (East -> North or West -> South), we increase segment length for next pair of directions
 3. Time/Space Complexity:
-	1. Time Complexity: $O(\sqrt s)$ because the spiral completes roughly $\sqrt s$ full cycles before reach
+	1. Time Complexity: $O(\sqrt s)$ because the spiral completes roughly $\sqrt s$ full cycles before reaching $s$ steps since each cycle covers an increasing number of steps
+	2. Space Complexity: $O(1)$ since no additional data structures are used and only using constant variables to track position, direction
+
+
 
 
 
