@@ -33,7 +33,9 @@ def countComponents(n, edges):
 		visited.add(root)
 
 		while q:
-			
+			node = q.popleft()
+
+			for nei
 	
 ```
 
