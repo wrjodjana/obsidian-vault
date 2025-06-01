@@ -56,9 +56,12 @@ def longestPalindrome(s):
 
 3. Test case
 	a. "babad"
-	- "b" is first center, `s[0] == s[0]` so `l -= 1, r+=1`
-		- `l = -1`, out of bounds so stop
-		- `start = 0, length = 1`
-		- `1 > 1`, no so dont update 
+	- "b" 
+		- odd-length:
+			- `l = -1`, out of bounds so stop
+			- `start = 0, length = 1`
+			- `1 > 1`, no so dont update 
+			
+	- "a" is first center, 
 
 
