@@ -56,4 +56,5 @@ def countComponents(n, edges):
 	- For every unvisited node, perform BFS to mark all nodes in its connected component
 	- Count how many times we initiate a new BFS (each initiation = one component)
 	- Use a visited set to ensure each node is processed exactly once
-3. 
+3. Time/Space Complexity:
+	- Time Complexity: $O(n+e)$ , building the graph requires $O(e)$, 
