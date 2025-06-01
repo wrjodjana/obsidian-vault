@@ -11,10 +11,11 @@
 >All nodes connected, so there is only 1 component
 >
 >Example 2:
->
+>Input n = 4, edges = `[[0,1],[2,3]]`
+>Output: 2
+>0 1 are connected, and 2 3 are connected, so 2 components
 
 
->
 
 
 
