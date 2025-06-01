@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/company specific interviews/structureiq.md",
+                "file": "interview/company specific interviews/extrahop networks/everything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "structureiq"
+              "title": "everything"
             }
           }
         ]
@@ -171,13 +171,13 @@
   },
   "active": "17119801215ba65f",
   "lastOpenFiles": [
+    "interview/company specific interviews/structureiq.md",
     "interview/company specific interviews/extrahop networks/number of connected components in an undirected graph.md",
     "interview/company specific interviews/extrahop networks/everything.md",
     "interview/company specific interviews/extrahop.md",
     "interview/company specific interviews/extrahop networks/longest palindromic substring.md",
     "interview/company specific interviews/extrahop networks/extrahop.md",
     "interview/company specific interviews/extrahop networks",
-    "interview/company specific interviews/structureiq.md",
     "noshbox.md",
     "interview/coffee chats/regent - evan orenstein (lead vehicle swe).md",
     "interview/coffee chats",
