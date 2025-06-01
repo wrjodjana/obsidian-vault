@@ -50,4 +50,6 @@ def countComponents(n, edges):
 	a. What should I return if the edges are no edges?
 	b. Any constraints on n?
 2. Approach
-	a. Optimal: 
+	a. Optimal:
+	- A connected component is a maximal set of nodes where every pair is connected by some path
+		- First, build an adjacency list 
