@@ -51,6 +51,10 @@ def spiral(s):
 
 Explanation:
 
+1. Questions to ask:
+	1. What should I return if s is nea
+
+
 
 
 
