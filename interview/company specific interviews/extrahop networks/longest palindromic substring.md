@@ -75,6 +75,6 @@ def longestPalindrome(s):
 
 4. Time/Space Complexity
 	- Time Complexity: $O(n^2)$ because we have `n` centers and each expansion can go up to `n` words
-	- Space Complexity: $O(1)$ since we don't use any additional 
+	- Space Complexity: $O(1)$ since we don't use any additional data structures and only constant space
 
 
