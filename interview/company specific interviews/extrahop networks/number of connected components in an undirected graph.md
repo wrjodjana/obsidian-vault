@@ -57,4 +57,5 @@ def countComponents(n, edges):
 	- Count how many times we initiate a new BFS (each initiation = one component)
 	- Use a visited set to ensure each node is processed exactly once
 3. Time/Space Complexity:
-	- Time Complexity: $O(n+e)$ , building the graph requires $O(e)$, 
+	- Time Complexity: $O(n+e)$ , building the graph requires $O(e)$, each node is visited exactly once, $O(n)$ while each edge is traversed exactly twice $O(e)$ 
+	- Space Complexity: $O(n+e)$, building the graph to store all nodes and edges, $O(n+e)$, visited set is $O(n)$ to track visited nodes
