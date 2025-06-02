@@ -52,5 +52,13 @@ Extensions:
 Handle more functions, such as “multiply”, “min”, “max”
 
 ```Python
+if root.val == "multiply":
+	if left is None or right is None:
+		return "Invalid"
+	return str(int(left) * int(right))
 
+if root.val == "min":
+	if left is None or right is None:
+		return "Invalid"
+	return str(min())
 ```
