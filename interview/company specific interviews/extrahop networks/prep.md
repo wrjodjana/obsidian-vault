@@ -24,7 +24,7 @@ why extrahop
 Situation: Worked as a research assistant integrating graph neural networks to help transportation engineers understand infrastructure vulnerabilities such as roads and bridges
 Task: Had to learn new libraries such as PyTorch and NetworkX and backend integration to visualize these networks and refactor them to allow frontend utilization
 Action: Spent a lot of time fundamentally understanding these libraries by going through documentation, youtube tutorials and if I was completely stuck I asked my PhD mentor about the more technical aspects. Also trial and error process on connecting the backend to the frontend (alot of crashes), etc.
-Result: However, persevered through this, built a clean user interface (compared to current solutions) and were currently going to pilot it during the fall with 100 engineers
+Result: Built an analysis tool that reduced risk assessment time from like weeks to hours, piloting with 100 engineers in the fall
 
 
 
