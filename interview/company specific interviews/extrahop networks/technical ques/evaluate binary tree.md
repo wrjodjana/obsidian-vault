@@ -40,5 +40,9 @@ def evaluate_tree(root):
 
 	if left is not None or right is not None:
 		return "Invalid"
-	
+
+	try:
+		return str(int(root.val))
+	except ValueError:
+		return "Invalid"
 ```
