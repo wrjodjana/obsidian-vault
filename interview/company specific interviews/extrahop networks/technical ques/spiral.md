@@ -102,7 +102,18 @@ def spiral(s, start_x, start_y, start_direction):
 ```
 
 ```Python
-def steps)
+def steps_to_pos(final_x, final_y):
+	if final_x == 0 and final_y == 0:
+		return 0
+
+	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+
+	x, y = 0, 0
+	directions = 0
+	steps_taken = 0
+	steps_curr_direction = 1
+
+	
 ```
 
 
