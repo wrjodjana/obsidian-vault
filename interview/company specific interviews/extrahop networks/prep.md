@@ -30,7 +30,7 @@ why extrahop
 
 - **Situation:** Worked as a technical director at Garuda Hacks, Indonesia's largest hackathon, organizing team was split on if we wanted in-person or online event this year.
 - **Task:** Had final say on decision so needed to gather input from all team members while understanding the pros and cons, risks associated, etc.
-- **Action:** Conducted 30-minute meetings with each team member to see their specific concerns, then created a comparative analysis to see if they have 
+- **Action:** Conducted 30-minute meetings with each team member to see their specific concerns, then created a comparative analysis to see if they have similar ideas. Sent out 
 
 
 
