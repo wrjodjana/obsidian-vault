@@ -31,7 +31,11 @@ why extrahop
 - **Situation:** Worked as a technical director at Garuda Hacks, Indonesia's largest hackathon, organizing team was split on if we wanted in-person or online event this year.
 - **Task:** Had final say on decision so needed to gather input from all team members while understanding the pros and cons, risks associated, etc.
 - **Action:** Conducted 30-minute meetings with each team member to see their specific concerns, then created a comparative analysis to see if they have similar ideas. Sent out waitlist forms to see potential participants preference (65% wanted a hybrid format over the other two). Created a weighted spreadsheet to score cost, engagement and technical feasibility.
-- **Result:** Made our decision, which was to create a hybrid format so first two days they could work online and then we had a day 3 finale where they presented. Hackathon ended up delivering about 2000 participants and 
+- **Result:** Made our decision, which was to create a hybrid format so first two days they could work online and then we had a day 3 finale where they presented. Hackathon ended up delivering about 2000 participants (200%) increase from previous years.
+
+**Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
+
+
 
 
 
