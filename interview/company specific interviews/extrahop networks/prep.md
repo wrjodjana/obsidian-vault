@@ -21,13 +21,15 @@ why extrahop
 
 **Tell me about a time when you had to learn something new to deliver an important project.**
 
-Situation: Worked as a research assistant integrating graph neural networks to help transportation engineers understand infrastructure vulnerabilities such as roads and bridges
+Situation: Worked as a research assistant integrating graph neural networks to help transportation engineers understand infrastructure vulnerabilities because current methods are outdated and slow
 
 Task: Had to learn new libraries such as PyTorch and NetworkX and backend integration to visualize these networks and refactor them to allow frontend utilization
 
 Action: Initially, integrating PyTorch models with the Flask API kept crashing. After two weeks of documentation and tutorials, understood how to properly structure the data pipeline. Big turning point was when my PhD mentor helped me fixed the overcomplication of refactoring the code.
 
 Result: Built an analysis tool that reduced risk assessment time from like weeks to hours, piloting with 100 engineers in the fall, stronger machine learning background and integration to frontend and backend
+
+Extra stuff: 
 
 
 
