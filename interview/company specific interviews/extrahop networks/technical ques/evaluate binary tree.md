@@ -23,7 +23,12 @@ def evaluate_tree(root):
 		if left is None or right is None:
 			return "Invalid"
 		return str(int(left) + int(right))
-	
 
+	if root.val == "subtract":
+		if left is None or right is None:
+			return "Invalid"
+		return str(int(left) - int(right))
+
+	if root.val == "square":
 		
 ```
