@@ -28,7 +28,8 @@ why extrahop
 
 **Tell me about a time when your team was not in agreement when faced with an important decision.**
 
-- **Situation:** 
+- **Situation:** Worked as a technical director at Garuda Hacks, Indonesia's largest hackathon, organizing team was split on if we wanted in-person or online event this year.
+- 
 
 
 
