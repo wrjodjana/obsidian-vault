@@ -101,7 +101,9 @@ def spiral(s, start_x, start_y, start_direction):
 	return (x, y)
 ```
 
-
+```Python
+def steps)
+```
 
 
 
