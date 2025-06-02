@@ -31,3 +31,9 @@ Tell me about a challenging problem you faced where the usual/typical approach w
 
 
 Give me an example of a time when you didn't think you were going to meet the commitments you promised. (Deadlines, timing, etci.)
+
+
+Tell me about a time you made a mistake that negatively impacted the team you were working with.
+
+
+Tell me about a time you had to make trade-offs to complete an important project.
