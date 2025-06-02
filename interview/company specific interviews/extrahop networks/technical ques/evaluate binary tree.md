@@ -46,3 +46,11 @@ def evaluate_tree(root):
 	except ValueError:
 		return "Invalid"
 ```
+
+Extensions:
+
+Handle more functions, such as “multiply”, “min”, “max”
+
+```Python
+
+```
