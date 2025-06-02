@@ -23,7 +23,7 @@ why extrahop
 
 Situation: Worked as a research assistant integrating graph neural networks to help transportation engineers understand infrastructure vulnerabilities such as roads and bridges
 Task: Had to learn new libraries such as PyTorch and NetworkX and backend integration to visualize these networks and refactor them to allow frontend utilization
-Action: Spent alot of time fundamentally understanding these libraries by going through documentation, youtube tutorials and if I was completely stuck I asked my PhD mentor about the more technical aspects. Also trial and error process on connecting with the frontend (because he had no experience from it) and had to 
+Action: Spent alot of time fundamentally understanding these libraries by going through documentation, youtube tutorials and if I was completely stuck I asked my PhD mentor about the more technical aspects. Also trial and error process on connecting the bac
 Result:
 
 
