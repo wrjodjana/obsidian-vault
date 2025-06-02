@@ -21,8 +21,8 @@ why extrahop
 
 **Tell me about a time when you had to learn something new to deliver an important project.**
 
-Situation: Worked as a research assistant integrating graph neural networks to better help transportation engineers better understand infrastructure such as roads and bridges
-Task:
+Situation: Worked as a research assistant integrating graph neural networks to help transportation engineers understand infrastructure vulnerabilities such as roads and bridges
+Task: Had to learn new libraries such as PyTorch and Net
 Action:
 Result:
 
