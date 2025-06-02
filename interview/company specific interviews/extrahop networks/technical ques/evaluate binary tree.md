@@ -17,5 +17,8 @@ def evaluate_tree(root):
 		return None
 
 	if root.val == "square":
+		if root.left is None or root.right is not None:
+			return "Invalid"
+
 		
 ```
