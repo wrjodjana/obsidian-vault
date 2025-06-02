@@ -21,7 +21,7 @@ def evaluate_tree(root):
 
 	if root.val == "add":
 		if left is None or right is None:
-			return "Invalid"
+			return 
 		return str(int(left) + int(right))
 
 	if root.val == "subtract":
