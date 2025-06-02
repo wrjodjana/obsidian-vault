@@ -11,15 +11,23 @@ why extrahop
 - I want to work with larger clients compared to my previous startup experience in consumer-facing roles. ExtraHop offers the right balance—it's large enough to work with substantial clients but not so large that I'd lose the opportunity to face interesting challenges and solve varied problems.
 
 
-technical questions
+**technical questions**
 
 [[longest palindromic substring]]
 [[number of connected components in an undirected graph]]
 [[spiral]]
 
-behavioural questions
+**behavioural questions**
+
+Tell me about a time when you had to learn something new to deliver an important project.
 
 
 
+Tell me about a time when your team was not in agreement when faced with an important decision.
 
 
+
+Tell me about a challenging problem you faced where the usual/typical approach was not going to work.
+
+
+Give me an example of a time when you didn't think you were going to meet the commitments you promised. (Deadlines, timing, etci.)
