@@ -73,3 +73,5 @@ if root.val == "max":
 
 Write some more test cases
 
+`("multiply", ("3", null, null), ("4", null, null))` → "12"
+`("min", ("5", null, null), ("3", null, null))` → "3"
