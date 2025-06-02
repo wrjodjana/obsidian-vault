@@ -60,5 +60,10 @@ if root.val == "multiply":
 if root.val == "min":
 	if left is None or right is None:
 		return "Invalid"
-	return str(min())
+	return str(min(int(left), int(right)))
+
+if root.val == "max":
+	if left is None or right is None:
+		return "Invalid"
+	return str(max(int(left), int(right)))
 ```
