@@ -29,7 +29,11 @@ Action: Initially, integrating PyTorch models with the Flask API kept crashing. 
 
 Result: Built an analysis tool that reduced risk assessment time from like weeks to hours, piloting with 100 engineers in the fall, stronger machine learning background and integration to frontend and backend
 
-Extra stuff: 
+Extra stuff: Build a basic PyTorch and Flask connection without my mentor's code which would reduce complexity and scan issues early, document learning process, seek more help with professionals. Now, everytime I start new project I always contact those with more experience.
+
+
+
+
 
 
 
