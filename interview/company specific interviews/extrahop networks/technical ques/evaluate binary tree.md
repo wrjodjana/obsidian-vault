@@ -30,5 +30,13 @@ def evaluate_tree(root):
 		return str(int(left) - int(right))
 
 	if root.val == "square":
-		
+		if left is None and right is None:
+			return "Invalid"
+		if left is None:
+			return str(int(right) ** 2)
+		if right is not None:
+			return "Invalid"
+		return str(int(left) ** 2)
+
+	if 
 ```
