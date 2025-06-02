@@ -38,5 +38,7 @@ def evaluate_tree(root):
 			return "Invalid"
 		return str(int(left) ** 2)
 
-	if 
+	if left is not None or right is not None:
+		return "Invalid"
+	
 ```
