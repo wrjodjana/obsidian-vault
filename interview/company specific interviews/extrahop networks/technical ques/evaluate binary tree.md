@@ -6,5 +6,13 @@
 Answer:
 ```Python
 
+class TreeNode:
+	def __init__(self, val, left, right):
+		self.val = val
+		self.right = right
+		self.left = left
 
+def evaluate_tree(root):
+	if not root:
+		return None
 ```
