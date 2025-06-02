@@ -16,9 +16,14 @@ def evaluate_tree(root):
 	if not root:
 		return None
 
-	if root.val == "square":
-		if root.left is None or root.right is not None:
+	left = evaluate_tree(root.left)
+	right = evaluate_tree(root.right)
+
+	if root.val == "add":
+		if left is None or right is None:
 			return "Invalid"
+		return str(int(left) + int(right))
+	
 
 		
 ```
