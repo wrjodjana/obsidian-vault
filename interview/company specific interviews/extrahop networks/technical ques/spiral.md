@@ -125,6 +125,14 @@ def steps_to_pos(final_x, final_y):
 				else:
 					if final_x <= x and steps_needed <= steps_curr_direction:
 						return steps_taken + steps_needed
+		else:
+			if dx == 0 and final_x == x:
+				steps_needed = abs(final_y - y)
+				if dy > 0:
+					if final_y >= y and steps_needed <= steps_curr_direction:
+						return steps_taken + steps_needed
+				else:
+					if final_y <= 
 ```
 
 
