@@ -111,7 +111,7 @@ def steps_to_pos(final_x, final_y):
 	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
 	x, y = 0, 0
-	directions = 0
+	direction = 0
 	steps_taken = 0
 	steps_curr_direction = 1
 
