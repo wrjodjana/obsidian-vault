@@ -21,33 +21,36 @@ def evaluate_tree(root):
 
 	if root.val == "add":
 		if left is None or right is None:
-			return 
+			return None
 		return str(int(left) + int(right))
 
 	if root.val == "subtract":
 		if left is None or right is None:
-			return "Invalid"
+			return None
 		return str(int(left) - int(right))
 
 	if root.val == "square":
 		if left is None and right is None:
-			return "Invalid"
+			return None
 		if left is None:
 			return str(int(right) ** 2)
 		if right is not None:
-			return "Invalid"
+			return None
 		return str(int(left) ** 2)
 
 	if left is not None or right is not None:
-		return "Invalid"
+		return None
 
 	try:
 		return str(int(root.val))
 	except ValueError:
-		return "Invalid"
+		return None
 ```
 
 Extensions:
+
+Add error handling: Return the string “Invalid” if the tree represents an invalid expression
+- just replace return None in the errors to "Invalid"
 
 Handle more functions, such as “multiply”, “min”, “max”
 
@@ -67,3 +70,6 @@ if root.val == "max":
 		return "Invalid"
 	return str(max(int(left), int(right)))
 ```
+
+Write some more test cases
+
