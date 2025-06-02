@@ -15,4 +15,7 @@ class TreeNode:
 def evaluate_tree(root):
 	if not root:
 		return None
+
+	if root.val == "square":
+		
 ```
