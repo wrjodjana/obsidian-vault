@@ -101,6 +101,8 @@ def spiral(s, start_x, start_y, start_direction):
 	return (x, y)
 ```
 
+Write a new function that is instead given a final position (x, y), and returns the // number of steps you took to get there
+
 ```Python
 def steps_to_pos(final_x, final_y):
 	if final_x == 0 and final_y == 0:
@@ -141,7 +143,7 @@ def steps_to_pos(final_x, final_y):
 
 		direction = (direction + 1) % 4
 		if direction % 2 == 0:
-			
+			steps_curr_direction += 1
 		
 ```
 
