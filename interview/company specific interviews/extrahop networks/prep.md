@@ -46,7 +46,7 @@ why extrahop
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
-- **Situation:** 
+- **Situation:** At a hackathon, we were building a project recommendation system
 
 
 **Tell me about a time you had to make trade-offs to complete an important project.**
