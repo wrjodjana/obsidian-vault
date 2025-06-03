@@ -6,4 +6,4 @@
 - Can the same card appear multiple times, or just once?
 
 **Approach:**
-- 
+- Pick up one card, find a
