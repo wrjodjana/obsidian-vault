@@ -48,7 +48,7 @@ why extrahop
 
 - **Situation:** At a hackathon, we were building a restaurant recommendation system to help people find restaurants in Illinois based on previous preferences
 - **Task:** We split off into different sections where me and my other friend worked on the collaborative and content based filtering. However, halfway through I realized I made a mistake by working on the same thing as my friend.
-- **Action:** We did our next best thing, gather our models, tried to optimize and make the best model for the collaborative filtering and try to complete that part of the project right before the end.
+- **Action:** We did our next best thing, gather our models, tried to optimize and make the best model for the collaborative filtering and try to complete that part of the project right before the end. Rather than scrapping one approach entirely, we decided to leverage both of our work by comparing the performance of each method and selecting the better-performing one. I focused on optimizing the chosen collaborative-filtering model while my friend focused on user interface and data processing.
 - **Result:** 
 
 
