@@ -84,4 +84,4 @@ Fulfilling requirements:
 
 
 Extension: If the target word contains duplicate characters, how would you solve this problem?
-- It changes to become 
+- It changes to become not a question about being character based but rather like position based meaning we need to know which specific character we need for the thread. 
