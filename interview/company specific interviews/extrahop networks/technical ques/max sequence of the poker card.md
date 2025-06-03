@@ -6,4 +6,6 @@
 - Can the same card appear multiple times, or just once?
 
 **Approach:**
-- Pick up one card, find a card with same suit/rank, then pick it up and recursively do this, until that path has been explored completely (backtracking)
+- Pick up one card, find a card with same suit/rank, then pick it up and recursively do this, until that path has been explored completely (backtracking) then put that card back down, repeat
+- As I explore that path, keep note of the longest sequence so far
+- 
