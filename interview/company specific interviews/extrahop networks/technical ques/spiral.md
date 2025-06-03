@@ -14,4 +14,13 @@
 **Approach**
 - Go through the spiral, look at pattern (1 East, 1 North, 2 West, 2 South, 3 East, 3 North, 4 West, 4 South)
 - Clearly see theres a pattern with the direction and also like the length we go each time
-- So in our algorithm, we take into account the current direction, the current length
+- So in our algorithm, we take into account the current direction, the current length everytime, and the number of steps we basically have left to complete the spiral
+
+**Code:**
+```Python
+def spiral(steps):
+	if steps == 0:
+		return (0, 0)
+
+	directions = []
+```
