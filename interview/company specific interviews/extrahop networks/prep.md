@@ -16,8 +16,10 @@ why extrahop
 [[longest palindromic substring]]
 [[number of connected components in an undirected graph]]
 [[evaluate binary tree]]
+[[spiral]]
+[[max sequence of the poker card]]
 
-**behavioural questions**
+**behavioral questions**
 
 **Tell me about a time when you had to learn something new to deliver an important project.**
 
