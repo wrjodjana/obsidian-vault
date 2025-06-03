@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/company specific interviews/extrahop networks/technical ques/minimum threads (60 mins only).md",
+                "file": "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "minimum threads (60 mins only)"
+              "title": "spiral"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "active": "17119801215ba65f",
   "lastOpenFiles": [
     "interview/company specific interviews/extrahop networks/technical ques/number of connected components in an undirected graph.md",
+    "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
     "interview/company specific interviews/extrahop networks/technical ques/minimum threads (60 mins only).md",
     "interview/company specific interviews/extrahop networks/prep.md",
     "interview/company specific interviews/extrahop networks/technical ques/longest palindromic substring.md",
@@ -204,7 +205,6 @@
     "interview/technical interviews/leetcode/Untitled",
     "interview/technical interviews/general cs concepts",
     "interview/technical interviews",
-    "interview/Untitled.md",
     "interview/technical interviews/general cs concepts/data structures",
     "interview/technical interviews/leetcode",
     "web development/images/Pasted image 20250516064215.png",
