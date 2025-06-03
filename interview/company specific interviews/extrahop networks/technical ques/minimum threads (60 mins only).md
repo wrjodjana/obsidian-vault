@@ -83,5 +83,5 @@ Fulfilling requirements:
 	- `COMPLETE`state or `if thread_states["COMPLETE"] > 0`
 
 
-Extension:
-- 
+Extension: If the target word contains duplicate characters, how would you solve this problem?
+- It changes to become 
