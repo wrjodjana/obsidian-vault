@@ -8,5 +8,5 @@
 >Positive x represents East, Positive y represents North
 
 **Questions**
-- What happens if s is equal to null?
 - 
+- Any constraints on maximum number of steps?
