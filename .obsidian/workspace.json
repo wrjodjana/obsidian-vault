@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview/company specific interviews/extrahop networks/technical ques/longest palindromic substring.md",
+                "file": "interview/company specific interviews/extrahop networks/technical ques/evaluate binary tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "longest palindromic substring"
+              "title": "evaluate binary tree"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "17119801215ba65f",
   "lastOpenFiles": [
-    "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
     "interview/company specific interviews/extrahop networks/technical ques/longest palindromic substring.md",
+    "interview/company specific interviews/extrahop networks/technical ques/spiral.md",
     "interview/company specific interviews/extrahop networks/technical ques/number of connected components in an undirected graph.md",
     "interview/company specific interviews/extrahop networks/technical ques/evaluate binary tree.md",
     "interview/company specific interviews/extrahop networks/prep.md",
