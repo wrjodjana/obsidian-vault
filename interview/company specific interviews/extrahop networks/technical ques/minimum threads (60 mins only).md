@@ -46,6 +46,7 @@ def minThreads(chars, word):
 
 	starting_char = word[0]
 	# process each character into the threads
+	res = 0
 	for curr_char in chars:
 		# starting a new word instance
 		if curr_char == starting_char:
@@ -62,5 +63,12 @@ def minThreads(chars, word):
 		next_state = curr_to_next[curr_char]
 		thread_states[next_state] += 1
 
+		# calculate current active threads
+		curr_active = 0
+		for state, count in thread_states.items():
+			if state != "COMPLETE":
+				curr_active += count
+		res = max(res, curr_active)
+		
 		
 ```
