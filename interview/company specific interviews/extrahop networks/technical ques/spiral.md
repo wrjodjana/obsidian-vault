@@ -26,5 +26,9 @@ def spiral(steps):
 
 	x, y = 0, 0
 	curr_dir = 0
-	curr_len = 
+	curr_len = 1
+	steps_left = steps
+
+	while steps_left > 0:
+		
 ```
