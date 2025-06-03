@@ -10,4 +10,4 @@
 
 Questions:
 - What if the input list/target word is empty? what should it return
-- 
+- What does "consume characters in order" mean for the list? Do they 
