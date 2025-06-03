@@ -51,4 +51,4 @@ why extrahop
 
 - **Situation:** Worked as a ml research assistant to help detect emotional tones during interview, further creating intervention strategies for young adults with disabilities
 - **Task:** We were in a rush to complete the paper they needed to submit approval, so we had to make a decision fast on model architecture and validation approach
-- ****
+- **Action:** I decided on using the K-means clustering approach over more complicate
