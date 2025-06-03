@@ -34,5 +34,9 @@ def minThreads(chars, word):
 	char_to_next = {}
 	for i in range(len(word)):
 		if i == len(word) - 1:
-			
+			char_to_next[[word[i]]] = None
+		else:
+			char_to_next[[word[i]]] = word[i + 1]
+
+	
 ```
