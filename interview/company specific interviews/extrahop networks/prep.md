@@ -46,10 +46,12 @@ why extrahop
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
+- **Situation:** 
+
 
 **Tell me about a time you had to make trade-offs to complete an important project.**
 
 - **Situation:** Worked as a ml research assistant to help detect emotional tones during interview, further creating intervention strategies for young adults with disabilities
 - **Task:** We were in a rush to complete the paper they needed to submit approval, so we had to make a decision fast on model architecture and validation approach
 - **Action:** I decided on using the K-means clustering approach over more complex unsupervised learning prioritizing interpretability and fast implementation. Furthermore, instead of experimenting with multiple architecture I used existing implementations that the previous researchers used which was the BERT-based NLP model and just refactored alot of the code. I established a clear baseline early and optimized iteratively rather than pursuing perfect metrics from the start.
-- **Result:** Successfully met the paper submission deadline that would be actionable for those w
+- **Result:** Successfully met the paper submission deadline that would be actionable for those working with at-risk youth. Ended up extracting a lot of behavioral patterns that provided actionable insights on how to proceed with these young adults
