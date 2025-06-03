@@ -76,3 +76,13 @@ def spiral(steps, start_x, start_y, direction):
 
 	return (x, y)
 ```
+
+**Extension 3:** Write a new function that is instead given a final position (x, y), and returns the number of steps you took to get there
+
+```Python
+def spiral(final_x, final_y):
+
+```
+
+
+
