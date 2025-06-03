@@ -45,8 +45,8 @@ why extrahop
 
 **Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
 
-- **Situation:** Worked as a technical director at Garuda Hacks, helped to find technical sponsorships and 
-- **Task:**
+- **Situation:** Worked as a technical director at Garuda Hacks, helped to find technical sponsorships and ensure hackathon experience was running.
+- **Task:** Realized Indonesia had a tech winter, meaning that alot of VCs and tech companies were not sponsoring the
 - **Action**:
 - **Result:**
 
