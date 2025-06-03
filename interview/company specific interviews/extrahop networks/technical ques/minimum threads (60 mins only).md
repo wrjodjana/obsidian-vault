@@ -8,3 +8,6 @@
 > 
 > Write a function that returns the minimum number of threads required to process the list. If it is impossible to process the list due to an invalid character sequence, or if any thread is unable to construct the full word after consuming all characters in the list, return -1.
 
+Questions:
+- What if the input list/target word is empty? what should it return
+- 
