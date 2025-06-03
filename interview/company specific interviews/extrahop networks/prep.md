@@ -40,7 +40,7 @@ why extrahop
 **Give me an example of a time when you didn't think you were going to meet the commitments you promised. (Deadlines, timing, etci.)**
 
 - **Situation:** Worked as a data engineering intern at a healthcare company building out pipelines for data consumers teams (bi analysts)
-- **Task:** Initially was set to complete 
+- **Task:** Initially was set a task to build pipelines for three different types of data: pharmaceutical, insurance and 
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
