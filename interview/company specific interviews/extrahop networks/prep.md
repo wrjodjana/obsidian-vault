@@ -43,6 +43,10 @@ why extrahop
 
 **Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
 
+- **Situation:** 
+- **Task:**
+- **Action**:
+- **Result:**
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
