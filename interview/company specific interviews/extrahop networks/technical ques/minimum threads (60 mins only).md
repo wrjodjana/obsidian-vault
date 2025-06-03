@@ -72,3 +72,5 @@ Time/Space Complexity:
 - Time Complexity: O(n+m) where n = length of chars and m = length of target word
 - Space Complexity: O(m) length of target word is stored in the hashmap
 
+Fulfilling requirements:
+1. Thread must consume characters in order of target word: ``
