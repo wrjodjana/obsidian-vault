@@ -22,5 +22,9 @@ def spiral(steps):
 	if steps == 0:
 		return (0, 0)
 
-	directions = []
+	directions = [(1, 0),(0, 1), (-1, 0), (0, -1)]
+
+	x, y = 0, 0
+	curr_dir = 0
+	curr_len = 
 ```
