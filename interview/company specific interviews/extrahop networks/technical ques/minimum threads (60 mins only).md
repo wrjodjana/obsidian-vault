@@ -28,8 +28,6 @@
 Code:
 ```Python
 def minThreads(chars, word):
-	# maps each character to what comes next in the target word 
-	# ensures thread consumes character in correct order
 
 	char_to_next = {}
 	for i in range(len(word)):
@@ -38,9 +36,7 @@ def minThreads(chars, word):
 		else:
 			char_to_next[[word[i]]] = word[i + 1]
 
-	# initialize the thread state tracking
-	# track how many threads are in each state (waiting for character)
-	thread_states = {"COMPLETE" : 0} # completed threads for reuse
+	thread_states = {"COMPLETE" : 0} 
 	for c in word:
 		thread_states[c] = 0
 
