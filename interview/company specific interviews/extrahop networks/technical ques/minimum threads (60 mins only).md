@@ -40,7 +40,7 @@ def minThreads(chars, word):
 
 	# initialize the thread state tracking
 	# track how many threads are in each state (waiting for character)
-	thread_states = {"COMPLETE" : 0}
+	thread_states = {"COMPLETE" : 0} # completed threads for reuse
 	for c in word:
 		thread_states[c] = 0
 
