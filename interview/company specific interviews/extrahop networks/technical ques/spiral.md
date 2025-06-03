@@ -45,4 +45,4 @@ def spiral(steps):
 ```
 
 **Time/Space Complexity:**
-- Time Complexity: $\
+- Time Complexity: $O(\sqrt n)$ because each iteration processes on segment, and these grow as the pattern, for n steps we need 
