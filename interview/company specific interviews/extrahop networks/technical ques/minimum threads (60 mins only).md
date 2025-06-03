@@ -22,4 +22,4 @@
 - **Optimal:**
 	- We need to minimize threads by maximizing reuse - completed threads should immediately start new words rather than staying idle
 	- First, when we see the first char in target word, check if any threads just finished work, if yes then reuse that immediately but if not create a new thread (ensures we are maximizing the use of the threads)
-	- 
+	- For each character in the list, it can only be consumed by
