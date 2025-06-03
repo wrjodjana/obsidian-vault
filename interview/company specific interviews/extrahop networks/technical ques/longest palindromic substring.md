@@ -16,13 +16,11 @@
 - What should I return if the input array is empty?
 - Are there any constraints on string length?
 
-Approach: 
+**Approach:** 
 - Brute force: check every possible substring to see if its a palindrome
-- Optimal: Use every value in the array as a center, and expand outwards with this center and check if they are equal to each other and within the bounds of the array. 
+- Optimal: Use every value in the array as a center, and expand outwards with this center and check if they are equal to each other and within the bounds of the array. Keep track of how long this length is and if its longer then our current max length update and also the update the start because that will show us when our substring will start and end
 
-
-
-Answer:
+**Code:**
 ```Python
 def longestPalindrome(s):
 	if not s:
