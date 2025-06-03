@@ -81,6 +81,13 @@ def spiral(steps, start_x, start_y, direction):
 
 ```Python
 def spiral(final_x, final_y):
+	if target_x == 0 and target_y == 0:
+		return 0
+
+	directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
+	x, y = 0, 0
+	curr_dir = 0
+	curr_len = 1
 	
 ```
 
