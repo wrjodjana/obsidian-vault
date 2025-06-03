@@ -57,8 +57,8 @@ def spiral(steps, start_x, start_y, direction):
 
 	directions = [(1, 0),(0, 1), (-1, 0), (0, -1)]
 
-	x, y = 0, 0
-	curr_dir = 0
+	x, y = start_x, start_y
+	curr_dir = direction
 	curr_len = 1
 	steps_left = steps
 
