@@ -45,7 +45,7 @@ why extrahop
 
 **Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
 
-- **Situation:** Worked as a technical director, 
+- **Situation:** Worked as a technical director at Garuda Hacks, helped to find technical sponsorships and 
 - **Task:**
 - **Action**:
 - **Result:**
