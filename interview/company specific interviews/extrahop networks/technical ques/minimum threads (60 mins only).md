@@ -28,8 +28,8 @@
 Code:
 ```Python
 def minThreads(chars, word):
-	# build the map to tell us after consuming character x, what character does
-	# thread consume next
+	# maps each character to what comes next in the target word 
+	# ensures thread consumes character in correct order
 
 	char_to_next = {}
 	for i in range(len(word)):
