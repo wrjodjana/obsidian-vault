@@ -33,5 +33,7 @@ def spiral(steps):
 		curr_steps = min(steps_left, curr_len)
 		dx, dy = directions[curr_dir]
 		x += (dx * curr_steps)
-		y += ()
+		y += (dy * curr_steps)
+
+		curr_dir = 
 ```
