@@ -20,5 +20,5 @@
 **Approach**
 - **Brute force:** Trying like with 1 thread, 2 threads, 3 threads etc. until a configuration would work. For each number of threads simulate the process, go through character list one by one assign each character to any available thread that needs it and see if all characters get consumed and all threads completes their work. return minimum number of threads that successfully processes list, or -1
 - **Optimal:**
-	- Instead of tracking individual threads, count how many threads are basically in each state, where each state represents it waiting for a character - greedy approach
-	- Initially, 
+	- We need to minimize threads by maximizing reuse - completed threads should immediately start new words rather than staying idle
+	- First, when we see the fi
