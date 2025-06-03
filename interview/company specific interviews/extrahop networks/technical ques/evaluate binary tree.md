@@ -77,3 +77,7 @@ Write some more test cases
 `("min", ("5", null, null), ("3", null, null))` → "3"
  `("max", ("5", null, null), ("3", null, null))` → "5"
 
+Time/Space Complexity
+- Time complexity: $O(n)$ since each node is visited exactly once
+- Space Complexity: $O(h)$ which is determined by the recursion stack depth
+
