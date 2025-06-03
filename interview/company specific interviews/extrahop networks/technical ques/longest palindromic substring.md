@@ -12,7 +12,13 @@
 > Output: "bb"
 ****
 
-Que
+**Questions**
+- What should I return if the input array is empty?
+- Are there any constraints on string length?
+
+Approach: 
+- Brute force: check every possible substring to see if its a palindrome
+- Optimal: Use every value in the array as a cen
 
 
 
@@ -46,18 +52,10 @@ def longestPalindrome(s):
 
 	return s[long_start:long_start+long_len]	
 ```
-
-
-1. Questions to ask
-	a. What should I return if the input array is empty?
-	b. Are there any constraints on string length?
-	c. Case sensitivity, ASCII values?
-2. Explain approach
-	a. Brute force: check every possible substring to see if its a palindrome, which would take $O(n^3)$ - $O(n^2)$ substrings, each taking $O(n)$ 
 	
 	b. Optimal approach:  Go through every value in the array, then use this as a center to expand outward and check for either the outward values going out of bounds or not a palindrome. There is also going to be two cases where the palindromes can have odd lengths (where center is 1 character) and palindromes that can have even lengths (where center is 2 characters) so check both cases. Finally, to return the substring hold the longest length and start variables so that we have create the substring to return
 
-3. Test case
+2. Test case
 	a. "babad"
 	- "b" 
 		- odd-length:
@@ -76,7 +74,7 @@ def longestPalindrome(s):
 		- even-length:
 			- `s[1] != s[2], "a" != "b"` so dont continue
 
-4. Time/Space Complexity
+3. Time/Space Complexity
 	- Time Complexity: $O(n^2)$ because we have `n` centers and each expansion can go up to `n` words
 	- Space Complexity: $O(1)$ since we don't use any additional data structures and only constant space
 
