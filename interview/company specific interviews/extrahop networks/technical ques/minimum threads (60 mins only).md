@@ -80,4 +80,5 @@ def minThreads(chars, word):
 
 Time/Space Complexity:
 - Time Complexity: O(n+m) where n = length of chars and m = length of target word
-- Space Complexity: O()
+- Space Complexity: O(m) length of target word is stored in the hashmap
+
