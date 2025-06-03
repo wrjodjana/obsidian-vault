@@ -73,4 +73,8 @@ Time/Space Complexity:
 - Space Complexity: O(m) length of target word is stored in the hashmap
 
 Fulfilling requirements:
-1. Thread must consume characters in order of target word: ``
+1. Thread must consume characters in order of target word: 
+	- `thread_states[curr_char] += 1`
+2. All characters consumed in order, threads wait if needed
+	- `for curr_char in chars:`
+3. 
