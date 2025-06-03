@@ -15,6 +15,7 @@
 **Understand:**
 - Threads that need form the target word by consuming characters in order
 - Each thread maintains its current position in the target word (which character it needs next)
-- Characters from list must be consumed sequentially
+- Characters from list must be consumed sequentially (no skipping ahead)
 
 **Approach**
+- Brute force: Trying like with 1 thread, 2 threads, 3 threads etc. until a configuration would work. For each number of threads simulate the proces
