@@ -36,6 +36,7 @@ why extrahop
 **Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
 
 
+
 **Give me an example of a time when you didn't think you were going to meet the commitments you promised. (Deadlines, timing, etci.)**
 
 
