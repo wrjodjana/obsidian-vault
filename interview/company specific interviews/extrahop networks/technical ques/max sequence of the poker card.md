@@ -5,3 +5,5 @@
 - If not said anything about joker, ask what happens to jokers?
 - Can the same card appear multiple times, or just once?
 
+**Approach:**
+- 
