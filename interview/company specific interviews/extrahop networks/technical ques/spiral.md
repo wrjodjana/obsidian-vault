@@ -45,4 +45,4 @@ def spiral(steps):
 ```
 
 **Time/Space Complexity:**
-- 
+- Time Complexity: $\
