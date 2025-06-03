@@ -77,3 +77,7 @@ def minThreads(chars, word):
 	return res
 		
 ```
+
+Time/Space Complexity:
+- Time Complexity:
+	- 
