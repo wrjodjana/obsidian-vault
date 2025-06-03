@@ -55,5 +55,12 @@ def minThreads(chars, word):
 			thread_states[curr_char] += 1
 		# invalid character or continuing an existing word
 		elif curr_char not in thread_states or thread_states[current_char] == 0:
-			
+			return -1 # no thread can handle character
+
+		# move threads to new state
+		thread_states[curr_char] -= 1
+		next_state = curr_to_next[curr_char]
+		thread_states[next_state] += 1
+
+		
 ```
