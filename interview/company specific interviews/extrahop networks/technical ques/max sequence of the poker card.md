@@ -24,7 +24,19 @@ def maxSeq(cards):
 		return card1[0] == card2[0] or card1[1] == card2[1]
 
 	def dfs(last_idx, visited):
+	
 		max_length = 1
 		for i in range(n):
-			
+			if i in visited:
+				continue
+
+				if valid(parsed_cards[last_idx], parsed_cards[i]):
+					visited.add(i)
+					length = 1 + dfs(i, visited)
+					max_length = max(max_length, length)
+					visited.remove(i)
+
+	res = 0
+	visited = set()
+	
 ```
