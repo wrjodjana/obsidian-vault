@@ -34,10 +34,17 @@ def minThreads(chars, word):
 	char_to_next = {}
 	for i in range(len(word)):
 		if i == len(word) - 1:
-			char_to_next[[word[i]]] = None
+			char_to_next[[word[i]]] = "COMPLETE"
 		else:
 			char_to_next[[word[i]]] = word[i + 1]
 
 	# initialize the thread state tracking
-	# 
+	# track how many threads are in each state (waiting for character)
+	thread_states = {"COMPLETE" : 0}
+	for c in word:
+		thread_states[c] = 0
+
+	# process each character into the threads
+	for curr_char in chars:
+		
 ```
