@@ -46,4 +46,8 @@ def spiral(steps):
 
 **Time/Space Complexity:**
 - Time Complexity: $O(\sqrt n)$ because each iteration processes on segment, and these grow as the pattern, for n steps and k segments, we need $\frac{k^2}{2}$ or $k = \sqrt (2n)$ 
-- Space Complexity: $O(1)$ since we're not using any additional data structure and the other variabl
+- Space Complexity: $O(1)$ since we're not using any additional data structure and the other variables are constant space
+
+**Extension 1:**
+```Pytho
+```
