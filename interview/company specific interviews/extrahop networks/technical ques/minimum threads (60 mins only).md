@@ -69,6 +69,11 @@ def minThreads(chars, word):
 			if state != "COMPLETE":
 				curr_active += count
 		res = max(res, curr_active)
-		
+
+	# validation to check if all threads completed their words
+	for c in word[1:]:
+		if thread_states[c] > 0:
+			return -1
+	return res
 		
 ```
