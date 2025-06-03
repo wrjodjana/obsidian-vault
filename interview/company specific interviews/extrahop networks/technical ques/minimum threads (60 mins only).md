@@ -25,4 +25,14 @@
 	- For each character in the list, it can only be consumed by threads that are waiting for this character, so if no thread is waiting (impossible), and characters must be consumed in the exact order they appear
 	- When a thread consumes last character of word, it becomes available for reuse so immediately assign it to start new word so at the end the threads must have completed full words
 
+Code:
+```Python
+def minThreads(chars, word):
+	# build the map to tell us after consuming character x, what character does
+	# thread consume next
 
+	char_to_next = {}
+	for i in range(len(word)):
+		if i == len(word) - 1:
+			
+```
