@@ -33,9 +33,6 @@ why extrahop
 - **Action:** Conducted 30-minute meetings with each team member to see their specific concerns, then created a comparative analysis to see if they have similar ideas. Sent out waitlist forms to see potential participants preference (65% wanted a hybrid format over the other two). Created a weighted spreadsheet to score cost, engagement and technical feasibility.
 - **Result:** Made our decision, which was to create a hybrid format so first two days they could work online and then we had a day 3 finale where they presented. Hackathon ended up delivering about 2000 participants (200%) increase from previous years.
 
-**Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
-
-
 
 **Give me an example of a time when you didn't think you were going to meet the commitments you promised. (Deadlines, timing, etci.)**
 
@@ -43,6 +40,9 @@ why extrahop
 - **Task:** Initially was set a task to build pipelines for three different types of data: pharmaceutical, insurance and tele-consultation. However, realized that there was a lot of learning I needed to fully understand the whole process within a 2-month time frame.
 - **Action:** About a quarter of the way, sat down with my manager, realigned my values of joining the company, decided on focusing on building just 1 pipeline for pharmacy data but scalable and that could be used as a template for future interns. Talked to mentors, coworkers and even people on other teams on how to build these while being able to go through previous documentation to fully grasp the outline.
 - **Result:** Automated the ETL pipeline daily aggregating over 100k+ data, help to basically make tasks less repetitive for data consumer teams and more automatic. Documented the entire process from A-Z on confluence and learned how to seek help when needed
+
+**Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
+
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
