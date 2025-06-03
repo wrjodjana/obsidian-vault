@@ -8,5 +8,8 @@
 >Positive x represents East, Positive y represents North
 
 **Questions**
-- 
+- Is s always going to be non negative
 - Any constraints on maximum number of steps?
+
+**Approach**
+- Go through the spiral, look at pattern (1 East, 1 North, 2 West, 2 Sout)
