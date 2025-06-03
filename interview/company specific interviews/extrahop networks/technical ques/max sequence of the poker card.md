@@ -13,7 +13,12 @@
 **Code:**
 ```Python
 def maxSeq(cards):
+
 	parsed_cards = []
 	for card in cards:
-		
+		suit = card[0]
+		rank = card[1:]
+		parsed_cards.append((suit, rank))
+
+	
 ```
