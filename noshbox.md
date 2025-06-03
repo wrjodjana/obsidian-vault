@@ -63,5 +63,5 @@ feedback
 - ambar india
 	- teletec POS system
 	- asked about the pricing systems, commission
-	- 
+
 
