@@ -47,7 +47,7 @@ why extrahop
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
 - **Situation:** At a hackathon, we were building a restaurant recommendation system to help people find restaurants in Illinois based on previous preferences
-- **Task:** 
+- **Task:** We split off into different sections where me and my other friend worked on the collaborative and content based filtering
 
 
 **Tell me about a time you had to make trade-offs to complete an important project.**
