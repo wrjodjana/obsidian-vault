@@ -51,5 +51,28 @@ def spiral(steps):
 **Extension 1:** Instead of assuming that you start at (0, 0) facing East, modify your function to also accept an starting x coordinate, y coordinate, and direction
 
 ```Python
+def spiral(steps, start_x, start_y, direction):
+	if steps == 0:
+		return (start_x,start_y)
 
+	directions = [(1, 0),(0, 1), (-1, 0), (0, -1)]
+
+	x, y = 0, 0
+	curr_dir = 0
+	curr_len = 1
+	steps_left = steps
+
+	while steps_left > 0:
+		curr_steps = min(steps_left, curr_len)
+		dx, dy = directions[curr_dir]
+		x += (dx * curr_steps)
+		y += (dy * curr_steps)
+		steps_left -= curr_steps
+
+		curr_dir = (curr_dir+1) % 4
+
+		if curr_dir % 2 == 0:
+			curr_len += 1
+
+	return (x, y)
 ```
