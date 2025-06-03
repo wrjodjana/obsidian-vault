@@ -45,7 +45,7 @@ why extrahop
 
 **Tell me about a challenging problem you faced where the usual/typical approach was not going to work.**
 
-- **Situation:** 
+- **Situation:** Worked as a technical director, 
 - **Task:**
 - **Action**:
 - **Result:**
