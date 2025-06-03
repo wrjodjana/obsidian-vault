@@ -20,5 +20,5 @@ def maxSeq(cards):
 		rank = card[1:]
 		parsed_cards.append((suit, rank))
 
-	
+	def 
 ```
