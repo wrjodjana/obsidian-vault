@@ -52,4 +52,6 @@ def maxSeq(cards):
 ```
 
 **Time/Space Complexity**
-- Time 
+- Time Complexity: $O(n!)$ since the worst case is we explore all permutations of the card
+- Space Complexity: $O(n)$ due to recursion stack depth and set storage
+

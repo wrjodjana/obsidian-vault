@@ -12,6 +12,10 @@
 > Output: "bb"
 ****
 
+Que
+
+
+
 Answer:
 ```Python
 def longestPalindrome(s):
