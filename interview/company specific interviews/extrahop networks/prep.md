@@ -1,4 +1,4 @@
-behavioural questions + recruiter call
+behavioral questions + recruiter call
 
 intro
 - cs and statistics junior studying at uiuc
