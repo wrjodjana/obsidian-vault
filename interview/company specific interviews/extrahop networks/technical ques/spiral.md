@@ -8,7 +8,7 @@
 >Positive x represents East, Positive y represents North
 
 **Questions**
-- Is s always going to be non negative
+- Is s always going to be non negative values?
 - Any constraints on maximum number of steps?
 
 **Approach**
