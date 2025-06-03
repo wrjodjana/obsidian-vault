@@ -77,4 +77,7 @@ Fulfilling requirements:
 	- `thread_states[curr_char] += 1`
 2. All characters consumed in order, threads wait if needed
 	- `for curr_char in chars:`
-3. 
+3. Each character consumed by only one thread
+	- `thread_states[curr_char] -= 1`
+4. Thread reuse after completion
+	- `COMPLETE`state or `if thread_states["COMPLETE"] > 0`
