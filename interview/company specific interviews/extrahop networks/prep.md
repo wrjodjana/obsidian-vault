@@ -42,7 +42,7 @@ why extrahop
 - **Situation:** Worked as a data engineering intern at a healthcare company building out pipelines for data consumers teams (bi analysts)
 - **Task:** Initially was set a task to build pipelines for three different types of data: pharmaceutical, insurance and tele-consultation. However, realized that there was a lot of learning I needed to fully understand the whole process within a 2-month time frame.
 - **Action:** About a quarter of the way, sat down with my manager, realigned my values of joining the company, decided on focusing on building just 1 pipeline for pharmacy data but scalable and that could be used for the future. 
-- **Result:**
+- **Result:** Automated the ETL pipeline daily aggregating over 100k+ data, help to basically make tasks less repetitive for data consumer teams and more automatic
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
