@@ -50,4 +50,4 @@ why extrahop
 **Tell me about a time you had to make trade-offs to complete an important project.**
 
 - **Situation:** Worked as a ml research assistant to help detect emotional tones during interview, further creating intervention strategies for young adults with disabilities
-- **Task:** 
+- **Task:** We were in a rush to complete the paper they needed to
