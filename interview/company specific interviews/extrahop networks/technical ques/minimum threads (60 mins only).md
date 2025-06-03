@@ -12,4 +12,9 @@
 - What if the input list/target word is empty? what should it return
 - What does "consume characters in order" mean for the list? Does this mean we process the list from left to right and no thread can skip ahead?
 
+**Understand:**
+- Threads that need form the target word by consuming characters in order
+- Each thread maintains its current position in the target word (which character it needs next)
+- Characters from list must be consumed sequentially
+
 **Approach**
