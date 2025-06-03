@@ -9,6 +9,7 @@
 - Try every possible starting card, for each card find all the cards with the same suit/rank that hasn't been used yet
 - Recursively explore each valid next card and continue the sequence from there
 - Use dfs with backtracking meaning to fully explore one path, then backtrack by putting the card down and trying other possibilities
+- Keep track of longest sequence found across all starting points and all paths
 
 
 **Code:**
@@ -49,3 +50,6 @@ def maxSeq(cards):
 
 	return res
 ```
+
+**Time/Space Complexity**
+- Time 
