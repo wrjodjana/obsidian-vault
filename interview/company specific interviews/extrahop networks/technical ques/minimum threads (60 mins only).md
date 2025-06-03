@@ -38,5 +38,6 @@ def minThreads(chars, word):
 		else:
 			char_to_next[[word[i]]] = word[i + 1]
 
-	
+	# initialize the thread state tracking
+	# 
 ```
