@@ -79,5 +79,5 @@ def minThreads(chars, word):
 ```
 
 Time/Space Complexity:
-- Time Complexity:
-	- 
+- Time Complexity: O(n+m) where n = length of chars and m = length of target word
+- Space Complexity: O()
