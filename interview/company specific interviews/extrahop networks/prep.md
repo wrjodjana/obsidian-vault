@@ -47,8 +47,8 @@ why extrahop
 
 - **Situation:** Worked as a technical director at Garuda Hacks, helped to find technical sponsorships and ensure hackathon experience was running.
 - **Task:** Realized Indonesia had a tech winter, meaning that alot of VCs and tech companies were not sponsoring these events
-- **Action**: Pivoted towards more uncharacteristic approach by going to FMCGs 
-- **Result:**
+- **Action**: Pivoted towards more uncharacteristic approach by going to FMCGs, smaller VCs and also getting government support
+- **Result:** Hosted largest hybrid hackathon in Indonesia, raising more capital then we needed (enough to supplement half of next year), improved hackathon space beyond just tech
 
 **Tell me about a time you made a mistake that negatively impacted the team you were working with.**
 
