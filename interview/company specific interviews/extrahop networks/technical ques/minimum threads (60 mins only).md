@@ -18,4 +18,6 @@
 - Characters from list must be consumed sequentially (no skipping ahead)
 
 **Approach**
-- Brute force: Trying like with 1 thread, 2 threads, 3 threads etc. until a configuration would work. For each number of threads simulate the process, go through character list one by one assign each character to any available thread that needs it and see if all characters get consumed and all threads completes their work. return minimum number of threads that successfuly processes list, or -1
+- **Brute force:** Trying like with 1 thread, 2 threads, 3 threads etc. until a configuration would work. For each number of threads simulate the process, go through character list one by one assign each character to any available thread that needs it and see if all characters get consumed and all threads completes their work. return minimum number of threads that successfully processes list, or -1
+- **Optimal:**
+	- 
