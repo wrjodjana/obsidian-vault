@@ -20,5 +20,8 @@ def maxSeq(cards):
 		rank = card[1:]
 		parsed_cards.append((suit, rank))
 
-	def 
+	def valid(card1, card2):
+		return card1[0] == card2[0] or card1[1] == card2[1]
+
+	def dfs()
 ```
