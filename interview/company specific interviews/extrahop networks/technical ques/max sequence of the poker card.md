@@ -30,7 +30,6 @@ def maxSeq(cards):
 		for i in range(n):
 			if i in visited:
 				continue
-
 				if valid(parsed_cards[last_idx], parsed_cards[i]):
 					visited.add(i)
 					length = 1 + dfs(i, visited)
