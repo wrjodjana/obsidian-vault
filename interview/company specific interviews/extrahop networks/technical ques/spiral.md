@@ -93,7 +93,16 @@ def spiral(final_x, final_y):
 	while True:
 		dx, dy = directions[curr_dir]
 
-		for steps in 
+		for steps in range(curr_len):
+			x += dx
+			y += dy
+			total_steps += 1
+			if x == target_x and y == target_y:
+				return total_steps
+
+		curr_dir = (curr_dir + 1) % 4
+		if curr_dir % 2 == 0:
+			curr_len += 1
 ```
 
 
