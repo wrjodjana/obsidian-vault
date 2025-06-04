@@ -30,11 +30,11 @@ def maxSeq(cards):
 		for i in range(n):
 			if i in visited:
 				continue
-				if valid(parsed_cards[last_idx], parsed_cards[i]):
-					visited.add(i)
-					length = 1 + dfs(i, visited)
-					max_length = max(max_length, length)
-					visited.remove(i)
+			if valid(parsed_cards[last_idx], parsed_cards[i]):
+				visited.add(i)
+				length = 1 + dfs(i, visited)
+				max_length = max(max_length, length)
+				visited.remove(i)
 		
 		return max_length
 
@@ -85,10 +85,11 @@ def maxSeq(cards):
 	res = 0
 	visited = set()
 	for i in range(n):
-		visited.add(i)
-		length = dfs(i, visited)
-		visited.remove(i)
-		res = max(res, length)
+		if parsed_cards[i][0] == "H":
+			visited.add(i)
+			length = dfs(i, visited)
+			visited.remove(i)
+			res = max(res, length)
 
 	return res
 ```
