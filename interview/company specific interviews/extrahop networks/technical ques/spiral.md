@@ -90,7 +90,10 @@ def spiral(final_x, final_y):
 	curr_len = 1
 	total_steps = 0
 
-	
+	while True:
+		dx, dy = directions[curr_dir]
+
+		for steps in 
 ```
 
 
