@@ -88,6 +88,8 @@ def spiral(final_x, final_y):
 	x, y = 0, 0
 	curr_dir = 0
 	curr_len = 1
+	total_steps = 0
+
 	
 ```
 
