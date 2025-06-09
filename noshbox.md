@@ -68,5 +68,5 @@ feedback
 engineering meeting
 - thai fusion
 	- In-store system for square and chowbus is for to go and on tablet
-	- Online order (doordash, grubhub, fantu) is through manual writing but square/chowbus has its own printer
-	-
+	- Online order (doordash, grubhub, fantuan etc.) is through manual writing but square/chowbus has its own printer
+	- Pay ahead of time through the application without hassle
