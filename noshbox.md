@@ -67,4 +67,5 @@ feedback
 
 engineering meeting
 - thai fusion
-	- In-store system for 
+	- In-store system for square and chowbus is for to go and on tablet
+	- Online order is through square and all 
