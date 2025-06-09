@@ -65,3 +65,6 @@ feedback
 	- asked about the pricing systems, commission
 
 
+engineering meeting
+- thai fusion
+	- 
