@@ -71,4 +71,5 @@ engineering meeting
 	- Online order (doordash, grubhub, fantuan etc.) is through manual writing but square/chowbus has its own printer
 	- Pay ahead of time through the application without hassle
 	- Dont want to do the mystery box at the moment because nothing leftover since they make food based on order
+	- There is a printer and it does have bluetooth connection
 	- 
