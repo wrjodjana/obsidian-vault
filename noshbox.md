@@ -72,4 +72,4 @@ engineering meeting
 	- Pay ahead of time through the application without hassle
 	- Dont want to do the mystery box at the moment because nothing leftover since they make food based on order
 	- There is a printer and it does have bluetooth connection
-	- 
+	- The one in the union doesnt get online order so start here
