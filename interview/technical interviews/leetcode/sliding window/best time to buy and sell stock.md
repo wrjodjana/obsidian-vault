@@ -21,5 +21,13 @@ def maxProfit(prices):
 
 	for r in range(len(prices)):
 		if prices[l] < prices[r]:
-			
+			curr_profit = prices[r] - prices[l]
+			max_profit = max(max_profit, curr_profit)
+		else:
+			l = r
+
+	return max_profit
 ```
+
+**Algorithm Complexity**
+- Time Complexity: $O(n)$ since we are looping through the array
