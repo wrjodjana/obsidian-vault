@@ -3,6 +3,6 @@
 >
 >You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
 >
-  
-  Return _the maximum profit you can achieve from this transaction_. If you cannot achieve any profit, return `0`.
-  
+>Return _the maximum profit you can achieve from this transaction_. If you cannot achieve any profit, return `0`.
+
+**Initial Questions**
