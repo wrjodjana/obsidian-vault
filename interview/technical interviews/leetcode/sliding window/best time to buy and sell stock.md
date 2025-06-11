@@ -30,4 +30,6 @@ def maxProfit(prices):
 ```
 
 **Algorithm Complexity**
-- Time Complexity: $O(n)$ since we are looping through the array
+- Time Complexity: $O(n)$ since we are looping through the array once, where $n$ is the length of the array
+- Space Complexity: $O(1)$ since we are not using any additional data structures and all variables are constant time
+
