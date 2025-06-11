@@ -16,5 +16,10 @@
 **Code**
 ```Python
 def maxProfit(prices):
-	
+	l = 0
+	max_profit = 0
+
+	for r in range(len(prices)):
+		if prices[l] < prices[r]:
+			
 ```
