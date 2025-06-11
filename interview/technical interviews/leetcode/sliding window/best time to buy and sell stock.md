@@ -11,7 +11,7 @@
 
 **Explanation**
 - Brute Force: Basically loop through the entire array twice, and using the two indexes find the profit which is the sell price minus the buy price. Keep on updating this profit with a variable outside of the loop - time complexity: $O(n^2)$
-- Optimal: Hold a left pointer and loop through the array using a right pointer. If the value at the left pointer is smaller then at the right pointer then find the profit and update the maximum profit. If not, move the left pointer to the right pointer's position.
+- Optimal: Hold a left pointer and loop through the array from the second value using a right pointer. If the value at the left pointer is smaller then at the right pointer then find the profit and update the maximum profit. If not, move the left pointer to the right pointer's position.
 
 **Code**
 ```Python
@@ -19,7 +19,7 @@ def maxProfit(prices):
 	l = 0
 	max_profit = 0
 
-	for r in range(len(prices)):
+	for r in range(1, len(prices)):
 		if prices[l] < prices[r]:
 			curr_profit = prices[r] - prices[l]
 			max_profit = max(max_profit, curr_profit)
