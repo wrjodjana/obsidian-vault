@@ -7,4 +7,7 @@
 
 **Initial Questions**
 1. Are prices always integers, or could they be floats?
-2. 
+2. What should i return for empty array or array with one element?
+
+**Explanation**
+- Brute Force 
