@@ -6,4 +6,5 @@
 >Return _the maximum profit you can achieve from this transaction_. If you cannot achieve any profit, return `0`.
 
 **Initial Questions**
-1. 
+1. Are prices always integers, or could they be floats?
+2. 
