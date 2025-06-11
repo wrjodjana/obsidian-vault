@@ -10,4 +10,4 @@
 2. What should i return for empty array or array with one element?
 
 **Explanation**
-- Brute Force 
+- Brute Force: 
