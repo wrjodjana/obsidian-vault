@@ -14,3 +14,7 @@
 - Optimal: Hold a left pointer and loop through the array using a right pointer. If the value at the left pointer is smaller then at the right pointer then find the profit and update the maximum profit. If not, move the left pointer to the right pointer's position.
 
 **Code**
+```Python
+def maxProfit(prices):
+	
+```
