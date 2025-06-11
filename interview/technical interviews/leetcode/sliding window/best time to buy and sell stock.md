@@ -10,4 +10,5 @@
 2. What should i return for empty array or array with one element?
 
 **Explanation**
-- Brute Force: Basically loop through the entire array twice, and using the two indexes find the profit (`prices[i] - prices[j]')
+- Brute Force: Basically loop through the entire array twice, and using the two indexes find the profit which is the sell price minus the buy price. Keep on updating this profit with a variable outside of the loop
+- 
