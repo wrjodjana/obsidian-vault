@@ -3,4 +3,6 @@
 
 **Initial Questions**
 1. What kind of values could "s" be? letters, digits, symbols etc.
-2. What 
+
+**Algorithm:**
+- 
