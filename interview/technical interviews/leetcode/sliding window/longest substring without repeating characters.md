@@ -12,5 +12,5 @@
 def lengthOfLongestSubstring(s):
 	l = 0
 	res = 0
-	
+	char_set = set()
 ```
