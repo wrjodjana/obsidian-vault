@@ -23,3 +23,6 @@ def lengthOfLongestSubstring(s):
 
 	return res
 ```
+
+**Algorithm Complexity**
+- Time Complexity: $O(n)$ since we are looping through the array once a
