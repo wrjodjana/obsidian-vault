@@ -8,4 +8,4 @@
 2. Could integer `k` be a negative value or 0, and how to handle those cases?
 
 **Explanation:**
-- Optimal:
+- Optimal: 
