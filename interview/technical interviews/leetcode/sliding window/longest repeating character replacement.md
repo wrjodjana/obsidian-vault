@@ -7,3 +7,5 @@
 1. What's the maximum number of unique characters in string `s`?
 2. Could integer `k` be a negative value or 0, and how to handle those cases?
 
+**Explanation:**
+- Optimal:
