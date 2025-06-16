@@ -26,4 +26,4 @@ def lengthOfLongestSubstring(s):
 
 **Algorithm Complexity**
 - Time Complexity: $O(n)$ since we are looping through the array once, where $n$ is the length of the array
-- Space Complexity: $O(k)$ since the set has $k$ maximum unique characters in the string
+- Space Complexity: $O(k)$ since the set has maximum $k$ unique characters possible 
