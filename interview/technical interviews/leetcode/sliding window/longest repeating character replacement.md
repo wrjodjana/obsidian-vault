@@ -4,4 +4,5 @@
 >Return _the length of the longest substring containing the same letter you can get after performing the above operations_.
 
 **Questions:**
-1. 
+1. What's the maximum number of unique characters in string `s`?
+2. Could integer `k`
