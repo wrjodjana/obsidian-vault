@@ -8,4 +8,5 @@
 2. Could integer `k` be a negative value or 0, and how to handle those cases?
 
 **Explanation:**
+- Brute force: Checking every possible substring and checking if it can have all same characters with at most `k` changes.
 - Optimal: 
