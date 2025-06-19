@@ -19,5 +19,15 @@ def longestRepeating(s, k):
 	res = 0
 	l = 0
 
-	for r in range(len)
+	for r in range(len(s)):
+		curr_freq[s[r]] += 1
+		max_freq = max(max_freq, curr_freq[s[r]])
+		while (r - l + 1) - max_freq > k:
+			l += 1
+			curr_freq[s[l]] -= 1
+		res = max(res, r-l+1)
+
+	return res
 ```
+
+**A**
