@@ -10,3 +10,14 @@
 **Explanation:**
 - Brute force: Checking every possible substring and checking if it can have all same characters with at most `k` changes.
 - Optimal: Use sliding window when it's a valid substring. Keep track of the frequency of the current character in the window and track the count of the most frequent character in the window. Then find the current number of changes needed which is the substring length minus the count of the most frequent number. If this value exceeds the `k` then we shorten the window, then update the result of the current window.
+
+**Code:**
+```Python
+def longestRepeating(s, k):
+	curr_freq = defaultdict(int)
+	max_freq = 0
+	res = 0
+	l = 0
+
+	for r in range(len)
+```
