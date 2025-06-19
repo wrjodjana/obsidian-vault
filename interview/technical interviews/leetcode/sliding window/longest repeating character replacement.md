@@ -30,4 +30,5 @@ def longestRepeating(s, k):
 	return res
 ```
 
-**A**
+**Algorithm Complexity**
+1. Time Complexity: 
