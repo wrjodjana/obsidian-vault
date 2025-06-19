@@ -9,4 +9,4 @@
 
 **Explanation:**
 - Brute force: Checking every possible substring and checking if it can have all same characters with at most `k` changes.
-- Optimal: 
+- Optimal: Use sliding window when it's a valid substring and change it. Keep track of the frequency of the current character in the window and track the count of the most frequent character in the window. 
