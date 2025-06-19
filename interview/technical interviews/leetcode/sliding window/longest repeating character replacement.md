@@ -31,4 +31,5 @@ def longestRepeating(s, k):
 ```
 
 **Algorithm Complexity**
-1. Time Complexity: $O(n)$ since we loop through the array once, and 
+1. Time Complexity: $O(n)$ since we each value is visited only once
+2. Space Complexity: $O(1)$ since we don't use any additional data structure
