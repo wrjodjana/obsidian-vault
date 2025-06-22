@@ -35,8 +35,7 @@
               "title": "minimum window substring"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5c097e4aacdf537",
+  "active": "9879cb7012809bfd",
   "lastOpenFiles": [
-    "interview/technical interviews/leetcode/sliding window/longest repeating character replacement.md",
     "interview/technical interviews/leetcode/sliding window/minimum window substring.md",
+    "interview/technical interviews/leetcode/sliding window/longest repeating character replacement.md",
     "interview/technical interviews/leetcode/sliding window/best time to buy and sell stock.md",
     "interview/technical interviews/leetcode/sliding window/longest substring without repeating characters.md",
     "interview/images/subarray.png",
