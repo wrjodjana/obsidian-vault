@@ -10,5 +10,8 @@
 - Optimal: Using sliding window approach by having one pointer going over the array and the other resizing the window. Add the current character into our window continuously then check if this character is also inside `t`. We resize the window when the number of characters in `t` is equal to the unique characters of `t` in the current window. Next, we update the minimum window and start resizing the window by removing the character and incrementally moving the second pointer. 
 
 **Code:**
-```
+```Python
+def minWindow(s, t):
+	t_freq = defaultdict(int)
+	
 ```
