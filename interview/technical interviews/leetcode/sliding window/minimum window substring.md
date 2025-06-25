@@ -27,5 +27,12 @@ def minWindow(s, t):
 
 	for r in range(len(s)):
 		curr_freq[s[r]] += 1
-	
+
+		if s[r] in t_freq and curr_freq[s[r]] == t_freq[s[r]]:
+			unique_char += 1
+
+		while l <= r and required == unique_char:
+			if r-l+1 < min_len:
+				min_len = r-l+1
+				min_st
 ```
