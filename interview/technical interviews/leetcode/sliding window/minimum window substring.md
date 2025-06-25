@@ -13,5 +13,14 @@
 ```Python
 def minWindow(s, t):
 	t_freq = defaultdict(int)
-		
+	for c in t:
+		t_freq[c] += 1
+
+	required = len(t_freq)
+
+	l = 0
+	min_start = 0
+	min_len = float("inf")
+
+	
 ```
