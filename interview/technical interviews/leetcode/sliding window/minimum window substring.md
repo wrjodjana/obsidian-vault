@@ -22,5 +22,10 @@ def minWindow(s, t):
 	min_start = 0
 	min_len = float("inf")
 
+	unique_char = 0
+	curr_freq = defaultdict(int)
+
+	for r in range(len(s)):
+		curr_freq[s[r]] += 1
 	
 ```
