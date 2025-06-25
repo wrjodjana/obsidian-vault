@@ -7,4 +7,4 @@
 - What happens when the length of `t` is greater then the length of `s`?
 
 **Explanation**
-- Optimal: Using sliding window approach by having one pointer going over the array and the other resizing the window. 
+- Optimal: Using sliding window approach by having one pointer going over the array and the other resizing the window. Add the current character into our window continuously then check if this character is also inside `t`. We resize the window when 
