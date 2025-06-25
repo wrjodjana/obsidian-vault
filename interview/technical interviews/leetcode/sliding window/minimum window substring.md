@@ -7,4 +7,4 @@
 - What happens when the length of `t` is greater then the length of `s`?
 
 **Explanation**
-- 
+- Optimal: Using sliding window approach by having one pointer 
