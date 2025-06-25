@@ -42,5 +42,8 @@ def minWindow(s, t):
 
 			l += 1
 
-	return 
+	return s[min_start:min_start+min_len] if min_len != float("inf") else ""
 ```
+
+**Algorithm Complexity:**
+- Time Complexity: 
