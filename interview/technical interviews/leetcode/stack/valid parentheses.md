@@ -6,3 +6,8 @@
 >3. Every close bracket has a corresponding open bracket of the same type.
 
 **Initial Questions**
+- What would happen if the string was empty?
+- Imagine we had a scenario like `([]}`, would this return false?
+
+Explanation
+- Optimal: Using a stack to keep adding to our
