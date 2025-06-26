@@ -47,4 +47,5 @@ def minWindow(s, t):
 
 **Algorithm Complexity:**
 - Time Complexity: $O(t + s)$ since we are building the frequency map of string `t` and each character in `s` is visited at most twice
-- 
+- Space Complexity: $O(t + s)$ since the max number of characters stored in both frequency maps is equal to the number of characters in `s` and `t` respectively
+
