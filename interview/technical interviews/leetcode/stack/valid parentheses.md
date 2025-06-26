@@ -35,4 +35,4 @@ def isValid(s):
 
 **Algorithm Complexity:**
 - Time Complexity: $O(n)$ since we loop through the array once
-- Space Complexity: $O(1)$ since the stack is not an additional data structure, its just an array in the context of pytrh
+- Space Complexity: $O(1)$ since the stack is not an additional data structure, its just an array in the context of python
