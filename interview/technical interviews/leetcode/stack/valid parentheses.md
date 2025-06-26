@@ -10,4 +10,4 @@
 - Imagine we had a scenario like `([]}`, would this return false?
 
 Explanation
-- Optimal: Using a stack to keep adding the
+- Optimal: Using a stack to keep adding the open brackets in the list, then if we reach a close bracket then check if the top of the stack is that corresponding open bracket to that close bracket. If not, then we return false. If it is then continue until the string is finished then 
