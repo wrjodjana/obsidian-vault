@@ -10,4 +10,4 @@
 - Imagine we had a scenario like `([]}`, would this return false?
 
 Explanation
-- Optimal: Using a stack to keep adding to our
+- Optimal: Using a stack to keep adding the
