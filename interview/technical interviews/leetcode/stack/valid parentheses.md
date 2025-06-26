@@ -30,6 +30,6 @@ def isValid(s):
 				stack.pop()
 			else:
 				return False
-	return len()
+	return len(stack) == 0
 ```
 
