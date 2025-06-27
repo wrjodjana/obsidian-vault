@@ -33,5 +33,12 @@ class MinStack:
 		self.stack.pop()
 		self.min_stack.pop()
 
-	def top
+	def top(self):
+		return self.stack[-1]
+
+	def getMin(self):
+		return self.min_stack[-1]
 ```
+
+**Algorithm Complexity:**
+- Time Complexity: 
