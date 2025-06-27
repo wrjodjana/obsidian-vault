@@ -13,4 +13,4 @@
 1. Are we allowed to use like existing functions in Python?
 
 **Explanation:**
-- 
+- Optimal: For the stack object, just initialize two stacks (as lists) one where its the normal stack and the other for the minimum element at the top. `int pop()` is self-explanatory, just use the `pop()` function in python. 
