@@ -41,4 +41,5 @@ class MinStack:
 ```
 
 **Algorithm Complexity:**
-- Time Complexity: 
+- Time Complexity: $O(1)$ since everything is constant time
+- Space Complexity: $O(n)$ since the max number of elements in the s
