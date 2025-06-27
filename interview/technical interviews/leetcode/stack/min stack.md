@@ -22,5 +22,16 @@ class MinStack:
 		self.stack = []
 		self.min_stack = []
 
-	def 
+	def push(self, val):
+		self.stack.append(val)
+		if len(self.min_stack) == 0:
+			self.min_stack.append(val)
+		else:
+			self.min_stack.append(min(min_stack[-1], val))
+
+	def pop(self):
+		self.stack.pop()
+		self.min_stack.pop()
+
+	def top
 ```
