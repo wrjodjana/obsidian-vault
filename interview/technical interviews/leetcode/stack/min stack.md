@@ -12,4 +12,5 @@
 **Initial Questions:**
 1. Are we allowed to use like existing functions in Python?
 
-Explanation:
+**Explanation:**
+- 
