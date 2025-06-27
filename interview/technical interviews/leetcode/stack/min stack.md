@@ -13,4 +13,4 @@
 1. Are we allowed to use like existing functions in Python?
 
 **Explanation:**
-- Optimal: For the stack object, just initialize two stacks (as lists) one where its the normal stack and the other for the minimum element at the top. `int pop()` is self-explanatory, just use the `pop()` function in python. 
+- Optimal: For the stack object, just initialize two stacks (as lists) one where its the normal stack and the other for the minimum element at the top. `pop()` is self-explanatory, just use the `pop()` function in python. `top()` and `getMin()` would just be getting the top value in each stack respectively. `push(val)` is just adding the value to the normal stack then for the stack with the minimum element at the to
