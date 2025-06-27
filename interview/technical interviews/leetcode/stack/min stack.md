@@ -17,5 +17,10 @@
 
 **Code:**
 ```Python
+class MinStack:
+	def __init__(self):
+		self.stack = []
+		self.min_stack = []
 
+	def 
 ```
