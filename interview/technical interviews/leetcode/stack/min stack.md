@@ -9,3 +9,7 @@
 >
 >You must implement a solution with `O(1)` time complexity for each function.
 
+**Initial Questions:**
+1. Are we allowed to use like existing functions in Python?
+
+Explanation:
